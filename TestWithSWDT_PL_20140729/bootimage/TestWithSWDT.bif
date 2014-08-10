@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]C:\Users\lenovo\project_4\fsbl\Debug\fsbl.elf
+	C:\Users\lenovo\project_4\asaa\system_wrapper.bit
+	C:\Users\lenovo\project_4\TestWithSWDT\Debug\TestWithSWDT.elf
+}

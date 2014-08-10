@@ -1,0 +1,16 @@
+Copyright 1986-1999, 2001-2013 Xilinx, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------
+| Tool Version : Vivado v.2013.4 (win32) Build 353583 Mon Dec  9 17:38:55 MST 2013
+| Date         : Thu Jul 24 13:36:44 2014
+| Host         : Duran-PC running 64-bit major release  (build 7600)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+-----------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_withPL_Adams_Peripheral_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_withPL_Adams_Peripheral_0_0 (xilinx.com:user:Adams_Peripheral:1.1) from (Rev. 2) to (Rev. 3)
+

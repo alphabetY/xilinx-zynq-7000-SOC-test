@@ -1,0 +1,14 @@
+E:\Code\C#\XilinxTester\bin\Release\XilinxTester.exe.config
+E:\Code\C#\XilinxTester\bin\Release\XilinxTester.exe
+E:\Code\C#\XilinxTester\bin\Release\XilinxTester.pdb
+E:\Code\C#\XilinxTester\obj\Release\MainWindow.baml
+E:\Code\C#\XilinxTester\obj\Release\ConfigWindow.g.cs
+E:\Code\C#\XilinxTester\obj\Release\MainWindow.g.cs
+E:\Code\C#\XilinxTester\obj\Release\App.g.cs
+E:\Code\C#\XilinxTester\obj\Release\XilinxTester_MarkupCompile.cache
+E:\Code\C#\XilinxTester\obj\Release\ConfigWindow.baml
+E:\Code\C#\XilinxTester\obj\Release\XilinxTester.g.resources
+E:\Code\C#\XilinxTester\obj\Release\XilinxTester.Properties.Resources.resources
+E:\Code\C#\XilinxTester\obj\Release\XilinxTester.csproj.GenerateResource.Cache
+E:\Code\C#\XilinxTester\obj\Release\XilinxTester.exe
+E:\Code\C#\XilinxTester\obj\Release\XilinxTester.pdb

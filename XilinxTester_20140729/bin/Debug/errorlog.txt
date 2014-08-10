@@ -1,0 +1,4046 @@
+2014-7-29 10:53:35'414" ：TestStart...
+2014-7-29 10:53:35'730" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:53:36'31" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:53:36'332" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:53:36'632" ：外设测试结束
+2014-7-29 10:53:36'934" ：MemoryTesting OK
+2014-7-29 10:53:37'234" ：Memory测试结束
+2014-7-29 10:53:37'535" ：MemoryTesting OK
+2014-7-29 10:53:37'837" ：Memory测试结束
+2014-7-29 10:53:38'137" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:53:38'438" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:53:38'739" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:53:39'40" ：外设测试结束
+2014-7-29 10:53:39'341" ：MemoryTesting OK
+2014-7-29 10:53:39'641" ：Memory测试结束
+2014-7-29 10:53:39'942" ：MemoryTesting OK
+2014-7-29 10:53:40'242" ：Memory测试结束
+2014-7-29 10:53:40'543" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:53:40'844" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:53:41'145" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:53:41'445" ：外设测试结束
+2014-7-29 10:53:41'746" ：MemoryTesting OK
+2014-7-29 10:53:42'47" ：Memory测试结束
+2014-7-29 10:53:42'348" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:53:42'648" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:53:42'948" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:53:43'249" ：外设测试结束
+2014-7-29 10:53:43'550" ：MemoryTesting OK
+2014-7-29 10:53:43'850" ：Memory测试结束
+2014-7-29 10:53:44'151" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:53:44'452" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:53:44'752" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:53:45'54" ：外设测试结束
+2014-7-29 10:53:45'355" ：MemoryTesting OK
+2014-7-29 10:53:45'656" ：Memory测试结束
+2014-7-29 10:53:45'957" ：MemoryTesting OK
+2014-7-29 10:53:46'258" ：Memory测试结束
+2014-7-29 10:53:46'559" ：MemoryTesting OK
+2014-7-29 10:53:46'859" ：Memory测试结束
+2014-7-29 10:53:47'161" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:53:47'461" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:53:47'761" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:53:48'62" ：外设测试结束
+2014-7-29 10:53:48'363" ：MemoryTesting OK
+2014-7-29 10:53:48'664" ：Memory测试结束
+2014-7-29 10:53:48'964" ：MemoryTesting OK
+2014-7-29 10:53:49'266" ：Memory测试结束
+2014-7-29 10:53:49'567" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:53:49'867" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:53:50'168" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:53:50'469" ：外设测试结束
+2014-7-29 10:53:50'770" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:53:51'71" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:53:51'372" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:53:51'672" ：外设测试结束
+2014-7-29 10:53:51'974" ：MemoryTesting OK
+2014-7-29 10:53:52'275" ：Memory测试结束
+2014-7-29 10:53:52'575" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:53:52'876" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:53:53'177" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:53:53'478" ：外设测试结束
+2014-7-29 10:53:53'779" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:53:54'79" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:53:54'379" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:53:54'680" ：外设测试结束
+2014-7-29 10:53:54'981" ：MemoryTesting OK
+2014-7-29 10:53:55'281" ：Memory测试结束
+2014-7-29 10:53:55'582" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:53:55'883" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:53:56'184" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:53:56'484" ：外设测试结束
+2014-7-29 10:53:56'785" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:53:57'85" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:53:57'386" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:53:57'687" ：外设测试结束
+2014-7-29 10:53:57'988" ：MemoryTesting OK
+2014-7-29 10:53:58'289" ：Memory测试结束
+2014-7-29 10:53:58'590" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:53:58'890" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:53:59'191" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:53:59'492" ：外设测试结束
+2014-7-29 10:53:59'793" ：MemoryTesting OK
+2014-7-29 10:54:0'94" ：Memory测试结束
+2014-7-29 10:54:0'395" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:54:0'695" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:54:0'996" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:54:1'297" ：外设测试结束
+2014-7-29 10:54:1'597" ：MemoryTesting OK
+2014-7-29 10:54:1'897" ：Memory测试结束
+2014-7-29 10:54:2'198" ：MemoryTesting OK
+2014-7-29 10:54:2'498" ：Memory测试结束
+2014-7-29 10:54:2'799" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:54:3'100" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:54:3'400" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:54:3'701" ：外设测试结束
+2014-7-29 10:54:4'2" ：MemoryTesting OK
+2014-7-29 10:54:4'302" ：Memory测试结束
+2014-7-29 10:54:4'603" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:54:4'904" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:54:5'205" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:54:5'505" ：外设测试结束
+2014-7-29 10:54:5'806" ：MemoryTesting OK
+2014-7-29 10:54:6'107" ：Memory测试结束
+2014-7-29 10:54:6'408" ：MemoryTesting OK
+2014-7-29 10:54:6'709" ：Memory测试结束
+2014-7-29 10:54:7'10" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:54:7'310" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:54:7'611" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:54:7'912" ：外设测试结束
+2014-7-29 10:54:8'213" ：MemoryTesting OK
+2014-7-29 10:54:8'514" ：Memory测试结束
+2014-7-29 10:54:8'814" ：MemoryTesting OK
+2014-7-29 10:54:9'115" ：Memory测试结束
+2014-7-29 10:54:9'416" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:54:9'717" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:54:10'18" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:54:10'318" ：外设测试结束
+2014-7-29 10:54:10'620" ：MemoryTesting OK
+2014-7-29 10:54:10'920" ：Memory测试结束
+2014-7-29 10:54:11'221" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:54:11'521" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:54:11'822" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:54:12'123" ：外设测试结束
+2014-7-29 10:54:12'423" ：MemoryTesting OK
+2014-7-29 10:54:12'724" ：Memory测试结束
+2014-7-29 10:54:13'25" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:54:13'325" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:54:13'626" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:54:13'926" ：外设测试结束
+2014-7-29 10:54:14'227" ：MemoryTesting OK
+2014-7-29 10:54:14'528" ：Memory测试结束
+2014-7-29 10:54:14'828" ：MemoryTesting OK
+2014-7-29 10:54:15'129" ：Memory测试结束
+2014-7-29 10:54:15'430" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:54:15'731" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:54:16'31" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:54:16'332" ：外设测试结束
+2014-7-29 10:54:16'633" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:54:16'933" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:54:17'234" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:54:17'535" ：外设测试结束
+2014-7-29 10:55:18'945" ：TestStart...
+2014-7-29 10:55:19'251" ：MemoryTesting OK
+2014-7-29 10:55:19'552" ：Memory测试结束
+2014-7-29 10:55:19'853" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:55:20'153" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:55:20'454" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:55:20'755" ：外设测试结束
+2014-7-29 10:55:29'207" ：TestStart...
+2014-7-29 10:55:29'511" ：MemoryTesting OK
+2014-7-29 10:55:29'812" ：Memory测试结束
+2014-7-29 10:55:30'113" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:55:30'413" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:55:30'713" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:55:31'14" ：外设测试结束
+2014-7-29 10:55:37'644" ：TestStart...
+2014-7-29 10:55:37'947" ：MemoryTesting OK
+2014-7-29 10:55:38'248" ：Memory测试结束
+2014-7-29 10:55:38'549" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:55:38'849" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:55:39'150" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:55:39'451" ：外设测试结束
+2014-7-29 10:56:0'202" ：TestStart...
+2014-7-29 10:56:0'508" ：MemoryTesting OK
+2014-7-29 10:56:0'809" ：Memory测试结束
+2014-7-29 10:56:1'110" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:56:1'411" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:56:1'711" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:56:2'12" ：外设测试结束
+2014-7-29 10:56:8'215" ：TestStart...
+2014-7-29 10:56:8'519" ：MemoryTesting OK
+2014-7-29 10:56:8'820" ：Memory测试结束
+2014-7-29 10:56:9'121" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:56:9'421" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:56:9'722" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:56:10'23" ：外设测试结束
+2014-7-29 10:56:16'190" ：TestStart...
+2014-7-29 10:56:16'493" ：MemoryTesting OK
+2014-7-29 10:56:16'794" ：Memory测试结束
+2014-7-29 10:56:17'95" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 10:56:17'395" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 10:56:17'696" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 10:56:17'996" ：外设测试结束
+2014-7-29 11:5:26'607" ：TestStart...
+2014-7-29 11:5:26'916" ：CPUTesting OK
+2014-7-29 11:5:27'217" ：CPU测试结束
+2014-7-29 11:5:27'518" ：CacheTesting OK
+2014-7-29 11:5:27'819" ：Cache测试结束
+2014-7-29 11:5:28'119" ：FPUTesting OK
+2014-7-29 11:5:28'420" ：FPU测试结束
+2014-7-29 11:5:28'721" ：ALUTesting OK
+2014-7-29 11:5:29'22" ：ALU测试结束
+2014-7-29 11:5:29'323" ：MemoryTesting OK
+2014-7-29 11:5:29'623" ：Memory测试结束
+2014-7-29 11:5:29'924" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:5:30'224" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:5:30'525" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:5:30'825" ：外设测试结束
+2014-7-29 11:5:31'126" ：PLTesting OK
+2014-7-29 11:5:31'426" ：PL测试结束
+2014-7-29 11:8:3'673" ：TestStart...
+2014-7-29 11:8:3'996" ：CPUTesting OK
+2014-7-29 11:8:4'297" ：CPU测试结束
+2014-7-29 11:8:4'597" ：CacheTesting OK
+2014-7-29 11:8:4'898" ：Cache测试结束
+2014-7-29 11:8:5'199" ：FPUTesting OK
+2014-7-29 11:8:5'500" ：FPU测试结束
+2014-7-29 11:8:5'801" ：ALUTesting OK
+2014-7-29 11:8:6'102" ：ALU测试结束
+2014-7-29 11:8:6'403" ：MemoryTesting OK
+2014-7-29 11:8:6'704" ：Memory测试结束
+2014-7-29 11:8:7'8" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:8:7'309" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:8:7'609" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:8:7'910" ：外设测试结束
+2014-7-29 11:8:8'211" ：PLTesting OK
+2014-7-29 11:8:8'512" ：PL测试结束
+2014-7-29 11:8:8'813" ：CPUTesting OK
+2014-7-29 11:8:9'114" ：CPU测试结束
+2014-7-29 11:8:9'415" ：CacheTesting OK
+2014-7-29 11:8:9'715" ：Cache测试结束
+2014-7-29 11:8:10'17" ：FPUTesting OK
+2014-7-29 11:8:10'317" ：FPU测试结束
+2014-7-29 11:8:10'618" ：ALUTesting OK
+2014-7-29 11:8:10'918" ：ALU测试结束
+2014-7-29 11:8:11'219" ：MemoryTesting OK
+2014-7-29 11:8:11'520" ：Memory测试结束
+2014-7-29 11:8:11'821" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:8:12'122" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:8:12'423" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:8:12'724" ：外设测试结束
+2014-7-29 11:8:13'25" ：PLTesting OK
+2014-7-29 11:8:13'325" ：PL测试结束
+2014-7-29 11:8:13'626" ：CPUTesting OK
+2014-7-29 11:8:13'926" ：CPU测试结束
+2014-7-29 11:8:14'227" ：CacheTesting OK
+2014-7-29 11:8:14'528" ：Cache测试结束
+2014-7-29 11:8:14'829" ：FPUTesting OK
+2014-7-29 11:8:15'130" ：FPU测试结束
+2014-7-29 11:8:15'430" ：ALUTesting OK
+2014-7-29 11:8:15'731" ：ALU测试结束
+2014-7-29 11:8:16'32" ：MemoryTesting OK
+2014-7-29 11:8:16'333" ：Memory测试结束
+2014-7-29 11:8:16'634" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:8:16'935" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:8:17'236" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:8:17'536" ：外设测试结束
+2014-7-29 11:8:17'837" ：PLTesting OK
+2014-7-29 11:8:18'137" ：PL测试结束
+2014-7-29 11:8:18'438" ：CPUTesting OK
+2014-7-29 11:8:18'738" ：CPU测试结束
+2014-7-29 11:8:19'39" ：CacheTesting OK
+2014-7-29 11:8:19'339" ：Cache测试结束
+2014-7-29 11:8:19'640" ：FPUTesting OK
+2014-7-29 11:8:19'940" ：FPU测试结束
+2014-7-29 11:8:20'241" ：ALUTesting OK
+2014-7-29 11:8:20'542" ：ALU测试结束
+2014-7-29 11:8:20'844" ：MemoryTesting OK
+2014-7-29 11:8:21'144" ：Memory测试结束
+2014-7-29 11:8:21'445" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:8:21'745" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:8:22'46" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:8:22'347" ：外设测试结束
+2014-7-29 11:8:22'648" ：PLTesting OK
+2014-7-29 11:8:22'949" ：PL测试结束
+2014-7-29 11:8:23'250" ：CPUTesting OK
+2014-7-29 11:8:23'551" ：CPU测试结束
+2014-7-29 11:8:23'852" ：CacheTesting OK
+2014-7-29 11:8:24'153" ：Cache测试结束
+2014-7-29 11:8:24'454" ：FPUTesting OK
+2014-7-29 11:8:24'755" ：FPU测试结束
+2014-7-29 11:8:25'56" ：ALUTesting OK
+2014-7-29 11:8:25'357" ：ALU测试结束
+2014-7-29 11:8:25'657" ：MemoryTesting OK
+2014-7-29 11:8:25'958" ：Memory测试结束
+2014-7-29 11:8:26'259" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:8:26'560" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:8:26'860" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:8:27'161" ：外设测试结束
+2014-7-29 11:8:27'462" ：PLTesting OK
+2014-7-29 11:8:27'762" ：PL测试结束
+2014-7-29 11:8:28'63" ：CPUTesting OK
+2014-7-29 11:8:28'364" ：CPU测试结束
+2014-7-29 11:8:28'666" ：CacheTesting OK
+2014-7-29 11:8:28'967" ：Cache测试结束
+2014-7-29 11:8:29'268" ：FPUTesting OK
+2014-7-29 11:8:29'569" ：FPU测试结束
+2014-7-29 11:8:29'870" ：ALUTesting OK
+2014-7-29 11:8:30'171" ：ALU测试结束
+2014-7-29 11:8:30'472" ：MemoryTesting OK
+2014-7-29 11:8:30'773" ：Memory测试结束
+2014-7-29 11:8:31'74" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:8:31'374" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:11:10'711" ：TestStart...
+2014-7-29 11:11:11'36" ：CPUTesting OK
+2014-7-29 11:11:11'336" ：CPU测试结束
+2014-7-29 11:11:11'637" ：CacheTesting OK
+2014-7-29 11:11:11'938" ：Cache测试结束
+2014-7-29 11:11:12'239" ：FPUTesting OK
+2014-7-29 11:11:12'540" ：FPU测试结束
+2014-7-29 11:11:12'841" ：ALUTesting OK
+2014-7-29 11:11:13'142" ：ALU测试结束
+2014-7-29 11:11:13'443" ：MemoryTesting OK
+2014-7-29 11:11:13'744" ：Memory测试结束
+2014-7-29 11:11:14'49" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:11:14'349" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:11:14'650" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:11:14'951" ：外设测试结束
+2014-7-29 11:11:15'252" ：PLTesting OK
+2014-7-29 11:11:15'553" ：PL测试结束
+2014-7-29 11:11:15'855" ：CPUTesting OK
+2014-7-29 11:11:16'155" ：CPU测试结束
+2014-7-29 11:11:16'457" ：CacheTesting OK
+2014-7-29 11:11:16'757" ：Cache测试结束
+2014-7-29 11:11:17'57" ：FPUTesting OK
+2014-7-29 11:11:17'358" ：FPU测试结束
+2014-7-29 11:11:17'659" ：ALUTesting OK
+2014-7-29 11:11:17'959" ：ALU测试结束
+2014-7-29 11:11:18'260" ：MemoryTesting OK
+2014-7-29 11:11:18'561" ：Memory测试结束
+2014-7-29 11:11:18'862" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:11:19'163" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:11:19'464" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:11:19'764" ：外设测试结束
+2014-7-29 11:11:20'65" ：PLTesting OK
+2014-7-29 11:11:20'365" ：PL测试结束
+2014-7-29 11:11:20'667" ：CPUTesting OK
+2014-7-29 11:11:20'968" ：CPU测试结束
+2014-7-29 11:11:21'269" ：CacheTesting OK
+2014-7-29 11:11:21'570" ：Cache测试结束
+2014-7-29 11:11:21'871" ：FPUTesting OK
+2014-7-29 11:11:22'171" ：FPU测试结束
+2014-7-29 11:11:22'472" ：ALUTesting OK
+2014-7-29 11:11:22'773" ：ALU测试结束
+2014-7-29 11:11:23'74" ：MemoryTesting OK
+2014-7-29 11:11:23'375" ：Memory测试结束
+2014-7-29 11:11:23'675" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:11:23'976" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:11:24'276" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:11:24'577" ：外设测试结束
+2014-7-29 11:11:24'878" ：PLTesting OK
+2014-7-29 11:11:25'179" ：PL测试结束
+2014-7-29 11:11:25'480" ：CPUTesting OK
+2014-7-29 11:11:25'781" ：CPU测试结束
+2014-7-29 11:11:26'82" ：CacheTesting OK
+2014-7-29 11:11:26'382" ：Cache测试结束
+2014-7-29 11:11:26'683" ：FPUTesting OK
+2014-7-29 11:11:26'984" ：FPU测试结束
+2014-7-29 11:11:27'285" ：ALUTesting OK
+2014-7-29 11:11:27'586" ：ALU测试结束
+2014-7-29 11:11:27'887" ：MemoryTesting OK
+2014-7-29 11:11:28'188" ：Memory测试结束
+2014-7-29 11:11:28'489" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:11:28'790" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:11:29'91" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:11:29'392" ：外设测试结束
+2014-7-29 11:11:29'693" ：PLTesting OK
+2014-7-29 11:11:29'993" ：PL测试结束
+2014-7-29 11:11:30'294" ：CPUTesting OK
+2014-7-29 11:11:30'595" ：CPU测试结束
+2014-7-29 11:11:30'896" ：CacheTesting OK
+2014-7-29 11:11:31'198" ：Cache测试结束
+2014-7-29 11:11:31'498" ：FPUTesting OK
+2014-7-29 11:11:31'799" ：FPU测试结束
+2014-7-29 11:11:32'100" ：ALUTesting OK
+2014-7-29 11:11:32'401" ：ALU测试结束
+2014-7-29 11:11:32'702" ：MemoryTesting OK
+2014-7-29 11:11:33'3" ：Memory测试结束
+2014-7-29 11:11:33'304" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:11:33'605" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:11:33'906" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:11:34'206" ：外设测试结束
+2014-7-29 11:11:34'507" ：PLTesting OK
+2014-7-29 11:11:34'807" ：PL测试结束
+2014-7-29 11:11:35'108" ：CPUTesting OK
+2014-7-29 11:11:35'409" ：CPU测试结束
+2014-7-29 11:11:35'710" ：CacheTesting OK
+2014-7-29 11:11:36'10" ：Cache测试结束
+2014-7-29 11:11:36'311" ：FPUTesting OK
+2014-7-29 11:11:36'612" ：FPU测试结束
+2014-7-29 11:11:36'913" ：ALUTesting OK
+2014-7-29 11:11:37'214" ：ALU测试结束
+2014-7-29 11:11:37'514" ：MemoryTesting OK
+2014-7-29 11:11:37'815" ：Memory测试结束
+2014-7-29 11:11:38'116" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:11:38'417" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:11:38'717" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:11:39'18" ：外设测试结束
+2014-7-29 11:11:39'320" ：PLTesting OK
+2014-7-29 11:11:39'620" ：PL测试结束
+2014-7-29 11:11:39'921" ：CPUTesting OK
+2014-7-29 11:11:40'222" ：CPU测试结束
+2014-7-29 11:11:40'523" ：CacheTesting OK
+2014-7-29 11:11:40'824" ：Cache测试结束
+2014-7-29 11:11:41'125" ：FPUTesting OK
+2014-7-29 11:11:41'426" ：FPU测试结束
+2014-7-29 11:11:41'727" ：ALUTesting OK
+2014-7-29 11:11:42'28" ：ALU测试结束
+2014-7-29 11:11:42'329" ：MemoryTesting OK
+2014-7-29 11:11:42'630" ：Memory测试结束
+2014-7-29 11:11:42'931" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:11:43'231" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:11:43'532" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:11:43'833" ：外设测试结束
+2014-7-29 11:11:44'135" ：PLTesting OK
+2014-7-29 11:11:44'435" ：PL测试结束
+2014-7-29 11:11:44'736" ：CPUTesting OK
+2014-7-29 11:11:45'37" ：CPU测试结束
+2014-7-29 11:11:45'337" ：CacheTesting OK
+2014-7-29 11:11:45'638" ：Cache测试结束
+2014-7-29 11:11:45'939" ：FPUTesting OK
+2014-7-29 11:11:46'240" ：FPU测试结束
+2014-7-29 11:11:46'540" ：ALUTesting OK
+2014-7-29 11:11:46'841" ：ALU测试结束
+2014-7-29 11:11:47'141" ：MemoryTesting OK
+2014-7-29 11:11:47'442" ：Memory测试结束
+2014-7-29 11:11:47'743" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:11:48'43" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:11:48'343" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:11:48'644" ：外设测试结束
+2014-7-29 11:11:48'946" ：PLTesting OK
+2014-7-29 11:11:49'246" ：PL测试结束
+2014-7-29 11:11:49'547" ：CPUTesting OK
+2014-7-29 11:11:49'848" ：CPU测试结束
+2014-7-29 11:11:50'149" ：CacheTesting OK
+2014-7-29 11:11:50'449" ：Cache测试结束
+2014-7-29 11:11:50'750" ：FPUTesting OK
+2014-7-29 11:11:51'51" ：FPU测试结束
+2014-7-29 11:11:51'352" ：ALUTesting OK
+2014-7-29 11:11:51'653" ：ALU测试结束
+2014-7-29 11:11:51'954" ：MemoryTesting OK
+2014-7-29 11:11:52'255" ：Memory测试结束
+2014-7-29 11:11:52'556" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:11:52'857" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:11:53'158" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:11:53'459" ：外设测试结束
+2014-7-29 11:11:53'759" ：PLTesting OK
+2014-7-29 11:11:54'60" ：PL测试结束
+2014-7-29 11:11:54'362" ：CPUTesting OK
+2014-7-29 11:11:54'662" ：CPU测试结束
+2014-7-29 11:11:54'962" ：CacheTesting OK
+2014-7-29 11:11:55'263" ：Cache测试结束
+2014-7-29 11:11:55'565" ：FPUTesting OK
+2014-7-29 11:11:55'865" ：FPU测试结束
+2014-7-29 11:11:56'166" ：ALUTesting OK
+2014-7-29 11:11:56'467" ：ALU测试结束
+2014-7-29 11:11:56'767" ：MemoryTesting OK
+2014-7-29 11:11:57'68" ：Memory测试结束
+2014-7-29 11:11:57'369" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:11:57'670" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:11:57'971" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:11:58'271" ：外设测试结束
+2014-7-29 11:11:58'572" ：PLTesting OK
+2014-7-29 11:11:58'872" ：PL测试结束
+2014-7-29 11:11:59'173" ：CPUTesting OK
+2014-7-29 11:11:59'474" ：CPU测试结束
+2014-7-29 11:11:59'775" ：CacheTesting OK
+2014-7-29 11:12:0'75" ：Cache测试结束
+2014-7-29 11:12:0'376" ：FPUTesting OK
+2014-7-29 11:12:0'678" ：FPU测试结束
+2014-7-29 11:12:0'978" ：ALUTesting OK
+2014-7-29 11:12:1'280" ：ALU测试结束
+2014-7-29 11:12:1'580" ：MemoryTesting OK
+2014-7-29 11:12:1'880" ：Memory测试结束
+2014-7-29 11:12:2'181" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:12:2'482" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:12:2'782" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:12:3'82" ：外设测试结束
+2014-7-29 11:12:3'384" ：PLTesting OK
+2014-7-29 11:12:3'684" ：PL测试结束
+2014-7-29 11:12:3'986" ：CPUTesting OK
+2014-7-29 11:12:4'286" ：CPU测试结束
+2014-7-29 11:12:4'588" ：CacheTesting OK
+2014-7-29 11:12:4'888" ：Cache测试结束
+2014-7-29 11:12:5'190" ：FPUTesting OK
+2014-7-29 11:12:5'490" ：FPU测试结束
+2014-7-29 11:12:5'791" ：ALUTesting OK
+2014-7-29 11:12:6'91" ：ALU测试结束
+2014-7-29 11:12:6'392" ：MemoryTesting OK
+2014-7-29 11:12:6'693" ：Memory测试结束
+2014-7-29 11:12:6'994" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:12:7'294" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:12:7'595" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:12:7'896" ：外设测试结束
+2014-7-29 11:12:8'197" ：PLTesting OK
+2014-7-29 11:12:8'497" ：PL测试结束
+2014-7-29 11:12:8'799" ：CPUTesting OK
+2014-7-29 11:12:9'99" ：CPU测试结束
+2014-7-29 11:12:9'400" ：CacheTesting OK
+2014-7-29 11:12:9'700" ：Cache测试结束
+2014-7-29 11:12:10'1" ：FPUTesting OK
+2014-7-29 11:12:10'302" ：FPU测试结束
+2014-7-29 11:12:10'602" ：ALUTesting OK
+2014-7-29 11:12:10'903" ：ALU测试结束
+2014-7-29 11:12:11'204" ：MemoryTesting OK
+2014-7-29 11:12:11'505" ：Memory测试结束
+2014-7-29 11:12:11'806" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:12:12'107" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:12:12'408" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:12:12'708" ：外设测试结束
+2014-7-29 11:12:13'9" ：PLTesting OK
+2014-7-29 11:12:13'309" ：PL测试结束
+2014-7-29 11:28:6'27" ：TestStart...
+2014-7-29 11:28:6'347" ：CPUTesting OK
+2014-7-29 11:28:6'648" ：CPU测试结束
+2014-7-29 11:28:6'948" ：CacheTesting OK
+2014-7-29 11:28:7'249" ：Cache测试结束
+2014-7-29 11:28:7'550" ：FPUTesting OK
+2014-7-29 11:28:7'851" ：FPU测试结束
+2014-7-29 11:28:8'152" ：ALUTesting OK
+2014-7-29 11:28:8'452" ：ALU测试结束
+2014-7-29 11:28:8'753" ：MemoryTesting OK
+2014-7-29 11:28:9'53" ：Memory测试结束
+2014-7-29 11:28:9'354" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:28:9'655" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:28:9'956" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:28:10'256" ：外设测试结束
+2014-7-29 11:28:10'557" ：PLTesting OK
+2014-7-29 11:28:10'858" ：PL测试结束
+2014-7-29 11:28:11'160" ：CPUTesting OK
+2014-7-29 11:28:11'460" ：CPU测试结束
+2014-7-29 11:28:11'761" ：CacheTesting OK
+2014-7-29 11:28:12'61" ：Cache测试结束
+2014-7-29 11:28:12'365" ：FPUTesting OK
+2014-7-29 11:28:12'666" ：FPU测试结束
+2014-7-29 11:28:12'968" ：ALUTesting OK
+2014-7-29 11:28:13'268" ：ALU测试结束
+2014-7-29 11:28:13'569" ：MemoryTesting OK
+2014-7-29 11:28:13'870" ：Memory测试结束
+2014-7-29 11:28:14'171" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:28:14'472" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:28:14'772" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:28:15'73" ：外设测试结束
+2014-7-29 11:28:15'373" ：PLTesting OK
+2014-7-29 11:28:15'674" ：PL测试结束
+2014-7-29 11:28:15'975" ：CPUTesting OK
+2014-7-29 11:28:16'276" ：CPU测试结束
+2014-7-29 11:28:16'577" ：CacheTesting OK
+2014-7-29 11:28:16'877" ：Cache测试结束
+2014-7-29 11:28:17'179" ：FPUTesting OK
+2014-7-29 11:28:17'480" ：FPU测试结束
+2014-7-29 11:28:17'781" ：ALUTesting OK
+2014-7-29 11:28:18'81" ：ALU测试结束
+2014-7-29 11:28:18'382" ：MemoryTesting OK
+2014-7-29 11:28:18'682" ：Memory测试结束
+2014-7-29 11:28:18'983" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:28:19'284" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:28:19'585" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:28:19'886" ：外设测试结束
+2014-7-29 11:28:20'187" ：PLTesting OK
+2014-7-29 11:28:20'488" ：PL测试结束
+2014-7-29 11:28:20'789" ：CPUTesting OK
+2014-7-29 11:28:21'89" ：CPU测试结束
+2014-7-29 11:28:21'389" ：CacheTesting OK
+2014-7-29 11:28:21'690" ：Cache测试结束
+2014-7-29 11:28:21'990" ：FPUTesting OK
+2014-7-29 11:28:22'291" ：FPU测试结束
+2014-7-29 11:28:22'592" ：ALUTesting OK
+2014-7-29 11:28:22'892" ：ALU测试结束
+2014-7-29 11:28:23'193" ：MemoryTesting OK
+2014-7-29 11:28:23'493" ：Memory测试结束
+2014-7-29 11:28:23'794" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:28:24'95" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:28:24'396" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:28:24'696" ：外设测试结束
+2014-7-29 11:28:24'997" ：PLTesting OK
+2014-7-29 11:28:25'297" ：PL测试结束
+2014-7-29 11:28:25'600" ：CPUTesting OK
+2014-7-29 11:28:25'900" ：CPU测试结束
+2014-7-29 11:28:26'201" ：CacheTesting OK
+2014-7-29 11:28:26'501" ：Cache测试结束
+2014-7-29 11:28:26'802" ：FPUTesting OK
+2014-7-29 11:28:27'102" ：FPU测试结束
+2014-7-29 11:28:27'404" ：ALUTesting OK
+2014-7-29 11:28:27'705" ：ALU测试结束
+2014-7-29 11:28:28'6" ：MemoryTesting OK
+2014-7-29 11:28:28'306" ：Memory测试结束
+2014-7-29 11:28:28'607" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:28:28'907" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:28:29'208" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:28:29'509" ：外设测试结束
+2014-7-29 11:28:29'810" ：PLTesting OK
+2014-7-29 11:28:30'111" ：PL测试结束
+2014-7-29 11:28:30'412" ：CPUTesting OK
+2014-7-29 11:28:30'713" ：CPU测试结束
+2014-7-29 11:28:31'13" ：CacheTesting OK
+2014-7-29 11:28:31'314" ：Cache测试结束
+2014-7-29 11:28:31'614" ：FPUTesting OK
+2014-7-29 11:28:31'915" ：FPU测试结束
+2014-7-29 11:28:32'216" ：ALUTesting OK
+2014-7-29 11:28:32'516" ：ALU测试结束
+2014-7-29 11:28:32'817" ：MemoryTesting OK
+2014-7-29 11:28:33'118" ：Memory测试结束
+2014-7-29 11:28:33'419" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:28:33'720" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:28:34'21" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:28:34'322" ：外设测试结束
+2014-7-29 11:28:34'623" ：PLTesting OK
+2014-7-29 11:28:34'924" ：PL测试结束
+2014-7-29 11:28:35'225" ：CPUTesting OK
+2014-7-29 11:28:35'526" ：CPU测试结束
+2014-7-29 11:28:35'826" ：CacheTesting OK
+2014-7-29 11:28:36'127" ：Cache测试结束
+2014-7-29 11:28:36'428" ：FPUTesting OK
+2014-7-29 11:28:36'729" ：FPU测试结束
+2014-7-29 11:28:39'525" ：TestStart...
+2014-7-29 11:28:39'828" ：CPUTesting OK
+2014-7-29 11:28:40'129" ：CPU测试结束
+2014-7-29 11:28:40'430" ：CacheTesting OK
+2014-7-29 11:28:40'730" ：Cache测试结束
+2014-7-29 11:28:41'31" ：FPUTesting OK
+2014-7-29 11:28:41'331" ：FPU测试结束
+2014-7-29 11:28:41'632" ：ALUTesting OK
+2014-7-29 11:28:41'933" ：ALU测试结束
+2014-7-29 11:28:42'234" ：MemoryTesting OK
+2014-7-29 11:28:42'535" ：Memory测试结束
+2014-7-29 11:28:42'836" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:28:43'137" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:28:43'437" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:28:43'738" ：外设测试结束
+2014-7-29 11:28:44'39" ：PLTesting OK
+2014-7-29 11:28:44'339" ：PL测试结束
+2014-7-29 11:28:44'640" ：CPUTesting OK
+2014-7-29 11:28:44'941" ：CPU测试结束
+2014-7-29 11:28:45'242" ：CacheTesting OK
+2014-7-29 11:28:45'543" ：Cache测试结束
+2014-7-29 11:28:45'844" ：FPUTesting OK
+2014-7-29 11:28:46'144" ：FPU测试结束
+2014-7-29 11:28:46'461" ：ALUTesting OK
+2014-7-29 11:28:46'763" ：ALU测试结束
+2014-7-29 11:30:29'363" ：TestStart...
+2014-7-29 11:30:29'668" ：MemoryTesting OK
+2014-7-29 11:30:29'969" ：Memory测试结束
+2014-7-29 11:30:30'270" ：MemoryTesting OK
+2014-7-29 11:30:30'571" ：Memory测试结束
+2014-7-29 11:30:30'872" ：MemoryTesting OK
+2014-7-29 11:30:31'173" ：Memory测试结束
+2014-7-29 11:30:31'473" ：MemoryTesting OK
+2014-7-29 11:30:31'774" ：Memory测试结束
+2014-7-29 11:30:32'75" ：MemoryTesting OK
+2014-7-29 11:30:32'376" ：Memory测试结束
+2014-7-29 11:30:32'677" ：MemoryTesting OK
+2014-7-29 11:30:32'978" ：Memory测试结束
+2014-7-29 11:30:33'279" ：MemoryTesting OK
+2014-7-29 11:30:33'579" ：Memory测试结束
+2014-7-29 11:30:33'880" ：MemoryTesting OK
+2014-7-29 11:30:34'180" ：Memory测试结束
+2014-7-29 11:30:34'482" ：MemoryTesting OK
+2014-7-29 11:30:34'782" ：Memory测试结束
+2014-7-29 11:30:35'83" ：MemoryTesting OK
+2014-7-29 11:30:35'384" ：Memory测试结束
+2014-7-29 11:30:35'685" ：MemoryTesting OK
+2014-7-29 11:30:35'986" ：Memory测试结束
+2014-7-29 11:30:36'286" ：MemoryTesting OK
+2014-7-29 11:30:36'587" ：Memory测试结束
+2014-7-29 11:30:36'888" ：MemoryTesting OK
+2014-7-29 11:30:37'188" ：Memory测试结束
+2014-7-29 11:30:37'489" ：MemoryTesting OK
+2014-7-29 11:30:37'789" ：Memory测试结束
+2014-7-29 11:30:38'91" ：MemoryTesting OK
+2014-7-29 11:30:38'392" ：Memory测试结束
+2014-7-29 11:30:38'692" ：MemoryTesting OK
+2014-7-29 11:30:38'993" ：Memory测试结束
+2014-7-29 11:30:39'294" ：MemoryTesting OK
+2014-7-29 11:30:39'594" ：Memory测试结束
+2014-7-29 11:30:39'895" ：MemoryTesting OK
+2014-7-29 11:30:40'196" ：Memory测试结束
+2014-7-29 11:30:40'497" ：MemoryTesting OK
+2014-7-29 11:30:40'798" ：Memory测试结束
+2014-7-29 11:30:41'99" ：MemoryTesting OK
+2014-7-29 11:30:41'399" ：Memory测试结束
+2014-7-29 11:30:41'700" ：MemoryTesting OK
+2014-7-29 11:30:42'0" ：Memory测试结束
+2014-7-29 11:30:42'301" ：MemoryTesting OK
+2014-7-29 11:30:42'602" ：Memory测试结束
+2014-7-29 11:30:42'902" ：MemoryTesting OK
+2014-7-29 11:30:43'203" ：Memory测试结束
+2014-7-29 11:30:43'503" ：MemoryTesting OK
+2014-7-29 11:30:43'804" ：Memory测试结束
+2014-7-29 11:30:44'106" ：MemoryTesting OK
+2014-7-29 11:30:44'406" ：Memory测试结束
+2014-7-29 11:30:44'707" ：MemoryTesting OK
+2014-7-29 11:30:45'8" ：Memory测试结束
+2014-7-29 11:30:45'308" ：MemoryTesting OK
+2014-7-29 11:30:45'609" ：Memory测试结束
+2014-7-29 11:30:45'910" ：MemoryTesting OK
+2014-7-29 11:30:46'211" ：Memory测试结束
+2014-7-29 11:30:46'512" ：MemoryTesting OK
+2014-7-29 11:30:46'813" ：Memory测试结束
+2014-7-29 11:30:47'114" ：MemoryTesting OK
+2014-7-29 11:30:47'415" ：Memory测试结束
+2014-7-29 11:30:47'717" ：MemoryTesting OK
+2014-7-29 11:30:48'18" ：Memory测试结束
+2014-7-29 11:30:48'319" ：MemoryTesting OK
+2014-7-29 11:30:48'619" ：Memory测试结束
+2014-7-29 11:30:48'920" ：MemoryTesting OK
+2014-7-29 11:30:49'220" ：Memory测试结束
+2014-7-29 11:30:49'522" ：MemoryTesting OK
+2014-7-29 11:30:49'822" ：Memory测试结束
+2014-7-29 11:30:50'124" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:30:50'424" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:30:50'725" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:30:51'26" ：外设测试结束
+2014-7-29 11:30:51'326" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:30:51'626" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:30:51'927" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:30:52'228" ：外设测试结束
+2014-7-29 11:30:52'529" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:30:52'829" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:30:53'129" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:30:53'430" ：外设测试结束
+2014-7-29 11:30:53'731" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:30:54'31" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:30:54'331" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:30:54'632" ：外设测试结束
+2014-7-29 11:30:54'933" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:30:55'234" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:30:55'535" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:30:55'835" ：外设测试结束
+2014-7-29 11:30:56'136" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:30:56'436" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:30:56'736" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:30:57'36" ：外设测试结束
+2014-7-29 11:30:57'338" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:30:57'638" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:30:57'939" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:30:58'240" ：外设测试结束
+2014-7-29 11:30:58'541" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:30:58'841" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:30:59'142" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:30:59'442" ：外设测试结束
+2014-7-29 11:30:59'744" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:0'45" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:0'346" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:0'646" ：外设测试结束
+2014-7-29 11:31:0'947" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:1'247" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:1'548" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:1'849" ：外设测试结束
+2014-7-29 11:31:2'149" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:2'450" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:2'751" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:3'52" ：外设测试结束
+2014-7-29 11:31:3'352" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:3'653" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:3'953" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:4'254" ：外设测试结束
+2014-7-29 11:31:4'555" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:4'856" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:5'156" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:5'457" ：外设测试结束
+2014-7-29 11:31:5'758" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:6'58" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:6'359" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:6'661" ：外设测试结束
+2014-7-29 11:31:6'961" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:7'262" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:7'563" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:7'863" ：外设测试结束
+2014-7-29 11:31:8'164" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:8'465" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:8'765" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:9'66" ：外设测试结束
+2014-7-29 11:31:9'368" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:9'668" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:9'969" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:10'269" ：外设测试结束
+2014-7-29 11:31:10'570" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:10'871" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:11'172" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:11'472" ：外设测试结束
+2014-7-29 11:31:11'773" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:12'74" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:12'375" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:12'675" ：外设测试结束
+2014-7-29 11:31:12'976" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:13'276" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:13'576" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:13'877" ：外设测试结束
+2014-7-29 11:31:14'177" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:14'478" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:14'779" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:15'79" ：外设测试结束
+2014-7-29 11:31:15'380" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:15'680" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:15'981" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:16'281" ：外设测试结束
+2014-7-29 11:31:16'582" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:16'883" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:17'183" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:17'483" ：外设测试结束
+2014-7-29 11:31:17'785" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:18'86" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:18'386" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:18'686" ：外设测试结束
+2014-7-29 11:31:18'987" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:19'288" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:19'589" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:19'890" ：外设测试结束
+2014-7-29 11:31:20'191" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:20'492" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:20'793" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:21'94" ：外设测试结束
+2014-7-29 11:31:21'395" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:21'695" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:21'995" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:22'296" ：外设测试结束
+2014-7-29 11:31:22'597" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:22'898" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:23'198" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:23'499" ：外设测试结束
+2014-7-29 11:31:23'800" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:24'101" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:24'402" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:24'702" ：外设测试结束
+2014-7-29 11:31:25'3" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:25'303" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:25'604" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:25'905" ：外设测试结束
+2014-7-29 11:31:26'206" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:26'506" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:26'806" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:27'107" ：外设测试结束
+2014-7-29 11:31:27'407" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:27'708" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:28'8" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:28'309" ：外设测试结束
+2014-7-29 11:31:28'610" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:28'910" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:29'211" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:29'512" ：外设测试结束
+2014-7-29 11:31:29'813" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:30'113" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:30'414" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:30'714" ：外设测试结束
+2014-7-29 11:31:31'15" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:31'316" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:31'617" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:31'917" ：外设测试结束
+2014-7-29 11:31:32'219" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:32'519" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:32'820" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:33'121" ：外设测试结束
+2014-7-29 11:31:33'422" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:33'723" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:34'23" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:34'324" ：外设测试结束
+2014-7-29 11:31:34'625" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:34'926" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:35'227" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:35'528" ：外设测试结束
+2014-7-29 11:31:35'829" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:36'130" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:36'431" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:36'731" ：外设测试结束
+2014-7-29 11:31:37'31" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:37'332" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:37'632" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:37'933" ：外设测试结束
+2014-7-29 11:31:38'234" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:38'535" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:38'835" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:39'136" ：外设测试结束
+2014-7-29 11:31:39'437" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:39'738" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:40'39" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:40'339" ：外设测试结束
+2014-7-29 11:31:40'641" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:40'941" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:41'242" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:41'543" ：外设测试结束
+2014-7-29 11:31:41'844" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:42'145" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:42'445" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:42'745" ：外设测试结束
+2014-7-29 11:31:43'46" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:43'346" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:43'647" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:43'947" ：外设测试结束
+2014-7-29 11:31:44'248" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:44'549" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:44'850" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:45'151" ：外设测试结束
+2014-7-29 11:31:45'452" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:45'753" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:46'54" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:46'354" ：外设测试结束
+2014-7-29 11:31:46'655" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:46'955" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:47'256" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:47'557" ：外设测试结束
+2014-7-29 11:31:47'857" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:48'158" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:48'458" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:48'758" ：外设测试结束
+2014-7-29 11:31:49'59" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:31:49'360" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:31:49'660" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:31:49'962" ：外设测试结束
+2014-7-29 11:31:50'262" ：MemoryTesting OK
+2014-7-29 11:31:50'563" ：Memory测试结束
+2014-7-29 11:31:50'863" ：MemoryTesting OK
+2014-7-29 11:31:51'164" ：Memory测试结束
+2014-7-29 11:31:51'465" ：MemoryTesting OK
+2014-7-29 11:31:51'766" ：Memory测试结束
+2014-7-29 11:31:52'67" ：MemoryTesting OK
+2014-7-29 11:31:52'368" ：Memory测试结束
+2014-7-29 11:31:52'670" ：MemoryTesting OK
+2014-7-29 11:31:52'970" ：Memory测试结束
+2014-7-29 11:31:53'271" ：MemoryTesting OK
+2014-7-29 11:31:53'571" ：Memory测试结束
+2014-7-29 11:31:53'872" ：MemoryTesting OK
+2014-7-29 11:31:54'173" ：Memory测试结束
+2014-7-29 11:31:54'473" ：MemoryTesting OK
+2014-7-29 11:31:54'774" ：Memory测试结束
+2014-7-29 11:31:55'75" ：MemoryTesting OK
+2014-7-29 11:31:55'376" ：Memory测试结束
+2014-7-29 11:31:55'676" ：MemoryTesting OK
+2014-7-29 11:31:55'977" ：Memory测试结束
+2014-7-29 11:31:56'278" ：MemoryTesting OK
+2014-7-29 11:31:56'578" ：Memory测试结束
+2014-7-29 11:31:56'879" ：MemoryTesting OK
+2014-7-29 11:31:57'179" ：Memory测试结束
+2014-7-29 11:31:57'481" ：MemoryTesting OK
+2014-7-29 11:31:57'781" ：Memory测试结束
+2014-7-29 11:31:58'82" ：MemoryTesting OK
+2014-7-29 11:31:58'383" ：Memory测试结束
+2014-7-29 11:31:58'684" ：MemoryTesting OK
+2014-7-29 11:31:58'985" ：Memory测试结束
+2014-7-29 11:31:59'287" ：MemoryTesting OK
+2014-7-29 11:31:59'587" ：Memory测试结束
+2014-7-29 11:31:59'889" ：MemoryTesting OK
+2014-7-29 11:32:0'189" ：Memory测试结束
+2014-7-29 11:32:0'490" ：MemoryTesting OK
+2014-7-29 11:32:0'791" ：Memory测试结束
+2014-7-29 11:32:1'92" ：MemoryTesting OK
+2014-7-29 11:32:1'393" ：Memory测试结束
+2014-7-29 11:32:1'694" ：MemoryTesting OK
+2014-7-29 11:32:1'995" ：Memory测试结束
+2014-7-29 11:32:2'295" ：MemoryTesting OK
+2014-7-29 11:32:2'596" ：Memory测试结束
+2014-7-29 11:32:2'896" ：MemoryTesting OK
+2014-7-29 11:32:3'197" ：Memory测试结束
+2014-7-29 11:32:3'498" ：MemoryTesting OK
+2014-7-29 11:32:3'799" ：Memory测试结束
+2014-7-29 11:32:4'100" ：MemoryTesting OK
+2014-7-29 11:32:4'400" ：Memory测试结束
+2014-7-29 11:32:4'701" ：MemoryTesting OK
+2014-7-29 11:32:5'2" ：Memory测试结束
+2014-7-29 11:32:5'303" ：MemoryTesting OK
+2014-7-29 11:32:5'604" ：Memory测试结束
+2014-7-29 11:32:5'904" ：MemoryTesting OK
+2014-7-29 11:32:6'205" ：Memory测试结束
+2014-7-29 11:32:6'506" ：MemoryTesting OK
+2014-7-29 11:32:6'806" ：Memory测试结束
+2014-7-29 11:32:7'107" ：MemoryTesting OK
+2014-7-29 11:32:7'408" ：Memory测试结束
+2014-7-29 11:32:7'709" ：MemoryTesting OK
+2014-7-29 11:32:8'10" ：Memory测试结束
+2014-7-29 11:32:8'311" ：MemoryTesting OK
+2014-7-29 11:32:8'612" ：Memory测试结束
+2014-7-29 11:32:8'913" ：MemoryTesting OK
+2014-7-29 11:32:9'213" ：Memory测试结束
+2014-7-29 11:32:9'515" ：MemoryTesting OK
+2014-7-29 11:32:9'815" ：Memory测试结束
+2014-7-29 11:32:10'116" ：MemoryTesting OK
+2014-7-29 11:32:10'417" ：Memory测试结束
+2014-7-29 11:32:10'718" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:11'19" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:11'320" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:11'621" ：外设测试结束
+2014-7-29 11:32:11'922" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:12'223" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:12'523" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:12'823" ：外设测试结束
+2014-7-29 11:32:13'124" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:13'424" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:13'725" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:14'25" ：外设测试结束
+2014-7-29 11:32:14'327" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:14'628" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:14'928" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:15'228" ：外设测试结束
+2014-7-29 11:32:15'529" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:15'830" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:16'130" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:16'431" ：外设测试结束
+2014-7-29 11:32:16'731" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:17'32" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:17'333" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:17'634" ：外设测试结束
+2014-7-29 11:32:17'934" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:18'235" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:18'535" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:18'836" ：外设测试结束
+2014-7-29 11:32:19'138" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:19'439" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:19'739" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:20'40" ：外设测试结束
+2014-7-29 11:32:20'341" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:20'641" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:20'942" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:21'243" ：外设测试结束
+2014-7-29 11:32:21'544" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:21'844" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:22'145" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:22'446" ：外设测试结束
+2014-7-29 11:32:22'747" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:23'48" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:23'348" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:23'649" ：外设测试结束
+2014-7-29 11:32:23'950" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:24'251" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:24'552" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:24'853" ：外设测试结束
+2014-7-29 11:32:25'154" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:25'455" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:25'756" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:26'57" ：外设测试结束
+2014-7-29 11:32:26'358" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:26'659" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:26'959" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:27'260" ：外设测试结束
+2014-7-29 11:32:27'561" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:27'861" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:28'162" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:28'463" ：外设测试结束
+2014-7-29 11:32:28'765" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:29'65" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:29'365" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:29'666" ：外设测试结束
+2014-7-29 11:32:29'967" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:30'268" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:30'569" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:30'869" ：外设测试结束
+2014-7-29 11:32:31'170" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:31'470" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:31'771" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:32'72" ：外设测试结束
+2014-7-29 11:32:32'373" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:32'674" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:32'974" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:33'275" ：外设测试结束
+2014-7-29 11:32:33'576" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:33'877" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:34'178" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:34'479" ：外设测试结束
+2014-7-29 11:32:34'780" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:35'81" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:35'381" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:35'682" ：外设测试结束
+2014-7-29 11:32:35'983" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:36'283" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:36'584" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:36'884" ：外设测试结束
+2014-7-29 11:32:37'186" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:37'486" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:37'787" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:38'87" ：外设测试结束
+2014-7-29 11:32:38'388" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:38'688" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:38'989" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:39'289" ：外设测试结束
+2014-7-29 11:32:39'590" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:39'891" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:40'191" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:40'492" ：外设测试结束
+2014-7-29 11:32:40'793" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:41'94" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:41'395" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:41'695" ：外设测试结束
+2014-7-29 11:32:41'996" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:42'297" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:42'597" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:42'897" ：外设测试结束
+2014-7-29 11:32:43'199" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:43'499" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:43'800" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:44'101" ：外设测试结束
+2014-7-29 11:32:44'402" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:44'703" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:45'4" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:45'305" ：外设测试结束
+2014-7-29 11:32:45'606" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:45'907" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:46'208" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:46'508" ：外设测试结束
+2014-7-29 11:32:46'809" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:47'110" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:47'411" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:47'712" ：外设测试结束
+2014-7-29 11:32:48'12" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:32:48'313" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:32:48'613" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:32:48'913" ：外设测试结束
+2014-7-29 11:32:49'215" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:35:37'723" ：TestStart...
+2014-7-29 11:35:38'54" ：MemoryTesting OK
+2014-7-29 11:35:38'356" ：Memory测试结束
+2014-7-29 11:35:38'659" ：MemoryTesting OK
+2014-7-29 11:35:38'960" ：Memory测试结束
+2014-7-29 11:35:39'261" ：MemoryTesting OK
+2014-7-29 11:35:39'561" ：Memory测试结束
+2014-7-29 11:35:39'862" ：MemoryTesting OK
+2014-7-29 11:35:40'163" ：Memory测试结束
+2014-7-29 11:35:40'463" ：MemoryTesting OK
+2014-7-29 11:35:40'764" ：Memory测试结束
+2014-7-29 11:35:41'65" ：MemoryTesting OK
+2014-7-29 11:35:41'366" ：Memory测试结束
+2014-7-29 11:35:41'667" ：MemoryTesting OK
+2014-7-29 11:35:41'967" ：Memory测试结束
+2014-7-29 11:35:42'268" ：MemoryTesting OK
+2014-7-29 11:35:42'568" ：Memory测试结束
+2014-7-29 11:35:42'869" ：MemoryTesting OK
+2014-7-29 11:35:43'170" ：Memory测试结束
+2014-7-29 11:35:43'471" ：MemoryTesting OK
+2014-7-29 11:35:43'772" ：Memory测试结束
+2014-7-29 11:35:44'73" ：MemoryTesting OK
+2014-7-29 11:35:44'374" ：Memory测试结束
+2014-7-29 11:35:44'675" ：MemoryTesting OK
+2014-7-29 11:36:2'715" ：TestStart...
+2014-7-29 11:36:3'35" ：CPUTesting OK
+2014-7-29 11:36:3'340" ：CPU测试结束
+2014-7-29 11:36:3'642" ：CacheTesting OK
+2014-7-29 11:36:3'943" ：Cache测试结束
+2014-7-29 11:36:4'243" ：FPUTesting OK
+2014-7-29 11:36:4'544" ：FPU测试结束
+2014-7-29 11:36:4'845" ：ALUTesting OK
+2014-7-29 11:36:5'146" ：ALU测试结束
+2014-7-29 11:36:5'447" ：MemoryTesting OK
+2014-7-29 11:36:5'747" ：Memory测试结束
+2014-7-29 11:36:6'49" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:36:6'349" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:36:6'650" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:36:6'951" ：外设测试结束
+2014-7-29 11:36:7'252" ：PLTesting OK
+2014-7-29 11:36:7'553" ：PL测试结束
+2014-7-29 11:36:7'854" ：CPUTesting OK
+2014-7-29 11:36:8'155" ：CPU测试结束
+2014-7-29 11:36:8'456" ：CacheTesting OK
+2014-7-29 11:36:8'756" ：Cache测试结束
+2014-7-29 11:36:9'57" ：FPUTesting OK
+2014-7-29 11:36:9'357" ：FPU测试结束
+2014-7-29 11:36:34'771" ：TestStart...
+2014-7-29 11:36:35'77" ：FPUTesting OK
+2014-7-29 11:36:35'378" ：FPU测试结束
+2014-7-29 11:36:35'679" ：FPUTesting OK
+2014-7-29 11:36:35'980" ：FPU测试结束
+2014-7-29 11:36:36'281" ：FPUTesting OK
+2014-7-29 11:36:36'581" ：FPU测试结束
+2014-7-29 11:36:36'882" ：FPUTesting OK
+2014-7-29 11:36:37'183" ：FPU测试结束
+2014-7-29 11:36:37'484" ：FPUTesting OK
+2014-7-29 11:36:37'785" ：FPU测试结束
+2014-7-29 11:36:38'87" ：FPUTesting OK
+2014-7-29 11:36:38'388" ：FPU测试结束
+2014-7-29 11:36:38'689" ：FPUTesting OK
+2014-7-29 11:36:38'989" ：FPU测试结束
+2014-7-29 11:36:39'290" ：FPUTesting OK
+2014-7-29 11:36:39'590" ：FPU测试结束
+2014-7-29 11:36:39'891" ：FPUTesting OK
+2014-7-29 11:36:40'192" ：FPU测试结束
+2014-7-29 11:36:40'493" ：FPUTesting OK
+2014-7-29 11:36:40'794" ：FPU测试结束
+2014-7-29 11:36:41'95" ：FPUTesting OK
+2014-7-29 11:36:41'396" ：FPU测试结束
+2014-7-29 11:36:41'697" ：FPUTesting OK
+2014-7-29 11:36:41'998" ：FPU测试结束
+2014-7-29 11:36:42'299" ：FPUTesting OK
+2014-7-29 11:36:42'600" ：FPU测试结束
+2014-7-29 11:36:42'900" ：ALUTesting OK
+2014-7-29 11:36:43'201" ：ALU测试结束
+2014-7-29 11:36:43'502" ：ALUTesting OK
+2014-7-29 11:36:43'803" ：ALU测试结束
+2014-7-29 11:36:44'104" ：ALUTesting OK
+2014-7-29 11:36:44'404" ：ALU测试结束
+2014-7-29 11:36:44'705" ：ALUTesting OK
+2014-7-29 11:36:45'6" ：ALU测试结束
+2014-7-29 11:36:45'307" ：ALUTesting OK
+2014-7-29 11:36:45'608" ：ALU测试结束
+2014-7-29 11:37:4'954" ：TestStart...
+2014-7-29 11:37:5'273" ：ALUTesting OK
+2014-7-29 11:37:5'574" ：ALU测试结束
+2014-7-29 11:37:5'875" ：MemoryTesting OK
+2014-7-29 11:37:6'175" ：Memory测试结束
+2014-7-29 11:37:6'477" ：ALUTesting OK
+2014-7-29 11:37:6'777" ：ALU测试结束
+2014-7-29 11:37:7'78" ：MemoryTesting OK
+2014-7-29 11:37:7'379" ：Memory测试结束
+2014-7-29 11:37:7'681" ：ALUTesting OK
+2014-7-29 11:37:7'986" ：ALU测试结束
+2014-7-29 11:37:8'288" ：MemoryTesting OK
+2014-7-29 11:37:8'603" ：Memory测试结束
+2014-7-29 11:38:48'499" ：TestStart...
+2014-7-29 11:38:48'824" ：CPUTesting OK
+2014-7-29 11:38:49'125" ：CPU测试结束
+2014-7-29 11:38:49'426" ：CacheTesting OK
+2014-7-29 11:38:49'727" ：Cache测试结束
+2014-7-29 11:38:50'28" ：FPUTesting OK
+2014-7-29 11:38:50'329" ：FPU测试结束
+2014-7-29 11:38:50'630" ：ALUTesting OK
+2014-7-29 11:39:8'346" ：TestStart...
+2014-7-29 11:39:8'653" ：CPUTesting OK
+2014-7-29 11:39:8'954" ：CPU测试结束
+2014-7-29 11:39:9'255" ：CacheTesting OK
+2014-7-29 11:39:9'555" ：Cache测试结束
+2014-7-29 11:39:9'856" ：FPUTesting OK
+2014-7-29 11:39:10'157" ：FPU测试结束
+2014-7-29 11:39:10'458" ：ALUTesting OK
+2014-7-29 11:39:10'759" ：ALU测试结束
+2014-7-29 11:39:11'60" ：MemoryTesting OK
+2014-7-29 11:39:11'361" ：Memory测试结束
+2014-7-29 11:39:11'661" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:39:11'962" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:39:12'262" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:39:12'563" ：外设测试结束
+2014-7-29 11:41:43'871" ：TestStart...
+2014-7-29 11:41:44'193" ：CPUTesting OK
+2014-7-29 11:41:44'494" ：CPU测试结束
+2014-7-29 11:41:44'794" ：CacheTesting OK
+2014-7-29 11:41:45'95" ：Cache测试结束
+2014-7-29 11:42:37'844" ：TestStart...
+2014-7-29 11:42:38'153" ：CPUTesting OK
+2014-7-29 11:42:38'454" ：CPU测试结束
+2014-7-29 11:42:38'755" ：CacheTesting OK
+2014-7-29 11:43:7'373" ：TestStart...
+2014-7-29 11:43:7'684" ：CPUTesting OK
+2014-7-29 11:43:7'985" ：CPU测试结束
+2014-7-29 11:43:8'286" ：CacheTesting OK
+2014-7-29 11:43:8'587" ：Cache测试结束
+2014-7-29 11:43:8'887" ：FPUTesting OK
+2014-7-29 11:43:9'188" ：FPU测试结束
+2014-7-29 11:43:33'609" ：TestStart...
+2014-7-29 11:43:33'927" ：MemoryTesting OK
+2014-7-29 11:43:34'229" ：Memory测试结束
+2014-7-29 11:43:34'530" ：MemoryTesting OK
+2014-7-29 11:43:34'830" ：Memory测试结束
+2014-7-29 11:43:35'134" ：MemoryTesting OK
+2014-7-29 11:43:35'434" ：Memory测试结束
+2014-7-29 11:43:35'735" ：MemoryTesting OK
+2014-7-29 11:43:36'36" ：Memory测试结束
+2014-7-29 11:43:36'337" ：MemoryTesting OK
+2014-7-29 11:43:36'637" ：Memory测试结束
+2014-7-29 11:43:36'939" ：MemoryTesting OK
+2014-7-29 11:43:37'239" ：Memory测试结束
+2014-7-29 11:43:37'540" ：MemoryTesting OK
+2014-7-29 11:43:37'841" ：Memory测试结束
+2014-7-29 11:43:38'142" ：MemoryTesting OK
+2014-7-29 11:43:38'443" ：Memory测试结束
+2014-7-29 11:43:38'743" ：MemoryTesting OK
+2014-7-29 11:43:39'44" ：Memory测试结束
+2014-7-29 11:43:39'345" ：MemoryTesting OK
+2014-7-29 11:43:39'646" ：Memory测试结束
+2014-7-29 11:43:39'947" ：MemoryTesting OK
+2014-7-29 11:43:40'248" ：Memory测试结束
+2014-7-29 11:43:40'549" ：MemoryTesting OK
+2014-7-29 11:43:40'850" ：Memory测试结束
+2014-7-29 11:43:41'151" ：MemoryTesting OK
+2014-7-29 11:43:41'451" ：Memory测试结束
+2014-7-29 11:43:41'752" ：MemoryTesting OK
+2014-7-29 11:43:42'53" ：Memory测试结束
+2014-7-29 11:43:42'354" ：MemoryTesting OK
+2014-7-29 11:43:42'655" ：Memory测试结束
+2014-7-29 11:43:42'955" ：MemoryTesting OK
+2014-7-29 11:43:43'256" ：Memory测试结束
+2014-7-29 11:43:43'557" ：MemoryTesting OK
+2014-7-29 11:43:43'857" ：Memory测试结束
+2014-7-29 11:43:44'158" ：MemoryTesting OK
+2014-7-29 11:43:44'458" ：Memory测试结束
+2014-7-29 11:43:44'760" ：MemoryTesting OK
+2014-7-29 11:43:45'60" ：Memory测试结束
+2014-7-29 11:43:45'361" ：MemoryTesting OK
+2014-7-29 11:43:45'662" ：Memory测试结束
+2014-7-29 11:43:45'963" ：MemoryTesting OK
+2014-7-29 11:43:46'264" ：Memory测试结束
+2014-7-29 11:43:46'564" ：MemoryTesting OK
+2014-7-29 11:43:46'865" ：Memory测试结束
+2014-7-29 11:43:47'165" ：MemoryTesting OK
+2014-7-29 11:43:47'466" ：Memory测试结束
+2014-7-29 11:43:47'767" ：MemoryTesting OK
+2014-7-29 11:43:48'67" ：Memory测试结束
+2014-7-29 11:43:48'368" ：MemoryTesting OK
+2014-7-29 11:43:48'669" ：Memory测试结束
+2014-7-29 11:43:48'970" ：MemoryTesting OK
+2014-7-29 11:43:49'271" ：Memory测试结束
+2014-7-29 11:43:49'572" ：MemoryTesting OK
+2014-7-29 11:43:49'872" ：Memory测试结束
+2014-7-29 11:43:50'173" ：MemoryTesting OK
+2014-7-29 11:43:50'473" ：Memory测试结束
+2014-7-29 11:43:50'774" ：MemoryTesting OK
+2014-7-29 11:43:51'75" ：Memory测试结束
+2014-7-29 11:43:51'376" ：MemoryTesting OK
+2014-7-29 11:43:51'677" ：Memory测试结束
+2014-7-29 11:43:51'978" ：MemoryTesting OK
+2014-7-29 11:43:52'279" ：Memory测试结束
+2014-7-29 11:43:52'580" ：MemoryTesting OK
+2014-7-29 11:43:52'881" ：Memory测试结束
+2014-7-29 11:43:53'182" ：MemoryTesting OK
+2014-7-29 11:43:53'483" ：Memory测试结束
+2014-7-29 11:43:53'784" ：MemoryTesting OK
+2014-7-29 11:43:54'85" ：Memory测试结束
+2014-7-29 11:43:54'386" ：MemoryTesting OK
+2014-7-29 11:43:54'686" ：Memory测试结束
+2014-7-29 11:43:54'986" ：MemoryTesting OK
+2014-7-29 11:43:55'287" ：Memory测试结束
+2014-7-29 11:43:55'588" ：MemoryTesting OK
+2014-7-29 11:43:55'889" ：Memory测试结束
+2014-7-29 11:43:56'189" ：MemoryTesting OK
+2014-7-29 11:43:56'491" ：Memory测试结束
+2014-7-29 11:43:56'791" ：MemoryTesting OK
+2014-7-29 11:43:57'92" ：Memory测试结束
+2014-7-29 11:43:57'392" ：MemoryTesting OK
+2014-7-29 11:43:57'693" ：Memory测试结束
+2014-7-29 11:43:57'994" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:43:58'295" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:43:58'595" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:43:58'896" ：外设测试结束
+2014-7-29 11:43:59'197" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:43:59'498" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:43:59'799" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:44:0'100" ：外设测试结束
+2014-7-29 11:44:0'401" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:44:0'701" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:44:1'3" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:44:1'304" ：外设测试结束
+2014-7-29 11:44:1'605" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:44:1'906" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:44:2'207" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:44:2'507" ：外设测试结束
+2014-7-29 11:44:2'808" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:44:3'108" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:44:3'409" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:44:3'709" ：外设测试结束
+2014-7-29 11:44:4'10" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 11:44:4'311" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 11:44:4'612" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 11:44:4'913" ：外设测试结束
+2014-7-29 11:44:59'161" ：TestStart...
+2014-7-29 11:44:59'483" ：ALUTesting OK
+2014-7-29 11:44:59'784" ：ALU测试结束
+2014-7-29 11:45:0'85" ：ALUTesting OK
+2014-7-29 11:45:0'388" ：ALU测试结束
+2014-7-29 11:45:0'689" ：ALUTesting OK
+2014-7-29 11:45:0'990" ：ALU测试结束
+2014-7-29 11:45:1'291" ：ALUTesting OK
+2014-7-29 11:45:1'592" ：ALU测试结束
+2014-7-29 11:45:1'893" ：ALUTesting OK
+2014-7-29 11:45:2'193" ：ALU测试结束
+2014-7-29 11:45:2'494" ：ALUTesting OK
+2014-7-29 11:45:2'795" ：ALU测试结束
+2014-7-29 11:45:3'96" ：ALUTesting OK
+2014-7-29 11:45:3'397" ：ALU测试结束
+2014-7-29 11:45:3'697" ：ALUTesting OK
+2014-7-29 11:45:3'998" ：ALU测试结束
+2014-7-29 11:45:4'300" ：ALUTesting OK
+2014-7-29 11:45:4'600" ：ALU测试结束
+2014-7-29 11:45:4'901" ：ALUTesting OK
+2014-7-29 11:45:5'201" ：ALU测试结束
+2014-7-29 11:45:5'502" ：ALUTesting OK
+2014-7-29 11:45:5'803" ：ALU测试结束
+2014-7-29 11:45:6'103" ：ALUTesting OK
+2014-7-29 11:45:6'404" ：ALU测试结束
+2014-7-29 11:45:6'705" ：ALUTesting OK
+2014-7-29 11:45:7'6" ：ALU测试结束
+2014-7-29 11:45:7'307" ：ALUTesting OK
+2014-7-29 11:45:7'607" ：ALU测试结束
+2014-7-29 11:45:7'907" ：ALUTesting OK
+2014-7-29 11:45:8'208" ：ALU测试结束
+2014-7-29 11:45:8'509" ：ALUTesting OK
+2014-7-29 11:45:8'810" ：ALU测试结束
+2014-7-29 11:45:9'112" ：ALUTesting OK
+2014-7-29 11:45:9'412" ：ALU测试结束
+2014-7-29 11:45:9'713" ：ALUTesting OK
+2014-7-29 11:45:10'14" ：ALU测试结束
+2014-7-29 11:45:10'315" ：ALUTesting OK
+2014-7-29 11:45:10'615" ：ALU测试结束
+2014-7-29 11:45:10'917" ：ALUTesting OK
+2014-7-29 11:45:11'217" ：ALU测试结束
+2014-7-29 11:45:11'519" ：ALUTesting OK
+2014-7-29 11:45:11'820" ：ALU测试结束
+2014-7-29 11:45:12'120" ：ALUTesting OK
+2014-7-29 11:45:12'422" ：ALU测试结束
+2014-7-29 11:45:12'722" ：ALUTesting OK
+2014-7-29 11:45:13'24" ：ALU测试结束
+2014-7-29 11:45:13'325" ：ALUTesting OK
+2014-7-29 11:45:13'626" ：ALU测试结束
+2014-7-29 11:45:13'927" ：ALUTesting OK
+2014-7-29 11:45:14'227" ：ALU测试结束
+2014-7-29 11:45:14'528" ：ALUTesting OK
+2014-7-29 11:45:14'829" ：ALU测试结束
+2014-7-29 11:45:15'130" ：ALUTesting OK
+2014-7-29 11:45:15'430" ：ALU测试结束
+2014-7-29 11:45:15'731" ：ALUTesting OK
+2014-7-29 11:45:16'32" ：ALU测试结束
+2014-7-29 11:45:16'333" ：ALUTesting OK
+2014-7-29 11:45:16'634" ：ALU测试结束
+2014-7-29 11:45:16'935" ：ALUTesting OK
+2014-7-29 11:45:17'235" ：ALU测试结束
+2014-7-29 11:45:17'537" ：ALUTesting OK
+2014-7-29 11:45:17'837" ：ALU测试结束
+2014-7-29 11:45:18'137" ：ALUTesting OK
+2014-7-29 11:45:18'438" ：ALU测试结束
+2014-7-29 11:45:18'739" ：ALUTesting OK
+2014-7-29 11:45:19'40" ：ALU测试结束
+2014-7-29 11:45:19'341" ：ALUTesting OK
+2014-7-29 11:45:19'642" ：ALU测试结束
+2014-7-29 11:45:19'943" ：ALUTesting OK
+2014-7-29 11:45:20'244" ：ALU测试结束
+2014-7-29 11:45:20'545" ：ALUTesting OK
+2014-7-29 11:45:20'846" ：ALU测试结束
+2014-7-29 11:45:21'147" ：ALUTesting OK
+2014-7-29 11:45:21'448" ：ALU测试结束
+2014-7-29 11:52:8'101" ：TestStart...
+2014-7-29 11:52:8'423" ：ALUTesting OK
+2014-7-29 11:52:8'724" ：ALU测试结束
+2014-7-29 11:52:9'26" ：ALUTesting OK
+2014-7-29 11:52:9'327" ：ALU测试结束
+2014-7-29 11:52:9'628" ：ALUTesting OK
+2014-7-29 11:52:9'928" ：ALU测试结束
+2014-7-29 11:52:10'229" ：ALUTesting OK
+2014-7-29 11:52:10'530" ：ALU测试结束
+2014-7-29 11:52:10'831" ：ALUTesting OK
+2014-7-29 11:52:11'131" ：ALU测试结束
+2014-7-29 11:52:11'432" ：ALUTesting OK
+2014-7-29 11:52:11'733" ：ALU测试结束
+2014-7-29 11:52:12'34" ：ALUTesting OK
+2014-7-29 11:52:12'335" ：ALU测试结束
+2014-7-29 11:52:12'637" ：ALUTesting OK
+2014-7-29 11:52:12'937" ：ALU测试结束
+2014-7-29 11:52:13'238" ：ALUTesting OK
+2014-7-29 11:52:13'539" ：ALU测试结束
+2014-7-29 11:52:13'840" ：ALUTesting OK
+2014-7-29 11:52:14'141" ：ALU测试结束
+2014-7-29 11:52:14'442" ：ALUTesting OK
+2014-7-29 11:52:14'743" ：ALU测试结束
+2014-7-29 11:52:15'44" ：ALUTesting OK
+2014-7-29 11:52:15'345" ：ALU测试结束
+2014-7-29 11:52:15'646" ：ALUTesting OK
+2014-7-29 11:52:15'947" ：ALU测试结束
+2014-7-29 11:52:16'248" ：ALUTesting OK
+2014-7-29 11:52:16'548" ：ALU测试结束
+2014-7-29 11:52:16'848" ：ALUTesting OK
+2014-7-29 11:52:17'149" ：ALU测试结束
+2014-7-29 11:52:17'450" ：ALUTesting OK
+2014-7-29 11:52:17'751" ：ALU测试结束
+2014-7-29 11:52:18'52" ：ALUTesting OK
+2014-7-29 11:52:18'353" ：ALU测试结束
+2014-7-29 11:52:18'654" ：ALUTesting OK
+2014-7-29 11:52:18'955" ：ALU测试结束
+2014-7-29 11:52:19'256" ：ALUTesting OK
+2014-7-29 11:52:19'556" ：ALU测试结束
+2014-7-29 11:52:19'857" ：ALUTesting OK
+2014-7-29 11:52:20'161" ：ALU测试结束
+2014-7-29 11:52:20'463" ：ALUTesting OK
+2014-7-29 11:52:20'764" ：ALU测试结束
+2014-7-29 11:52:21'65" ：ALUTesting OK
+2014-7-29 11:52:21'365" ：ALU测试结束
+2014-7-29 11:52:21'666" ：ALUTesting OK
+2014-7-29 11:52:21'967" ：ALU测试结束
+2014-7-29 11:52:22'268" ：ALUTesting OK
+2014-7-29 11:52:22'570" ：ALU测试结束
+2014-7-29 11:52:22'870" ：ALUTesting OK
+2014-7-29 11:52:23'171" ：ALU测试结束
+2014-7-29 11:52:23'472" ：ALUTesting OK
+2014-7-29 11:52:23'773" ：ALU测试结束
+2014-7-29 11:52:24'74" ：ALUTesting OK
+2014-7-29 11:52:24'375" ：ALU测试结束
+2014-7-29 11:52:24'675" ：ALUTesting OK
+2014-7-29 11:52:24'976" ：ALU测试结束
+2014-7-29 11:52:25'277" ：ALUTesting OK
+2014-7-29 11:52:25'578" ：ALU测试结束
+2014-7-29 11:52:25'879" ：ALUTesting OK
+2014-7-29 11:52:26'179" ：ALU测试结束
+2014-7-29 11:52:26'480" ：ALUTesting OK
+2014-7-29 11:52:26'781" ：ALU测试结束
+2014-7-29 11:52:27'82" ：ALUTesting OK
+2014-7-29 11:52:27'383" ：ALU测试结束
+2014-7-29 11:52:27'684" ：ALUTesting OK
+2014-7-29 11:52:27'985" ：ALU测试结束
+2014-7-29 11:52:28'286" ：ALUTesting OK
+2014-7-29 11:52:28'587" ：ALU测试结束
+2014-7-29 11:52:28'888" ：ALUTesting OK
+2014-7-29 11:52:29'189" ：ALU测试结束
+2014-7-29 11:52:29'490" ：ALUTesting OK
+2014-7-29 11:52:29'790" ：ALU测试结束
+2014-7-29 11:52:30'91" ：ALUTesting OK
+2014-7-29 11:52:30'391" ：ALU测试结束
+2014-7-29 11:52:30'691" ：ALUTesting OK
+2014-7-29 11:52:30'993" ：ALU测试结束
+2014-7-29 11:52:31'293" ：ALUTesting OK
+2014-7-29 11:52:31'594" ：ALU测试结束
+2014-7-29 11:52:31'895" ：ALUTesting OK
+2014-7-29 11:52:32'217" ：ALU测试结束
+2014-7-29 11:52:32'519" ：ALUTesting OK
+2014-7-29 11:58:56'9" ：TestStart...
+2014-7-29 11:59:3'868" ：ALUTesting OK
+2014-7-29 11:59:4'170" ：ALU测试结束
+2014-7-29 11:59:4'471" ：ALUTesting OK
+2014-7-29 11:59:4'772" ：ALU测试结束
+2014-7-29 11:59:5'72" ：ALUTesting OK
+2014-7-29 11:59:5'374" ：ALU测试结束
+2014-7-29 11:59:5'674" ：ALUTesting OK
+2014-7-29 11:59:5'975" ：ALU测试结束
+2014-7-29 11:59:6'276" ：ALUTesting OK
+2014-7-29 11:59:6'577" ：ALU测试结束
+2014-7-29 11:59:6'878" ：ALUTesting OK
+2014-7-29 11:59:7'179" ：ALU测试结束
+2014-7-29 11:59:7'481" ：ALUTesting OK
+2014-7-29 11:59:7'782" ：ALU测试结束
+2014-7-29 11:59:8'83" ：ALUTesting OK
+2014-7-29 11:59:8'383" ：ALU测试结束
+2014-7-29 11:59:8'684" ：ALUTesting OK
+2014-7-29 11:59:8'985" ：ALU测试结束
+2014-7-29 11:59:9'286" ：ALUTesting OK
+2014-7-29 11:59:9'586" ：ALU测试结束
+2014-7-29 11:59:9'887" ：ALUTesting OK
+2014-7-29 11:59:10'188" ：ALU测试结束
+2014-7-29 11:59:10'489" ：ALUTesting OK
+2014-7-29 11:59:10'790" ：ALU测试结束
+2014-7-29 11:59:11'90" ：ALUTesting OK
+2014-7-29 11:59:11'392" ：ALU测试结束
+2014-7-29 11:59:11'692" ：ALUTesting OK
+2014-7-29 11:59:11'993" ：ALU测试结束
+2014-7-29 11:59:12'294" ：ALUTesting OK
+2014-7-29 11:59:12'595" ：ALU测试结束
+2014-7-29 11:59:12'896" ：ALUTesting OK
+2014-7-29 11:59:13'196" ：ALU测试结束
+2014-7-29 11:59:13'497" ：ALUTesting OK
+2014-7-29 11:59:13'798" ：ALU测试结束
+2014-7-29 11:59:14'99" ：ALUTesting OK
+2014-7-29 11:59:14'400" ：ALU测试结束
+2014-7-29 11:59:14'700" ：ALUTesting OK
+2014-7-29 11:59:15'1" ：ALU测试结束
+2014-7-29 11:59:15'301" ：ALUTesting OK
+2014-7-29 11:59:15'602" ：ALU测试结束
+2014-7-29 11:59:15'903" ：ALUTesting OK
+2014-7-29 11:59:16'204" ：ALU测试结束
+2014-7-29 11:59:16'505" ：ALUTesting OK
+2014-7-29 11:59:16'806" ：ALU测试结束
+2014-7-29 11:59:17'107" ：ALUTesting OK
+2014-7-29 11:59:17'408" ：ALU测试结束
+2014-7-29 11:59:17'709" ：ALUTesting OK
+2014-7-29 11:59:18'9" ：ALU测试结束
+2014-7-29 11:59:18'311" ：ALUTesting OK
+2014-7-29 11:59:18'612" ：ALU测试结束
+2014-7-29 11:59:18'913" ：ALUTesting OK
+2014-7-29 11:59:19'214" ：ALU测试结束
+2014-7-29 11:59:19'514" ：ALUTesting OK
+2014-7-29 11:59:19'816" ：ALU测试结束
+2014-7-29 11:59:20'117" ：ALUTesting OK
+2014-7-29 11:59:20'418" ：ALU测试结束
+2014-7-29 11:59:20'719" ：ALUTesting OK
+2014-7-29 11:59:21'19" ：ALU测试结束
+2014-7-29 11:59:21'320" ：ALUTesting OK
+2014-7-29 11:59:21'621" ：ALU测试结束
+2014-7-29 11:59:21'923" ：ALUTesting OK
+2014-7-29 12:0:11'941" ：TestStart...
+2014-7-29 12:0:12'250" ：ALUTesting OK
+2014-7-29 12:0:12'552" ：ALU测试结束
+2014-7-29 12:0:12'852" ：ALUTesting OK
+2014-7-29 12:0:13'153" ：ALU测试结束
+2014-7-29 12:0:13'454" ：ALUTesting OK
+2014-7-29 12:0:13'755" ：ALU测试结束
+2014-7-29 12:0:14'56" ：ALUTesting OK
+2014-7-29 12:0:14'356" ：ALU测试结束
+2014-7-29 12:0:14'657" ：ALUTesting OK
+2014-7-29 12:0:14'958" ：ALU测试结束
+2014-7-29 12:0:15'259" ：ALUTesting OK
+2014-7-29 12:0:15'560" ：ALU测试结束
+2014-7-29 12:0:15'862" ：ALUTesting OK
+2014-7-29 12:0:16'162" ：ALU测试结束
+2014-7-29 12:0:16'463" ：ALUTesting OK
+2014-7-29 12:0:16'764" ：ALU测试结束
+2014-7-29 12:0:17'65" ：ALUTesting OK
+2014-7-29 12:0:17'366" ：ALU测试结束
+2014-7-29 12:0:17'667" ：ALUTesting OK
+2014-7-29 12:0:17'968" ：ALU测试结束
+2014-7-29 12:0:18'269" ：ALUTesting OK
+2014-7-29 12:0:18'570" ：ALU测试结束
+2014-7-29 12:0:18'871" ：ALUTesting OK
+2014-7-29 12:0:19'172" ：ALU测试结束
+2014-7-29 12:0:19'473" ：ALUTesting OK
+2014-7-29 12:0:19'774" ：ALU测试结束
+2014-7-29 12:0:20'74" ：ALUTesting OK
+2014-7-29 12:0:20'375" ：ALU测试结束
+2014-7-29 12:0:20'677" ：ALUTesting OK
+2014-7-29 12:0:20'978" ：ALU测试结束
+2014-7-29 12:0:21'279" ：ALUTesting OK
+2014-7-29 12:0:21'579" ：ALU测试结束
+2014-7-29 12:0:21'880" ：ALUTesting OK
+2014-7-29 12:0:22'181" ：ALU测试结束
+2014-7-29 12:0:22'481" ：ALUTesting OK
+2014-7-29 12:0:22'783" ：ALU测试结束
+2014-7-29 12:0:23'84" ：ALUTesting OK
+2014-7-29 12:0:23'384" ：ALU测试结束
+2014-7-29 12:0:23'685" ：ALUTesting OK
+2014-7-29 12:0:23'986" ：ALU测试结束
+2014-7-29 12:0:24'287" ：ALUTesting OK
+2014-7-29 12:0:24'588" ：ALU测试结束
+2014-7-29 12:0:24'889" ：ALUTesting OK
+2014-7-29 12:0:25'190" ：ALU测试结束
+2014-7-29 12:0:25'490" ：ALUTesting OK
+2014-7-29 12:0:25'792" ：ALU测试结束
+2014-7-29 12:0:26'92" ：ALUTesting OK
+2014-7-29 12:0:26'393" ：ALU测试结束
+2014-7-29 12:0:26'694" ：ALUTesting OK
+2014-7-29 12:0:27'54" ：读取串口失败，等待设备重启
+2014-7-29 12:0:40'385" ：TestStart...
+2014-7-29 12:0:40'689" ：ALUTesting OK
+2014-7-29 12:0:40'989" ：ALU测试结束
+2014-7-29 12:0:41'290" ：ALUTesting OK
+2014-7-29 12:0:41'590" ：ALU测试结束
+2014-7-29 12:0:41'892" ：ALUTesting OK
+2014-7-29 12:0:42'192" ：ALU测试结束
+2014-7-29 12:0:42'357" ：ALUTesting OK
+2014-7-29 12:0:42'494" ：ALU测试结束
+2014-7-29 12:0:42'658" ：ALUTesting OK
+2014-7-29 12:0:42'795" ：ALU测试结束
+2014-7-29 12:0:42'958" ：ALUTesting OK
+2014-7-29 12:0:43'96" ：ALU测试结束
+2014-7-29 12:0:43'259" ：ALUTesting OK
+2014-7-29 12:0:43'397" ：ALU测试结束
+2014-7-29 12:0:43'560" ：ALUTesting OK
+2014-7-29 12:0:43'698" ：ALU测试结束
+2014-7-29 12:0:43'860" ：ALUTesting OK
+2014-7-29 12:0:43'999" ：ALU测试结束
+2014-7-29 12:0:44'161" ：ALUTesting OK
+2014-7-29 12:0:44'300" ：ALU测试结束
+2014-7-29 12:0:44'461" ：ALUTesting OK
+2014-7-29 12:0:44'601" ：ALU测试结束
+2014-7-29 12:0:44'762" ：ALUTesting OK
+2014-7-29 12:0:44'902" ：ALU测试结束
+2014-7-29 12:0:45'62" ：ALUTesting OK
+2014-7-29 12:0:45'203" ：ALU测试结束
+2014-7-29 12:0:45'362" ：ALUTesting OK
+2014-7-29 12:0:45'504" ：ALU测试结束
+2014-7-29 12:0:45'663" ：ALUTesting OK
+2014-7-29 12:0:45'805" ：ALU测试结束
+2014-7-29 12:0:45'964" ：ALUTesting OK
+2014-7-29 12:0:46'106" ：ALU测试结束
+2014-7-29 12:0:46'265" ：ALUTesting OK
+2014-7-29 12:0:46'407" ：ALU测试结束
+2014-7-29 12:0:46'566" ：ALUTesting OK
+2014-7-29 12:0:46'708" ：ALU测试结束
+2014-7-29 12:0:46'868" ：ALUTesting OK
+2014-7-29 12:0:47'9" ：ALU测试结束
+2014-7-29 12:0:47'168" ：ALUTesting OK
+2014-7-29 12:0:47'309" ：ALU测试结束
+2014-7-29 12:0:47'469" ：ALUTesting OK
+2014-7-29 12:0:47'611" ：ALU测试结束
+2014-7-29 12:0:47'770" ：ALUTesting OK
+2014-7-29 12:0:47'912" ：ALU测试结束
+2014-7-29 12:0:48'71" ：ALUTesting OK
+2014-7-29 12:0:48'213" ：ALU测试结束
+2014-7-29 12:0:48'372" ：ALUTesting OK
+2014-7-29 12:0:48'515" ：ALU测试结束
+2014-7-29 12:0:48'673" ：ALUTesting OK
+2014-7-29 12:0:48'815" ：ALU测试结束
+2014-7-29 12:0:48'974" ：ALUTesting OK
+2014-7-29 12:0:49'117" ：ALU测试结束
+2014-7-29 12:0:49'274" ：ALUTesting OK
+2014-7-29 12:0:49'417" ：ALU测试结束
+2014-7-29 12:0:49'575" ：ALUTesting OK
+2014-7-29 12:0:49'719" ：ALU测试结束
+2014-7-29 12:0:49'875" ：ALUTesting OK
+2014-7-29 12:0:50'20" ：ALU测试结束
+2014-7-29 12:0:50'175" ：ALUTesting OK
+2014-7-29 12:0:50'321" ：ALU测试结束
+2014-7-29 12:0:50'476" ：ALUTesting OK
+2014-7-29 12:0:50'622" ：ALU测试结束
+2014-7-29 12:0:50'776" ：ALUTesting OK
+2014-7-29 12:0:50'924" ：ALU测试结束
+2014-7-29 12:0:51'77" ：ALUTesting OK
+2014-7-29 12:0:51'225" ：ALU测试结束
+2014-7-29 12:0:51'378" ：ALUTesting OK
+2014-7-29 12:0:51'526" ：ALU测试结束
+2014-7-29 12:0:51'679" ：ALUTesting OK
+2014-7-29 12:0:51'826" ：ALU测试结束
+2014-7-29 12:0:51'979" ：ALUTesting OK
+2014-7-29 12:0:52'127" ：ALU测试结束
+2014-7-29 12:0:52'280" ：ALUTesting OK
+2014-7-29 12:0:52'428" ：ALU测试结束
+2014-7-29 12:0:52'581" ：ALUTesting OK
+2014-7-29 12:0:52'729" ：ALU测试结束
+2014-7-29 12:0:52'882" ：ALUTesting OK
+2014-7-29 12:0:53'31" ：ALU测试结束
+2014-7-29 12:0:53'183" ：ALUTesting OK
+2014-7-29 12:0:53'332" ：ALU测试结束
+2014-7-29 12:0:53'484" ：ALUTesting OK
+2014-7-29 12:0:53'633" ：ALU测试结束
+2014-7-29 12:0:53'785" ：ALUTesting OK
+2014-7-29 12:0:53'934" ：ALU测试结束
+2014-7-29 12:0:54'86" ：ALUTesting OK
+2014-7-29 12:0:54'235" ：ALU测试结束
+2014-7-29 12:0:54'387" ：ALUTesting OK
+2014-7-29 12:0:54'536" ：ALU测试结束
+2014-7-29 12:0:54'688" ：ALUTesting OK
+2014-7-29 12:0:54'837" ：ALU测试结束
+2014-7-29 12:0:54'989" ：ALUTesting OK
+2014-7-29 12:0:55'138" ：ALU测试结束
+2014-7-29 12:0:55'289" ：ALUTesting OK
+2014-7-29 12:0:55'439" ：ALU测试结束
+2014-7-29 12:0:55'589" ：ALUTesting OK
+2014-7-29 12:0:55'740" ：ALU测试结束
+2014-7-29 12:0:55'890" ：ALUTesting OK
+2014-7-29 12:0:56'40" ：ALU测试结束
+2014-7-29 12:0:56'191" ：ALUTesting OK
+2014-7-29 12:0:56'341" ：ALU测试结束
+2014-7-29 12:0:56'491" ：ALUTesting OK
+2014-7-29 12:0:56'642" ：ALU测试结束
+2014-7-29 12:0:56'792" ：ALUTesting OK
+2014-7-29 12:0:56'943" ：ALU测试结束
+2014-7-29 12:0:57'93" ：ALUTesting OK
+2014-7-29 12:0:57'244" ：ALU测试结束
+2014-7-29 12:0:57'394" ：ALUTesting OK
+2014-7-29 12:0:57'545" ：ALU测试结束
+2014-7-29 12:0:57'695" ：ALUTesting OK
+2014-7-29 12:0:57'845" ：ALU测试结束
+2014-7-29 12:0:57'996" ：ALUTesting OK
+2014-7-29 12:0:58'146" ：ALU测试结束
+2014-7-29 12:0:58'296" ：ALUTesting OK
+2014-7-29 12:0:58'447" ：ALU测试结束
+2014-7-29 12:0:58'597" ：ALUTesting OK
+2014-7-29 12:0:58'748" ：ALU测试结束
+2014-7-29 12:0:58'898" ：ALUTesting OK
+2014-7-29 12:0:59'49" ：ALU测试结束
+2014-7-29 12:0:59'199" ：ALUTesting OK
+2014-7-29 12:0:59'350" ：ALU测试结束
+2014-7-29 12:0:59'499" ：ALUTesting OK
+2014-7-29 12:0:59'651" ：ALU测试结束
+2014-7-29 12:0:59'799" ：ALUTesting OK
+2014-7-29 12:0:59'952" ：ALU测试结束
+2014-7-29 12:1:0'100" ：ALUTesting OK
+2014-7-29 12:1:0'253" ：ALU测试结束
+2014-7-29 12:1:0'401" ：ALUTesting OK
+2014-7-29 12:1:0'554" ：ALU测试结束
+2014-7-29 12:1:0'702" ：ALUTesting OK
+2014-7-29 12:1:0'854" ：ALU测试结束
+2014-7-29 12:1:1'2" ：ALUTesting OK
+2014-7-29 12:1:1'155" ：ALU测试结束
+2014-7-29 12:1:1'303" ：ALUTesting OK
+2014-7-29 12:1:1'456" ：ALU测试结束
+2014-7-29 12:1:1'603" ：ALUTesting OK
+2014-7-29 12:1:1'757" ：ALU测试结束
+2014-7-29 12:1:1'904" ：ALUTesting OK
+2014-7-29 12:1:2'58" ：ALU测试结束
+2014-7-29 12:1:2'205" ：ALUTesting OK
+2014-7-29 12:1:2'359" ：ALU测试结束
+2014-7-29 12:1:2'506" ：ALUTesting OK
+2014-7-29 12:1:2'660" ：ALU测试结束
+2014-7-29 12:1:2'807" ：ALUTesting OK
+2014-7-29 12:1:2'961" ：ALU测试结束
+2014-7-29 12:1:3'107" ：ALUTesting OK
+2014-7-29 12:1:3'262" ：ALU测试结束
+2014-7-29 12:1:3'408" ：ALUTesting OK
+2014-7-29 12:1:3'564" ：ALU测试结束
+2014-7-29 12:1:3'708" ：ALUTesting OK
+2014-7-29 12:1:3'864" ：ALU测试结束
+2014-7-29 12:1:4'9" ：ALUTesting OK
+2014-7-29 12:1:4'169" ：ALU测试结束
+2014-7-29 12:1:4'310" ：ALUTesting OK
+2014-7-29 12:1:4'472" ：ALU测试结束
+2014-7-29 12:1:4'610" ：ALUTesting OK
+2014-7-29 12:1:4'773" ：ALU测试结束
+2014-7-29 12:1:4'910" ：ALUTesting OK
+2014-7-29 12:1:5'74" ：ALU测试结束
+2014-7-29 12:1:5'234" ：读取串口失败，等待设备重启
+2014-7-29 12:1:5'387" ：读取串口失败，等待设备重启
+2014-7-29 12:1:9'788" ：TestStart...
+2014-7-29 12:1:10'92" ：ALUTesting OK
+2014-7-29 12:1:10'392" ：ALU测试结束
+2014-7-29 12:1:10'693" ：ALUTesting OK
+2014-7-29 12:1:10'994" ：ALU测试结束
+2014-7-29 12:1:11'295" ：ALUTesting OK
+2014-7-29 12:1:11'596" ：ALU测试结束
+2014-7-29 12:1:11'897" ：ALUTesting OK
+2014-7-29 12:1:12'198" ：ALU测试结束
+2014-7-29 12:1:12'499" ：ALUTesting OK
+2014-7-29 12:1:12'800" ：ALU测试结束
+2014-7-29 12:1:13'101" ：ALUTesting OK
+2014-7-29 12:1:13'402" ：ALU测试结束
+2014-7-29 12:1:13'703" ：ALUTesting OK
+2014-7-29 12:1:14'4" ：ALU测试结束
+2014-7-29 12:1:14'304" ：ALUTesting OK
+2014-7-29 12:1:14'605" ：ALU测试结束
+2014-7-29 12:1:14'906" ：ALUTesting OK
+2014-7-29 12:1:15'207" ：ALU测试结束
+2014-7-29 12:1:15'508" ：ALUTesting OK
+2014-7-29 12:1:15'809" ：ALU测试结束
+2014-7-29 12:1:16'110" ：ALUTesting OK
+2014-7-29 12:1:16'411" ：ALU测试结束
+2014-7-29 12:1:16'711" ：ALUTesting OK
+2014-7-29 12:1:17'12" ：ALU测试结束
+2014-7-29 12:1:17'313" ：ALUTesting OK
+2014-7-29 12:1:17'614" ：ALU测试结束
+2014-7-29 12:1:17'915" ：ALUTesting OK
+2014-7-29 12:1:18'215" ：ALU测试结束
+2014-7-29 12:1:18'517" ：ALUTesting OK
+2014-7-29 12:1:18'818" ：ALU测试结束
+2014-7-29 12:1:19'118" ：ALUTesting OK
+2014-7-29 12:1:19'419" ：ALU测试结束
+2014-7-29 12:1:19'720" ：ALUTesting OK
+2014-7-29 12:1:20'21" ：ALU测试结束
+2014-7-29 12:1:20'321" ：ALUTesting OK
+2014-7-29 12:1:20'536" ：ALU测试结束
+2014-7-29 12:1:20'621" ：ALUTesting OK
+2014-7-29 12:1:20'689" ：ALU测试结束
+2014-7-29 12:1:20'837" ：ALUTesting OK
+2014-7-29 12:1:20'922" ：ALU测试结束
+2014-7-29 12:1:20'989" ：ALUTesting OK
+2014-7-29 12:1:21'138" ：ALU测试结束
+2014-7-29 12:1:21'223" ：ALUTesting OK
+2014-7-29 12:1:21'290" ：ALU测试结束
+2014-7-29 12:1:21'439" ：ALUTesting OK
+2014-7-29 12:1:21'524" ：ALU测试结束
+2014-7-29 12:1:21'591" ：ALUTesting OK
+2014-7-29 12:1:21'739" ：ALU测试结束
+2014-7-29 12:1:21'824" ：ALUTesting OK
+2014-7-29 12:1:21'892" ：ALU测试结束
+2014-7-29 12:1:22'41" ：ALUTesting OK
+2014-7-29 12:1:22'125" ：ALU测试结束
+2014-7-29 12:1:22'193" ：ALUTesting OK
+2014-7-29 12:1:22'342" ：ALU测试结束
+2014-7-29 12:1:22'426" ：ALUTesting OK
+2014-7-29 12:1:22'493" ：ALU测试结束
+2014-7-29 12:1:22'643" ：ALUTesting OK
+2014-7-29 12:1:22'727" ：ALU测试结束
+2014-7-29 12:1:22'794" ：ALUTesting OK
+2014-7-29 12:1:22'944" ：ALU测试结束
+2014-7-29 12:1:23'28" ：ALUTesting OK
+2014-7-29 12:1:23'95" ：ALU测试结束
+2014-7-29 12:1:23'245" ：ALUTesting OK
+2014-7-29 12:1:23'329" ：ALU测试结束
+2014-7-29 12:1:23'396" ：ALUTesting OK
+2014-7-29 12:1:23'546" ：ALU测试结束
+2014-7-29 12:1:23'630" ：ALUTesting OK
+2014-7-29 12:1:23'697" ：ALU测试结束
+2014-7-29 12:1:23'848" ：ALUTesting OK
+2014-7-29 12:1:23'931" ：ALU测试结束
+2014-7-29 12:1:23'997" ：ALUTesting OK
+2014-7-29 12:1:24'148" ：ALU测试结束
+2014-7-29 12:1:24'232" ：ALUTesting OK
+2014-7-29 12:1:24'298" ：ALU测试结束
+2014-7-29 12:1:24'448" ：ALUTesting OK
+2014-7-29 12:1:24'533" ：ALU测试结束
+2014-7-29 12:1:24'599" ：ALUTesting OK
+2014-7-29 12:1:24'749" ：ALU测试结束
+2014-7-29 12:1:24'833" ：ALUTesting OK
+2014-7-29 12:1:24'899" ：ALU测试结束
+2014-7-29 12:1:25'50" ：ALUTesting OK
+2014-7-29 12:1:25'134" ：ALU测试结束
+2014-7-29 12:1:25'200" ：ALUTesting OK
+2014-7-29 12:1:25'350" ：ALU测试结束
+2014-7-29 12:1:25'435" ：ALUTesting OK
+2014-7-29 12:1:25'500" ：ALU测试结束
+2014-7-29 12:1:25'651" ：ALUTesting OK
+2014-7-29 12:1:25'735" ：ALU测试结束
+2014-7-29 12:1:25'801" ：ALUTesting OK
+2014-7-29 12:1:25'952" ：ALU测试结束
+2014-7-29 12:1:26'37" ：ALUTesting OK
+2014-7-29 12:1:26'102" ：ALU测试结束
+2014-7-29 12:1:26'253" ：ALUTesting OK
+2014-7-29 12:1:26'338" ：ALU测试结束
+2014-7-29 12:1:26'402" ：ALUTesting OK
+2014-7-29 12:1:26'554" ：ALU测试结束
+2014-7-29 12:1:26'639" ：ALUTesting OK
+2014-7-29 12:1:26'703" ：ALU测试结束
+2014-7-29 12:1:26'855" ：ALUTesting OK
+2014-7-29 12:1:26'940" ：ALU测试结束
+2014-7-29 12:1:27'4" ：ALUTesting OK
+2014-7-29 12:1:27'156" ：ALU测试结束
+2014-7-29 12:1:27'241" ：ALUTesting OK
+2014-7-29 12:1:27'304" ：ALU测试结束
+2014-7-29 12:1:27'457" ：ALUTesting OK
+2014-7-29 12:1:27'542" ：ALU测试结束
+2014-7-29 12:1:27'605" ：ALUTesting OK
+2014-7-29 12:1:27'759" ：ALU测试结束
+2014-7-29 12:1:27'842" ：ALUTesting OK
+2014-7-29 12:1:27'906" ：ALU测试结束
+2014-7-29 12:1:28'60" ：ALUTesting OK
+2014-7-29 12:1:28'143" ：ALU测试结束
+2014-7-29 12:1:28'207" ：ALUTesting OK
+2014-7-29 12:1:28'361" ：ALU测试结束
+2014-7-29 12:1:28'443" ：ALUTesting OK
+2014-7-29 12:1:28'507" ：ALU测试结束
+2014-7-29 12:1:28'662" ：ALUTesting OK
+2014-7-29 12:1:28'745" ：ALU测试结束
+2014-7-29 12:1:28'808" ：ALUTesting OK
+2014-7-29 12:1:28'963" ：ALU测试结束
+2014-7-29 12:1:29'45" ：ALUTesting OK
+2014-7-29 12:1:29'109" ：ALU测试结束
+2014-7-29 12:1:29'264" ：ALUTesting OK
+2014-7-29 12:1:29'346" ：ALU测试结束
+2014-7-29 12:1:29'410" ：ALUTesting OK
+2014-7-29 12:1:29'565" ：ALU测试结束
+2014-7-29 12:1:29'646" ：ALUTesting OK
+2014-7-29 12:1:29'711" ：ALU测试结束
+2014-7-29 12:1:29'866" ：ALUTesting OK
+2014-7-29 12:1:29'947" ：ALU测试结束
+2014-7-29 12:1:30'12" ：ALUTesting OK
+2014-7-29 12:1:30'166" ：ALU测试结束
+2014-7-29 12:1:30'248" ：ALUTesting OK
+2014-7-29 12:1:30'312" ：ALU测试结束
+2014-7-29 12:1:30'467" ：ALUTesting OK
+2014-7-29 12:1:30'548" ：ALU测试结束
+2014-7-29 12:1:30'613" ：ALUTesting OK
+2014-7-29 12:1:30'769" ：ALU测试结束
+2014-7-29 12:1:30'849" ：ALUTesting OK
+2014-7-29 12:1:30'917" ：ALU测试结束
+2014-7-29 12:1:31'70" ：ALUTesting OK
+2014-7-29 12:1:31'149" ：ALU测试结束
+2014-7-29 12:1:31'218" ：ALUTesting OK
+2014-7-29 12:1:31'371" ：ALU测试结束
+2014-7-29 12:1:31'450" ：ALUTesting OK
+2014-7-29 12:1:31'519" ：ALU测试结束
+2014-7-29 12:1:31'672" ：ALUTesting OK
+2014-7-29 12:1:31'751" ：ALU测试结束
+2014-7-29 12:1:31'820" ：ALUTesting OK
+2014-7-29 12:1:31'973" ：ALU测试结束
+2014-7-29 12:1:32'52" ：ALUTesting OK
+2014-7-29 12:1:32'121" ：ALU测试结束
+2014-7-29 12:1:32'274" ：ALUTesting OK
+2014-7-29 12:1:32'352" ：ALU测试结束
+2014-7-29 12:1:32'421" ：ALUTesting OK
+2014-7-29 12:1:32'575" ：ALU测试结束
+2014-7-29 12:1:32'653" ：ALUTesting OK
+2014-7-29 12:1:32'722" ：ALU测试结束
+2014-7-29 12:1:32'876" ：ALUTesting OK
+2014-7-29 12:1:32'954" ：ALU测试结束
+2014-7-29 12:1:33'23" ：ALUTesting OK
+2014-7-29 12:1:33'177" ：ALU测试结束
+2014-7-29 12:1:33'255" ：ALUTesting OK
+2014-7-29 12:1:33'323" ：ALU测试结束
+2014-7-29 12:1:33'477" ：ALUTesting OK
+2014-7-29 12:1:33'556" ：ALU测试结束
+2014-7-29 12:1:33'624" ：ALUTesting OK
+2014-7-29 12:1:33'779" ：ALU测试结束
+2014-7-29 12:1:33'856" ：ALUTesting OK
+2014-7-29 12:1:33'925" ：ALU测试结束
+2014-7-29 12:1:34'79" ：ALUTesting OK
+2014-7-29 12:1:34'157" ：ALU测试结束
+2014-7-29 12:1:34'226" ：ALUTesting OK
+2014-7-29 12:1:34'380" ：ALU测试结束
+2014-7-29 12:1:34'458" ：ALUTesting OK
+2014-7-29 12:1:34'527" ：ALU测试结束
+2014-7-29 12:1:34'680" ：ALUTesting OK
+2014-7-29 12:1:34'759" ：ALU测试结束
+2014-7-29 12:1:34'829" ：ALUTesting OK
+2014-7-29 12:1:34'981" ：ALU测试结束
+2014-7-29 12:1:35'60" ：ALUTesting OK
+2014-7-29 12:1:35'129" ：ALU测试结束
+2014-7-29 12:1:35'282" ：ALUTesting OK
+2014-7-29 12:1:35'360" ：ALU测试结束
+2014-7-29 12:1:35'430" ：ALUTesting OK
+2014-7-29 12:1:35'583" ：ALU测试结束
+2014-7-29 12:1:35'661" ：ALUTesting OK
+2014-7-29 12:1:35'731" ：ALU测试结束
+2014-7-29 12:1:35'884" ：ALUTesting OK
+2014-7-29 12:2:14'245" ：TestStart...
+2014-7-29 12:2:14'556" ：ALUTesting OK
+2014-7-29 12:2:14'857" ：ALU测试结束
+2014-7-29 12:2:15'158" ：ALUTesting OK
+2014-7-29 12:2:15'459" ：ALU测试结束
+2014-7-29 12:2:15'759" ：ALUTesting OK
+2014-7-29 12:2:16'60" ：ALU测试结束
+2014-7-29 12:2:16'361" ：ALUTesting OK
+2014-7-29 12:2:16'661" ：ALU测试结束
+2014-7-29 12:2:16'962" ：ALUTesting OK
+2014-7-29 12:2:17'262" ：ALU测试结束
+2014-7-29 12:2:17'563" ：ALUTesting OK
+2014-7-29 12:2:17'864" ：ALU测试结束
+2014-7-29 12:2:18'165" ：ALUTesting OK
+2014-7-29 12:2:18'466" ：ALU测试结束
+2014-7-29 12:2:18'767" ：ALUTesting OK
+2014-7-29 12:2:19'67" ：ALU测试结束
+2014-7-29 12:2:19'368" ：ALUTesting OK
+2014-7-29 12:2:19'669" ：ALU测试结束
+2014-7-29 12:2:19'970" ：ALUTesting OK
+2014-7-29 12:2:20'271" ：ALU测试结束
+2014-7-29 12:2:20'572" ：ALUTesting OK
+2014-7-29 12:2:20'873" ：ALU测试结束
+2014-7-29 12:2:21'174" ：ALUTesting OK
+2014-7-29 12:2:21'474" ：ALU测试结束
+2014-7-29 12:2:21'775" ：ALUTesting OK
+2014-7-29 12:2:22'76" ：ALU测试结束
+2014-7-29 12:2:22'377" ：ALUTesting OK
+2014-7-29 12:2:22'678" ：ALU测试结束
+2014-7-29 12:2:22'979" ：ALUTesting OK
+2014-7-29 12:2:23'280" ：ALU测试结束
+2014-7-29 12:2:23'580" ：ALUTesting OK
+2014-7-29 12:2:23'881" ：ALU测试结束
+2014-7-29 12:2:24'182" ：ALUTesting OK
+2014-7-29 12:2:24'482" ：ALU测试结束
+2014-7-29 12:2:24'783" ：ALUTesting OK
+2014-7-29 12:2:25'84" ：ALU测试结束
+2014-7-29 12:2:25'386" ：ALUTesting OK
+2014-7-29 12:2:25'687" ：ALU测试结束
+2014-7-29 12:2:25'988" ：ALUTesting OK
+2014-7-29 12:2:26'288" ：ALU测试结束
+2014-7-29 12:2:26'589" ：ALUTesting OK
+2014-7-29 12:2:26'890" ：ALU测试结束
+2014-7-29 12:2:27'191" ：ALUTesting OK
+2014-7-29 12:2:27'491" ：ALU测试结束
+2014-7-29 12:2:27'792" ：ALUTesting OK
+2014-7-29 12:2:28'94" ：ALU测试结束
+2014-7-29 12:2:28'394" ：ALUTesting OK
+2014-7-29 12:2:28'695" ：ALU测试结束
+2014-7-29 12:2:28'996" ：ALUTesting OK
+2014-7-29 12:2:29'297" ：ALU测试结束
+2014-7-29 12:2:29'598" ：ALUTesting OK
+2014-7-29 12:2:29'899" ：ALU测试结束
+2014-7-29 12:2:30'200" ：ALUTesting OK
+2014-7-29 12:2:30'501" ：ALU测试结束
+2014-7-29 12:2:30'802" ：ALUTesting OK
+2014-7-29 12:2:31'103" ：ALU测试结束
+2014-7-29 12:2:31'404" ：ALUTesting OK
+2014-7-29 12:2:31'705" ：ALU测试结束
+2014-7-29 12:2:32'6" ：ALUTesting OK
+2014-7-29 12:2:32'306" ：ALU测试结束
+2014-7-29 12:2:32'607" ：ALUTesting OK
+2014-7-29 12:2:32'908" ：ALU测试结束
+2014-7-29 12:2:33'208" ：ALUTesting OK
+2014-7-29 12:2:33'509" ：ALU测试结束
+2014-7-29 12:2:33'810" ：ALUTesting OK
+2014-7-29 12:2:34'111" ：ALU测试结束
+2014-7-29 12:2:34'412" ：ALUTesting OK
+2014-7-29 12:2:34'713" ：ALU测试结束
+2014-7-29 12:2:35'13" ：ALUTesting OK
+2014-7-29 12:2:35'314" ：ALU测试结束
+2014-7-29 12:2:35'615" ：ALUTesting OK
+2014-7-29 12:2:35'916" ：ALU测试结束
+2014-7-29 12:2:36'217" ：ALUTesting OK
+2014-7-29 12:2:36'518" ：ALU测试结束
+2014-7-29 12:2:36'819" ：ALUTesting OK
+2014-7-29 12:2:37'120" ：ALU测试结束
+2014-7-29 12:2:37'421" ：ALUTesting OK
+2014-7-29 12:2:37'722" ：ALU测试结束
+2014-7-29 12:2:38'23" ：ALUTesting OK
+2014-7-29 12:2:38'324" ：ALU测试结束
+2014-7-29 12:2:38'625" ：ALUTesting OK
+2014-7-29 12:2:38'926" ：ALU测试结束
+2014-7-29 12:2:39'227" ：ALUTesting OK
+2014-7-29 12:2:39'528" ：ALU测试结束
+2014-7-29 12:2:39'829" ：ALUTesting OK
+2014-7-29 12:2:40'130" ：ALU测试结束
+2014-7-29 12:2:40'431" ：ALUTesting OK
+2014-7-29 12:2:40'732" ：ALU测试结束
+2014-7-29 12:2:41'33" ：ALUTesting OK
+2014-7-29 12:2:41'335" ：ALU测试结束
+2014-7-29 12:2:41'635" ：ALUTesting OK
+2014-7-29 12:2:41'936" ：ALU测试结束
+2014-7-29 12:2:42'237" ：ALUTesting OK
+2014-7-29 12:2:42'538" ：ALU测试结束
+2014-7-29 12:2:42'839" ：ALUTesting OK
+2014-7-29 12:2:43'140" ：ALU测试结束
+2014-7-29 12:2:43'440" ：ALUTesting OK
+2014-7-29 12:4:29'167" ：TestStart...
+2014-7-29 12:4:29'477" ：ALUTesting OK
+2014-7-29 12:4:29'778" ：ALU测试结束
+2014-7-29 12:4:30'78" ：ALUTesting OK
+2014-7-29 12:4:30'379" ：ALU测试结束
+2014-7-29 12:4:30'680" ：ALUTesting OK
+2014-7-29 12:4:30'980" ：ALU测试结束
+2014-7-29 12:4:31'281" ：ALUTesting OK
+2014-7-29 12:4:31'582" ：ALU测试结束
+2014-7-29 12:4:31'882" ：ALUTesting OK
+2014-7-29 12:4:32'183" ：ALU测试结束
+2014-7-29 12:4:32'484" ：ALUTesting OK
+2014-7-29 12:4:32'785" ：ALU测试结束
+2014-7-29 12:4:33'86" ：ALUTesting OK
+2014-7-29 12:4:33'387" ：ALU测试结束
+2014-7-29 12:4:33'688" ：ALUTesting OK
+2014-7-29 12:4:33'989" ：ALU测试结束
+2014-7-29 12:4:34'290" ：ALUTesting OK
+2014-7-29 12:4:34'590" ：ALU测试结束
+2014-7-29 12:4:34'891" ：ALUTesting OK
+2014-7-29 12:4:35'192" ：ALU测试结束
+2014-7-29 12:4:35'493" ：ALUTesting OK
+2014-7-29 12:4:35'793" ：ALU测试结束
+2014-7-29 12:4:36'95" ：ALUTesting OK
+2014-7-29 12:4:36'396" ：ALU测试结束
+2014-7-29 12:4:36'697" ：ALUTesting OK
+2014-7-29 12:4:36'999" ：ALU测试结束
+2014-7-29 12:4:37'300" ：ALUTesting OK
+2014-7-29 12:4:37'601" ：ALU测试结束
+2014-7-29 12:4:37'901" ：ALUTesting OK
+2014-7-29 12:4:38'203" ：ALU测试结束
+2014-7-29 12:4:38'503" ：ALUTesting OK
+2014-7-29 12:4:38'804" ：ALU测试结束
+2014-7-29 12:4:39'105" ：ALUTesting OK
+2014-7-29 12:4:39'406" ：ALU测试结束
+2014-7-29 12:4:39'707" ：ALUTesting OK
+2014-7-29 12:4:40'8" ：ALU测试结束
+2014-7-29 12:4:40'309" ：ALUTesting OK
+2014-7-29 12:4:40'610" ：ALU测试结束
+2014-7-29 12:4:40'911" ：ALUTesting OK
+2014-7-29 12:4:41'212" ：ALU测试结束
+2014-7-29 12:4:41'513" ：ALUTesting OK
+2014-7-29 12:4:41'813" ：ALU测试结束
+2014-7-29 12:4:42'114" ：ALUTesting OK
+2014-7-29 12:4:42'415" ：ALU测试结束
+2014-7-29 12:4:42'716" ：ALUTesting OK
+2014-7-29 12:4:43'17" ：ALU测试结束
+2014-7-29 12:4:43'318" ：ALUTesting OK
+2014-7-29 12:4:43'618" ：ALU测试结束
+2014-7-29 12:4:43'920" ：ALUTesting OK
+2014-7-29 12:4:44'221" ：ALU测试结束
+2014-7-29 12:4:44'522" ：ALUTesting OK
+2014-7-29 12:4:44'823" ：ALU测试结束
+2014-7-29 12:4:45'124" ：ALUTesting OK
+2014-7-29 12:4:45'425" ：ALU测试结束
+2014-7-29 12:4:45'726" ：ALUTesting OK
+2014-7-29 12:4:46'27" ：ALU测试结束
+2014-7-29 12:4:46'328" ：ALUTesting OK
+2014-7-29 12:4:46'629" ：ALU测试结束
+2014-7-29 12:4:46'929" ：ALUTesting OK
+2014-7-29 12:4:47'230" ：ALU测试结束
+2014-7-29 12:4:47'532" ：ALUTesting OK
+2014-7-29 12:4:47'833" ：ALU测试结束
+2014-7-29 12:4:48'134" ：ALUTesting OK
+2014-7-29 12:4:48'434" ：ALU测试结束
+2014-7-29 12:4:48'735" ：ALUTesting OK
+2014-7-29 12:4:49'36" ：ALU测试结束
+2014-7-29 12:4:49'338" ：ALUTesting OK
+2014-7-29 12:4:49'638" ：ALU测试结束
+2014-7-29 12:4:49'939" ：ALUTesting OK
+2014-7-29 12:4:50'240" ：ALU测试结束
+2014-7-29 12:4:50'541" ：ALUTesting OK
+2014-7-29 12:4:50'841" ：ALU测试结束
+2014-7-29 12:4:51'142" ：ALUTesting OK
+2014-7-29 12:4:51'443" ：ALU测试结束
+2014-7-29 12:4:51'743" ：ALUTesting OK
+2014-7-29 12:4:52'44" ：ALU测试结束
+2014-7-29 12:4:52'346" ：ALUTesting OK
+2014-7-29 12:4:52'646" ：ALU测试结束
+2014-7-29 12:4:53'7" ：读取串口失败，等待设备重启
+2014-7-29 12:25:24'638" ：TestStart...
+2014-7-29 12:25:24'948" ：ALUTesting OK
+2014-7-29 12:25:25'250" ：ALU测试结束
+2014-7-29 12:25:25'551" ：ALUTesting OK
+2014-7-29 12:25:25'852" ：ALU测试结束
+2014-7-29 12:25:26'153" ：ALUTesting OK
+2014-7-29 12:25:26'454" ：ALU测试结束
+2014-7-29 12:25:26'756" ：ALUTesting OK
+2014-7-29 12:25:27'56" ：ALU测试结束
+2014-7-29 12:25:27'358" ：ALUTesting OK
+2014-7-29 12:25:27'658" ：ALU测试结束
+2014-7-29 12:25:27'959" ：ALUTesting OK
+2014-7-29 12:25:28'260" ：ALU测试结束
+2014-7-29 12:25:28'561" ：ALUTesting OK
+2014-7-29 12:25:28'862" ：ALU测试结束
+2014-7-29 12:25:29'163" ：ALUTesting OK
+2014-7-29 12:25:29'464" ：ALU测试结束
+2014-7-29 12:25:29'764" ：ALUTesting OK
+2014-7-29 12:25:30'65" ：ALU测试结束
+2014-7-29 12:25:30'366" ：ALUTesting OK
+2014-7-29 12:25:30'666" ：ALU测试结束
+2014-7-29 12:25:30'968" ：ALUTesting OK
+2014-7-29 12:25:31'269" ：ALU测试结束
+2014-7-29 12:25:31'570" ：ALUTesting OK
+2014-7-29 12:25:31'871" ：ALU测试结束
+2014-7-29 12:25:32'172" ：ALUTesting OK
+2014-7-29 12:25:32'473" ：ALU测试结束
+2014-7-29 12:25:32'774" ：ALUTesting OK
+2014-7-29 12:25:33'74" ：ALU测试结束
+2014-7-29 12:25:33'375" ：ALUTesting OK
+2014-7-29 12:25:33'675" ：ALU测试结束
+2014-7-29 12:25:33'976" ：ALUTesting OK
+2014-7-29 12:25:34'277" ：ALU测试结束
+2014-7-29 12:25:34'578" ：ALUTesting OK
+2014-7-29 12:25:34'879" ：ALU测试结束
+2014-7-29 12:25:35'180" ：ALUTesting OK
+2014-7-29 12:25:35'481" ：ALU测试结束
+2014-7-29 12:25:35'782" ：ALUTesting OK
+2014-7-29 12:25:36'83" ：ALU测试结束
+2014-7-29 12:25:36'384" ：ALUTesting OK
+2014-7-29 12:25:36'685" ：ALU测试结束
+2014-7-29 12:25:36'986" ：ALUTesting OK
+2014-7-29 12:25:37'287" ：ALU测试结束
+2014-7-29 12:25:37'589" ：ALUTesting OK
+2014-7-29 12:25:37'890" ：ALU测试结束
+2014-7-29 12:25:38'191" ：ALUTesting OK
+2014-7-29 12:25:38'492" ：ALU测试结束
+2014-7-29 12:25:38'792" ：ALUTesting OK
+2014-7-29 12:25:39'93" ：ALU测试结束
+2014-7-29 12:25:39'393" ：ALUTesting OK
+2014-7-29 12:25:39'693" ：ALU测试结束
+2014-7-29 12:25:39'995" ：ALUTesting OK
+2014-7-29 12:25:40'296" ：ALU测试结束
+2014-7-29 12:25:40'596" ：ALUTesting OK
+2014-7-29 12:25:40'897" ：ALU测试结束
+2014-7-29 12:25:41'197" ：ALUTesting OK
+2014-7-29 12:25:41'498" ：ALU测试结束
+2014-7-29 12:25:41'799" ：ALUTesting OK
+2014-7-29 12:25:42'100" ：ALU测试结束
+2014-7-29 12:25:42'402" ：ALUTesting OK
+2014-7-29 12:25:42'702" ：ALU测试结束
+2014-7-29 12:25:43'3" ：ALUTesting OK
+2014-7-29 12:25:43'304" ：ALU测试结束
+2014-7-29 12:25:43'605" ：ALUTesting OK
+2014-7-29 12:25:43'905" ：ALU测试结束
+2014-7-29 12:25:44'206" ：ALUTesting OK
+2014-7-29 12:25:44'507" ：ALU测试结束
+2014-7-29 12:25:44'808" ：ALUTesting OK
+2014-7-29 12:25:45'109" ：ALU测试结束
+2014-7-29 12:25:45'410" ：ALUTesting OK
+2014-7-29 12:25:45'711" ：ALU测试结束
+2014-7-29 12:25:46'11" ：ALUTesting OK
+2014-7-29 12:25:46'313" ：ALU测试结束
+2014-7-29 12:25:46'613" ：ALUTesting OK
+2014-7-29 12:25:46'914" ：ALU测试结束
+2014-7-29 12:25:47'215" ：ALUTesting OK
+2014-7-29 12:25:47'515" ：ALU测试结束
+2014-7-29 12:25:47'816" ：ALUTesting OK
+2014-7-29 12:25:48'117" ：ALU测试结束
+2014-7-29 12:25:48'418" ：ALUTesting OK
+2014-7-29 12:25:48'719" ：ALU测试结束
+2014-7-29 12:25:49'20" ：ALUTesting OK
+2014-7-29 12:25:49'321" ：ALU测试结束
+2014-7-29 12:25:49'621" ：ALUTesting OK
+2014-7-29 12:25:49'922" ：ALU测试结束
+2014-7-29 12:25:50'223" ：ALUTesting OK
+2014-7-29 12:25:50'523" ：ALU测试结束
+2014-7-29 12:25:50'824" ：ALUTesting OK
+2014-7-29 12:25:51'125" ：ALU测试结束
+2014-7-29 12:25:51'425" ：ALUTesting OK
+2014-7-29 12:25:51'726" ：ALU测试结束
+2014-7-29 12:25:52'27" ：ALUTesting OK
+2014-7-29 12:25:52'389" ：读取串口失败，等待设备重启
+2014-7-29 12:26:48'99" ：TestStart...
+2014-7-29 12:26:48'422" ：ALUTesting OK
+2014-7-29 12:26:48'722" ：ALU测试结束
+2014-7-29 12:26:49'24" ：ALUTesting OK
+2014-7-29 12:26:49'324" ：ALU测试结束
+2014-7-29 12:26:49'625" ：ALUTesting OK
+2014-7-29 12:26:49'925" ：ALU测试结束
+2014-7-29 12:26:50'226" ：ALUTesting OK
+2014-7-29 12:26:50'527" ：ALU测试结束
+2014-7-29 12:26:50'829" ：ALUTesting OK
+2014-7-29 12:26:51'133" ：ALU测试结束
+2014-7-29 12:26:51'434" ：ALUTesting OK
+2014-7-29 12:26:51'734" ：ALU测试结束
+2014-7-29 12:26:52'35" ：ALUTesting OK
+2014-7-29 12:26:52'335" ：ALU测试结束
+2014-7-29 12:26:52'637" ：ALUTesting OK
+2014-7-29 12:26:52'937" ：ALU测试结束
+2014-7-29 12:26:53'237" ：ALUTesting OK
+2014-7-29 12:26:53'538" ：ALU测试结束
+2014-7-29 12:26:53'839" ：ALUTesting OK
+2014-7-29 12:26:54'140" ：ALU测试结束
+2014-7-29 12:26:54'441" ：ALUTesting OK
+2014-7-29 12:26:54'742" ：ALU测试结束
+2014-7-29 12:26:55'44" ：ALUTesting OK
+2014-7-29 12:26:55'344" ：ALU测试结束
+2014-7-29 12:26:55'646" ：ALUTesting OK
+2014-7-29 12:26:55'947" ：ALU测试结束
+2014-7-29 12:26:56'247" ：ALUTesting OK
+2014-7-29 12:26:56'548" ：ALU测试结束
+2014-7-29 12:26:56'848" ：ALUTesting OK
+2014-7-29 12:26:57'149" ：ALU测试结束
+2014-7-29 12:26:57'451" ：ALUTesting OK
+2014-7-29 12:26:57'751" ：ALU测试结束
+2014-7-29 12:26:58'52" ：ALUTesting OK
+2014-7-29 12:26:58'353" ：ALU测试结束
+2014-7-29 12:26:58'654" ：ALUTesting OK
+2014-7-29 12:26:58'955" ：ALU测试结束
+2014-7-29 12:26:59'256" ：ALUTesting OK
+2014-7-29 12:26:59'556" ：ALU测试结束
+2014-7-29 12:26:59'857" ：ALUTesting OK
+2014-7-29 12:27:0'157" ：ALU测试结束
+2014-7-29 12:27:0'458" ：ALUTesting OK
+2014-7-29 12:27:0'759" ：ALU测试结束
+2014-7-29 12:27:1'60" ：ALUTesting OK
+2014-7-29 12:27:1'360" ：ALU测试结束
+2014-7-29 12:27:1'661" ：ALUTesting OK
+2014-7-29 12:27:1'961" ：ALU测试结束
+2014-7-29 12:27:2'262" ：ALUTesting OK
+2014-7-29 12:27:2'563" ：ALU测试结束
+2014-7-29 12:27:2'864" ：ALUTesting OK
+2014-7-29 12:27:3'165" ：ALU测试结束
+2014-7-29 12:27:3'467" ：ALUTesting OK
+2014-7-29 12:27:3'767" ：ALU测试结束
+2014-7-29 12:27:4'68" ：ALUTesting OK
+2014-7-29 12:27:4'370" ：ALU测试结束
+2014-7-29 12:27:4'671" ：ALUTesting OK
+2014-7-29 12:27:4'972" ：ALU测试结束
+2014-7-29 12:27:5'273" ：ALUTesting OK
+2014-7-29 12:27:5'574" ：ALU测试结束
+2014-7-29 12:27:5'875" ：ALUTesting OK
+2014-7-29 12:27:6'175" ：ALU测试结束
+2014-7-29 12:27:6'476" ：ALUTesting OK
+2014-7-29 12:27:6'776" ：ALU测试结束
+2014-7-29 12:27:7'77" ：ALUTesting OK
+2014-7-29 12:27:18'199" ：ALU测试结束
+2014-7-29 12:27:18'501" ：ALUTesting OK
+2014-7-29 12:27:18'802" ：ALU测试结束
+2014-7-29 12:27:19'102" ：ALUTesting OK
+2014-7-29 12:27:19'402" ：ALU测试结束
+2014-7-29 12:27:19'703" ：ALUTesting OK
+2014-7-29 12:27:20'4" ：ALU测试结束
+2014-7-29 12:27:20'305" ：ALUTesting OK
+2014-7-29 12:27:20'606" ：ALU测试结束
+2014-7-29 12:27:20'908" ：ALUTesting OK
+2014-7-29 12:27:23'921" ：ALU测试结束
+2014-7-29 12:27:29'718" ：读取串口失败，等待设备重启
+2014-7-29 12:28:37'365" ：TestStart...
+2014-7-29 12:28:37'688" ：ALUTesting OK
+2014-7-29 12:28:37'989" ：ALU测试结束
+2014-7-29 12:28:38'291" ：ALUTesting OK
+2014-7-29 12:28:38'592" ：ALU测试结束
+2014-7-29 12:28:38'893" ：ALUTesting OK
+2014-7-29 12:28:39'194" ：ALU测试结束
+2014-7-29 12:28:39'494" ：ALUTesting OK
+2014-7-29 12:28:39'795" ：ALU测试结束
+2014-7-29 12:28:40'96" ：ALUTesting OK
+2014-7-29 12:28:40'397" ：ALU测试结束
+2014-7-29 12:28:40'698" ：ALUTesting OK
+2014-7-29 12:28:40'998" ：ALU测试结束
+2014-7-29 12:28:41'299" ：ALUTesting OK
+2014-7-29 12:28:41'600" ：ALU测试结束
+2014-7-29 12:28:41'901" ：ALUTesting OK
+2014-7-29 12:28:42'202" ：ALU测试结束
+2014-7-29 12:28:42'503" ：ALUTesting OK
+2014-7-29 12:28:42'804" ：ALU测试结束
+2014-7-29 12:28:43'105" ：ALUTesting OK
+2014-7-29 12:28:43'406" ：ALU测试结束
+2014-7-29 12:28:43'706" ：ALUTesting OK
+2014-7-29 12:28:44'6" ：ALU测试结束
+2014-7-29 12:28:44'307" ：ALUTesting OK
+2014-7-29 12:28:44'608" ：ALU测试结束
+2014-7-29 12:28:44'909" ：ALUTesting OK
+2014-7-29 12:28:45'210" ：ALU测试结束
+2014-7-29 12:28:45'511" ：ALUTesting OK
+2014-7-29 12:28:45'812" ：ALU测试结束
+2014-7-29 12:28:46'113" ：ALUTesting OK
+2014-7-29 12:28:46'413" ：ALU测试结束
+2014-7-29 12:28:46'718" ：ALUTesting OK
+2014-7-29 12:28:47'20" ：ALU测试结束
+2014-7-29 12:28:47'321" ：ALUTesting OK
+2014-7-29 12:28:47'622" ：ALU测试结束
+2014-7-29 12:28:47'923" ：ALUTesting OK
+2014-7-29 12:28:48'224" ：ALU测试结束
+2014-7-29 12:28:48'525" ：ALUTesting OK
+2014-7-29 12:28:48'826" ：ALU测试结束
+2014-7-29 12:28:49'127" ：ALUTesting OK
+2014-7-29 12:28:49'428" ：ALU测试结束
+2014-7-29 12:28:49'729" ：ALUTesting OK
+2014-7-29 12:28:50'31" ：ALU测试结束
+2014-7-29 12:28:50'332" ：ALUTesting OK
+2014-7-29 12:28:50'633" ：ALU测试结束
+2014-7-29 12:28:50'934" ：ALUTesting OK
+2014-7-29 12:28:51'234" ：ALU测试结束
+2014-7-29 12:28:51'535" ：ALUTesting OK
+2014-7-29 12:28:51'835" ：ALU测试结束
+2014-7-29 12:28:52'136" ：ALUTesting OK
+2014-7-29 12:28:52'437" ：ALU测试结束
+2014-7-29 12:28:52'737" ：ALUTesting OK
+2014-7-29 12:28:53'37" ：ALU测试结束
+2014-7-29 12:28:53'338" ：ALUTesting OK
+2014-7-29 12:28:53'639" ：ALU测试结束
+2014-7-29 12:28:53'940" ：ALUTesting OK
+2014-7-29 12:28:54'241" ：ALU测试结束
+2014-7-29 12:28:54'542" ：ALUTesting OK
+2014-7-29 12:28:54'842" ：ALU测试结束
+2014-7-29 12:28:55'144" ：ALUTesting OK
+2014-7-29 12:28:55'444" ：ALU测试结束
+2014-7-29 12:28:55'745" ：ALUTesting OK
+2014-7-29 12:28:56'46" ：ALU测试结束
+2014-7-29 12:28:56'347" ：ALUTesting OK
+2014-7-29 12:28:56'648" ：ALU测试结束
+2014-7-29 12:28:56'949" ：ALUTesting OK
+2014-7-29 12:28:57'250" ：ALU测试结束
+2014-7-29 12:28:57'551" ：ALUTesting OK
+2014-7-29 12:28:57'852" ：ALU测试结束
+2014-7-29 12:28:58'152" ：ALUTesting OK
+2014-7-29 12:28:58'453" ：ALU测试结束
+2014-7-29 12:28:58'754" ：ALUTesting OK
+2014-7-29 12:28:59'55" ：ALU测试结束
+2014-7-29 12:28:59'357" ：ALUTesting OK
+2014-7-29 12:28:59'657" ：ALU测试结束
+2014-7-29 12:28:59'958" ：ALUTesting OK
+2014-7-29 12:29:0'258" ：ALU测试结束
+2014-7-29 12:29:0'560" ：ALUTesting OK
+2014-7-29 12:29:0'860" ：ALU测试结束
+2014-7-29 12:29:1'161" ：ALUTesting OK
+2014-7-29 12:29:1'461" ：ALU测试结束
+2014-7-29 12:29:1'762" ：ALUTesting OK
+2014-7-29 12:29:20'310" ：TestStart...
+2014-7-29 12:29:20'630" ：ALUTesting OK
+2014-7-29 12:29:20'931" ：ALU测试结束
+2014-7-29 12:29:21'232" ：ALUTesting OK
+2014-7-29 12:29:21'532" ：ALU测试结束
+2014-7-29 12:29:21'833" ：ALUTesting OK
+2014-7-29 12:29:22'133" ：ALU测试结束
+2014-7-29 12:29:22'434" ：ALUTesting OK
+2014-7-29 12:29:22'734" ：ALU测试结束
+2014-7-29 12:29:23'36" ：ALUTesting OK
+2014-7-29 12:29:23'339" ：ALU测试结束
+2014-7-29 12:29:23'640" ：ALUTesting OK
+2014-7-29 12:29:23'941" ：ALU测试结束
+2014-7-29 12:29:24'242" ：ALUTesting OK
+2014-7-29 12:29:24'542" ：ALU测试结束
+2014-7-29 12:29:24'843" ：ALUTesting OK
+2014-7-29 12:29:25'143" ：ALU测试结束
+2014-7-29 12:29:25'445" ：ALUTesting OK
+2014-7-29 12:29:25'745" ：ALU测试结束
+2014-7-29 12:29:26'47" ：ALUTesting OK
+2014-7-29 12:29:26'347" ：ALU测试结束
+2014-7-29 12:29:26'647" ：ALUTesting OK
+2014-7-29 12:29:26'948" ：ALU测试结束
+2014-7-29 12:29:27'248" ：ALUTesting OK
+2014-7-29 12:29:27'550" ：ALU测试结束
+2014-7-29 12:29:27'850" ：ALUTesting OK
+2014-7-29 12:29:28'151" ：ALU测试结束
+2014-7-29 12:29:28'453" ：ALUTesting OK
+2014-7-29 12:29:28'754" ：ALU测试结束
+2014-7-29 12:29:29'55" ：ALUTesting OK
+2014-7-29 12:29:29'356" ：ALU测试结束
+2014-7-29 12:29:29'658" ：ALUTesting OK
+2014-7-29 12:29:29'958" ：ALU测试结束
+2014-7-29 12:29:30'259" ：ALUTesting OK
+2014-7-29 12:29:30'560" ：ALU测试结束
+2014-7-29 12:29:30'861" ：ALUTesting OK
+2014-7-29 12:29:31'161" ：ALU测试结束
+2014-7-29 12:29:31'462" ：ALUTesting OK
+2014-7-29 12:29:31'763" ：ALU测试结束
+2014-7-29 12:29:32'64" ：ALUTesting OK
+2014-7-29 12:29:32'365" ：ALU测试结束
+2014-7-29 12:29:32'667" ：ALUTesting OK
+2014-7-29 12:29:32'967" ：ALU测试结束
+2014-7-29 12:29:33'269" ：ALUTesting OK
+2014-7-29 12:29:33'569" ：ALU测试结束
+2014-7-29 12:29:33'870" ：ALUTesting OK
+2014-7-29 12:29:34'171" ：ALU测试结束
+2014-7-29 12:29:34'472" ：ALUTesting OK
+2014-7-29 12:29:34'773" ：ALU测试结束
+2014-7-29 12:29:35'74" ：ALUTesting OK
+2014-7-29 12:29:35'375" ：ALU测试结束
+2014-7-29 12:29:35'676" ：ALUTesting OK
+2014-7-29 12:29:35'977" ：ALU测试结束
+2014-7-29 12:29:36'278" ：ALUTesting OK
+2014-7-29 12:29:36'579" ：ALU测试结束
+2014-7-29 12:29:36'880" ：ALUTesting OK
+2014-7-29 12:29:37'181" ：ALU测试结束
+2014-7-29 12:29:37'482" ：ALUTesting OK
+2014-7-29 12:29:37'783" ：ALU测试结束
+2014-7-29 12:29:38'84" ：ALUTesting OK
+2014-7-29 12:29:38'385" ：ALU测试结束
+2014-7-29 12:29:38'685" ：ALUTesting OK
+2014-7-29 12:29:38'986" ：ALU测试结束
+2014-7-29 12:29:39'287" ：ALUTesting OK
+2014-7-29 12:29:39'588" ：ALU测试结束
+2014-7-29 12:29:39'889" ：ALUTesting OK
+2014-7-29 12:29:40'189" ：ALU测试结束
+2014-7-29 12:29:40'490" ：ALUTesting OK
+2014-7-29 12:29:40'791" ：ALU测试结束
+2014-7-29 12:29:41'92" ：ALUTesting OK
+2014-7-29 12:29:41'392" ：ALU测试结束
+2014-7-29 12:29:41'693" ：ALUTesting OK
+2014-7-29 12:29:41'994" ：ALU测试结束
+2014-7-29 12:29:42'295" ：ALUTesting OK
+2014-7-29 12:29:42'596" ：ALU测试结束
+2014-7-29 12:29:42'897" ：ALUTesting OK
+2014-7-29 12:29:43'198" ：ALU测试结束
+2014-7-29 12:29:43'499" ：ALUTesting OK
+2014-7-29 12:29:43'800" ：ALU测试结束
+2014-7-29 12:29:44'101" ：ALUTesting OK
+2014-7-29 12:29:44'402" ：ALU测试结束
+2014-7-29 12:29:44'703" ：ALUTesting OK
+2014-7-29 12:29:45'4" ：ALU测试结束
+2014-7-29 12:29:45'305" ：ALUTesting OK
+2014-7-29 12:29:45'605" ：ALU测试结束
+2014-7-29 12:29:45'906" ：ALUTesting OK
+2014-7-29 12:29:46'207" ：ALU测试结束
+2014-7-29 12:29:46'508" ：ALUTesting OK
+2014-7-29 12:29:46'809" ：ALU测试结束
+2014-7-29 12:29:47'109" ：ALUTesting OK
+2014-7-29 12:29:47'409" ：ALU测试结束
+2014-7-29 12:29:47'711" ：ALUTesting OK
+2014-7-29 12:29:48'11" ：ALU测试结束
+2014-7-29 12:29:48'312" ：ALUTesting OK
+2014-7-29 12:29:48'612" ：ALU测试结束
+2014-7-29 12:29:48'914" ：ALUTesting OK
+2014-7-29 12:29:49'214" ：ALU测试结束
+2014-7-29 12:29:49'516" ：ALUTesting OK
+2014-7-29 12:29:49'867" ：读取串口失败，等待设备重启
+2014-7-29 12:55:18'80" ：TestStart...
+2014-7-29 12:55:18'404" ：ALUTesting OK
+2014-7-29 12:55:18'706" ：ALU测试结束
+2014-7-29 12:55:19'6" ：ALUTesting OK
+2014-7-29 12:55:19'307" ：ALU测试结束
+2014-7-29 12:55:19'607" ：ALUTesting OK
+2014-7-29 12:55:19'909" ：ALU测试结束
+2014-7-29 12:55:20'209" ：ALUTesting OK
+2014-7-29 12:55:20'510" ：ALU测试结束
+2014-7-29 12:55:20'810" ：ALUTesting OK
+2014-7-29 12:55:21'113" ：ALU测试结束
+2014-7-29 12:55:21'414" ：ALUTesting OK
+2014-7-29 12:55:21'715" ：ALU测试结束
+2014-7-29 12:55:22'16" ：ALUTesting OK
+2014-7-29 12:55:22'316" ：ALU测试结束
+2014-7-29 12:55:22'617" ：ALUTesting OK
+2014-7-29 12:55:22'918" ：ALU测试结束
+2014-7-29 12:55:23'218" ：ALUTesting OK
+2014-7-29 12:55:23'519" ：ALU测试结束
+2014-7-29 12:55:23'820" ：ALUTesting OK
+2014-7-29 12:55:24'121" ：ALU测试结束
+2014-7-29 12:55:24'422" ：ALUTesting OK
+2014-7-29 12:55:24'723" ：ALU测试结束
+2014-7-29 12:55:25'24" ：ALUTesting OK
+2014-7-29 12:55:25'324" ：ALU测试结束
+2014-7-29 12:55:25'625" ：ALUTesting OK
+2014-7-29 12:55:25'926" ：ALU测试结束
+2014-7-29 12:55:26'227" ：ALUTesting OK
+2014-7-29 12:55:26'528" ：ALU测试结束
+2014-7-29 12:55:26'829" ：ALUTesting OK
+2014-7-29 12:55:27'130" ：ALU测试结束
+2014-7-29 12:55:27'431" ：ALUTesting OK
+2014-7-29 12:55:27'731" ：ALU测试结束
+2014-7-29 12:55:28'32" ：ALUTesting OK
+2014-7-29 12:55:28'332" ：ALU测试结束
+2014-7-29 12:55:28'633" ：ALUTesting OK
+2014-7-29 12:55:28'934" ：ALU测试结束
+2014-7-29 12:55:29'236" ：ALUTesting OK
+2014-7-29 12:55:29'537" ：ALU测试结束
+2014-7-29 12:55:29'838" ：ALUTesting OK
+2014-7-29 12:55:30'139" ：ALU测试结束
+2014-7-29 12:55:30'441" ：ALUTesting OK
+2014-7-29 12:55:30'742" ：ALU测试结束
+2014-7-29 12:55:31'42" ：ALUTesting OK
+2014-7-29 12:55:31'343" ：ALU测试结束
+2014-7-29 12:55:31'645" ：ALUTesting OK
+2014-7-29 12:55:31'945" ：ALU测试结束
+2014-7-29 12:55:32'245" ：ALUTesting OK
+2014-7-29 12:55:32'547" ：ALU测试结束
+2014-7-29 12:55:32'848" ：ALUTesting OK
+2014-7-29 12:55:33'156" ：ALU测试结束
+2014-7-29 12:55:33'457" ：ALUTesting OK
+2014-7-29 12:55:33'758" ：ALU测试结束
+2014-7-29 12:55:34'58" ：ALUTesting OK
+2014-7-29 12:55:34'369" ：ALU测试结束
+2014-7-29 12:55:34'670" ：ALUTesting OK
+2014-7-29 12:55:34'970" ：ALU测试结束
+2014-7-29 12:55:35'271" ：ALUTesting OK
+2014-7-29 12:55:35'572" ：ALU测试结束
+2014-7-29 12:55:35'888" ：ALUTesting OK
+2014-7-29 12:55:36'189" ：ALU测试结束
+2014-7-29 12:55:36'490" ：ALUTesting OK
+2014-7-29 12:55:36'792" ：ALU测试结束
+2014-7-29 12:55:37'106" ：ALUTesting OK
+2014-7-29 12:55:37'407" ：ALU测试结束
+2014-7-29 12:55:37'708" ：ALUTesting OK
+2014-7-29 12:55:38'10" ：ALU测试结束
+2014-7-29 12:55:38'310" ：ALUTesting OK
+2014-7-29 12:55:38'611" ：ALU测试结束
+2014-7-29 12:55:38'914" ：ALUTesting OK
+2014-7-29 12:55:39'214" ：ALU测试结束
+2014-7-29 12:55:39'515" ：ALUTesting OK
+2014-7-29 12:55:39'825" ：ALU测试结束
+2014-7-29 12:55:40'126" ：ALUTesting OK
+2014-7-29 12:55:40'426" ：ALU测试结束
+2014-7-29 12:55:40'726" ：ALUTesting OK
+2014-7-29 12:55:41'27" ：ALU测试结束
+2014-7-29 12:55:41'329" ：ALUTesting OK
+2014-7-29 12:55:41'630" ：ALU测试结束
+2014-7-29 12:55:41'930" ：ALUTesting OK
+2014-7-29 12:55:42'231" ：ALU测试结束
+2014-7-29 12:55:42'532" ：ALUTesting OK
+2014-7-29 12:55:42'833" ：ALU测试结束
+2014-7-29 12:55:43'149" ：ALUTesting OK
+2014-7-29 12:55:43'449" ：ALU测试结束
+2014-7-29 12:55:43'750" ：ALUTesting OK
+2014-7-29 12:55:44'50" ：ALU测试结束
+2014-7-29 12:55:44'351" ：ALUTesting OK
+2014-7-29 12:55:44'652" ：ALU测试结束
+2014-7-29 12:56:13'536" ：TestStart...
+2014-7-29 12:56:13'856" ：ALUTesting OK
+2014-7-29 12:56:14'157" ：ALU测试结束
+2014-7-29 12:56:14'459" ：ALUTesting OK
+2014-7-29 12:56:14'759" ：ALU测试结束
+2014-7-29 12:56:15'60" ：ALUTesting OK
+2014-7-29 12:56:15'362" ：ALU测试结束
+2014-7-29 12:56:15'707" ：ALUTesting OK
+2014-7-29 12:56:16'7" ：ALU测试结束
+2014-7-29 12:56:16'309" ：ALUTesting OK
+2014-7-29 12:56:16'610" ：ALU测试结束
+2014-7-29 12:56:16'910" ：ALUTesting OK
+2014-7-29 12:56:17'211" ：ALU测试结束
+2014-7-29 12:56:17'512" ：ALUTesting OK
+2014-7-29 12:56:17'812" ：ALU测试结束
+2014-7-29 12:56:18'113" ：ALUTesting OK
+2014-7-29 12:56:18'413" ：ALU测试结束
+2014-7-29 12:56:18'714" ：ALUTesting OK
+2014-7-29 12:56:19'15" ：ALU测试结束
+2014-7-29 12:56:19'316" ：ALUTesting OK
+2014-7-29 12:56:19'619" ：ALU测试结束
+2014-7-29 12:56:19'920" ：ALUTesting OK
+2014-7-29 12:56:20'221" ：ALU测试结束
+2014-7-29 12:56:20'522" ：ALUTesting OK
+2014-7-29 12:56:20'823" ：ALU测试结束
+2014-7-29 12:56:21'124" ：ALUTesting OK
+2014-7-29 12:56:21'425" ：ALU测试结束
+2014-7-29 12:56:21'726" ：ALUTesting OK
+2014-7-29 12:56:22'27" ：ALU测试结束
+2014-7-29 12:56:22'328" ：ALUTesting OK
+2014-7-29 12:56:22'628" ：ALU测试结束
+2014-7-29 12:56:22'929" ：ALUTesting OK
+2014-7-29 12:56:23'230" ：ALU测试结束
+2014-7-29 12:56:23'531" ：ALUTesting OK
+2014-7-29 12:56:23'832" ：ALU测试结束
+2014-7-29 12:56:24'133" ：ALUTesting OK
+2014-7-29 12:56:24'434" ：ALU测试结束
+2014-7-29 12:56:24'735" ：ALUTesting OK
+2014-7-29 12:56:25'36" ：ALU测试结束
+2014-7-29 12:56:25'338" ：ALUTesting OK
+2014-7-29 12:56:25'639" ：ALU测试结束
+2014-7-29 12:56:25'940" ：ALUTesting OK
+2014-7-29 12:56:26'240" ：ALU测试结束
+2014-7-29 12:56:26'541" ：ALUTesting OK
+2014-7-29 12:56:26'841" ：ALU测试结束
+2014-7-29 12:56:27'142" ：ALUTesting OK
+2014-7-29 12:56:27'443" ：ALU测试结束
+2014-7-29 12:56:27'744" ：ALUTesting OK
+2014-7-29 12:56:28'44" ：ALU测试结束
+2014-7-29 12:56:28'345" ：ALUTesting OK
+2014-7-29 12:56:28'646" ：ALU测试结束
+2014-7-29 12:56:28'947" ：ALUTesting OK
+2014-7-29 12:56:29'247" ：ALU测试结束
+2014-7-29 12:56:29'548" ：ALUTesting OK
+2014-7-29 12:56:29'849" ：ALU测试结束
+2014-7-29 12:56:30'150" ：ALUTesting OK
+2014-7-29 12:56:30'451" ：ALU测试结束
+2014-7-29 12:56:30'752" ：ALUTesting OK
+2014-7-29 12:56:31'53" ：ALU测试结束
+2014-7-29 12:56:31'354" ：ALUTesting OK
+2014-7-29 12:56:31'655" ：ALU测试结束
+2014-7-29 12:56:31'957" ：ALUTesting OK
+2014-7-29 12:56:32'258" ：ALU测试结束
+2014-7-29 12:56:32'558" ：ALUTesting OK
+2014-7-29 12:56:32'859" ：ALU测试结束
+2014-7-29 12:56:33'159" ：ALUTesting OK
+2014-7-29 12:56:33'460" ：ALU测试结束
+2014-7-29 12:56:33'761" ：ALUTesting OK
+2014-7-29 12:56:34'102" ：读取串口失败，等待设备重启
+2014-7-29 12:57:46'256" ：TestStart...
+2014-7-29 12:57:46'579" ：CPUTesting OK
+2014-7-29 12:57:46'881" ：CPU测试结束
+2014-7-29 12:57:47'182" ：CacheTesting OK
+2014-7-29 12:57:47'482" ：Cache测试结束
+2014-7-29 12:57:47'783" ：FPUTesting OK
+2014-7-29 12:57:48'84" ：FPU测试结束
+2014-7-29 12:57:48'385" ：ALUTesting OK
+2014-7-29 12:57:48'686" ：ALU测试结束
+2014-7-29 12:57:48'988" ：MemoryTesting OK
+2014-7-29 12:57:49'289" ：Memory测试结束
+2014-7-29 12:57:49'589" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 12:57:49'891" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 12:57:50'192" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 12:57:50'492" ：外设测试结束
+2014-7-29 12:57:50'793" ：PLTesting OK
+2014-7-29 12:57:51'94" ：PL测试结束
+2014-7-29 12:57:51'396" ：CPUTesting OK
+2014-7-29 12:57:51'697" ：CPU测试结束
+2014-7-29 12:57:51'997" ：CacheTesting OK
+2014-7-29 12:57:52'301" ：Cache测试结束
+2014-7-29 12:57:52'603" ：FPUTesting OK
+2014-7-29 12:57:52'904" ：FPU测试结束
+2014-7-29 12:57:53'205" ：ALUTesting OK
+2014-7-29 12:57:53'506" ：ALU测试结束
+2014-7-29 12:57:53'807" ：MemoryTesting OK
+2014-7-29 12:57:54'108" ：Memory测试结束
+2014-7-29 12:57:54'409" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 12:57:54'709" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 12:57:55'10" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 12:57:55'310" ：外设测试结束
+2014-7-29 12:57:55'611" ：PLTesting OK
+2014-7-29 12:57:55'912" ：PL测试结束
+2014-7-29 12:57:56'213" ：CPUTesting OK
+2014-7-29 12:57:56'514" ：CPU测试结束
+2014-7-29 12:57:56'815" ：CacheTesting OK
+2014-7-29 12:57:57'116" ：Cache测试结束
+2014-7-29 12:57:57'416" ：FPUTesting OK
+2014-7-29 12:57:57'717" ：FPU测试结束
+2014-7-29 12:57:58'19" ：ALUTesting OK
+2014-7-29 12:57:58'320" ：ALU测试结束
+2014-7-29 12:57:58'621" ：MemoryTesting OK
+2014-7-29 12:57:58'922" ：Memory测试结束
+2014-7-29 12:57:59'222" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 12:57:59'523" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 12:57:59'824" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 12:58:0'125" ：外设测试结束
+2014-7-29 12:58:0'426" ：PLTesting OK
+2014-7-29 12:58:0'726" ：PL测试结束
+2014-7-29 12:58:1'27" ：CPUTesting OK
+2014-7-29 12:58:1'328" ：CPU测试结束
+2014-7-29 12:58:1'629" ：CacheTesting OK
+2014-7-29 12:58:1'930" ：Cache测试结束
+2014-7-29 12:58:2'231" ：FPUTesting OK
+2014-7-29 12:58:2'532" ：FPU测试结束
+2014-7-29 12:58:2'833" ：ALUTesting OK
+2014-7-29 12:58:3'134" ：ALU测试结束
+2014-7-29 12:58:3'435" ：MemoryTesting OK
+2014-7-29 12:58:3'736" ：Memory测试结束
+2014-7-29 12:58:4'37" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 12:58:4'337" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 12:58:4'637" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 12:58:4'937" ：外设测试结束
+2014-7-29 12:58:5'239" ：PLTesting OK
+2014-7-29 12:58:5'540" ：PL测试结束
+2014-7-29 12:58:5'841" ：CPUTesting OK
+2014-7-29 12:58:6'142" ：CPU测试结束
+2014-7-29 12:58:6'442" ：CacheTesting OK
+2014-7-29 12:58:6'743" ：Cache测试结束
+2014-7-29 12:58:7'44" ：FPUTesting OK
+2014-7-29 12:58:7'346" ：FPU测试结束
+2014-7-29 12:58:7'646" ：ALUTesting OK
+2014-7-29 12:58:7'947" ：ALU测试结束
+2014-7-29 12:58:40'65" ：TestStart...
+2014-7-29 12:58:40'384" ：ALUTesting OK
+2014-7-29 12:58:40'684" ：ALU测试结束
+2014-7-29 12:58:40'985" ：ALUTesting OK
+2014-7-29 12:58:41'286" ：ALU测试结束
+2014-7-29 12:58:41'587" ：ALUTesting OK
+2014-7-29 12:58:41'888" ：ALU测试结束
+2014-7-29 12:58:42'189" ：ALUTesting OK
+2014-7-29 12:58:42'489" ：ALU测试结束
+2014-7-29 12:58:42'790" ：ALUTesting OK
+2014-7-29 12:58:43'90" ：ALU测试结束
+2014-7-29 12:58:43'395" ：ALUTesting OK
+2014-7-29 12:58:43'696" ：ALU测试结束
+2014-7-29 12:58:43'997" ：ALUTesting OK
+2014-7-29 12:58:44'297" ：ALU测试结束
+2014-7-29 12:58:44'598" ：ALUTesting OK
+2014-7-29 12:58:44'899" ：ALU测试结束
+2014-7-29 12:58:45'200" ：ALUTesting OK
+2014-7-29 12:58:45'500" ：ALU测试结束
+2014-7-29 12:58:45'802" ：ALUTesting OK
+2014-7-29 12:58:46'102" ：ALU测试结束
+2014-7-29 12:58:46'404" ：ALUTesting OK
+2014-7-29 12:58:46'705" ：ALU测试结束
+2014-7-29 12:58:47'6" ：ALUTesting OK
+2014-7-29 12:58:47'307" ：ALU测试结束
+2014-7-29 12:58:47'608" ：ALUTesting OK
+2014-7-29 12:58:47'909" ：ALU测试结束
+2014-7-29 12:58:48'210" ：ALUTesting OK
+2014-7-29 12:58:48'511" ：ALU测试结束
+2014-7-29 12:58:48'811" ：ALUTesting OK
+2014-7-29 12:58:49'112" ：ALU测试结束
+2014-7-29 12:58:49'412" ：ALUTesting OK
+2014-7-29 12:58:49'714" ：ALU测试结束
+2014-7-29 12:58:50'14" ：ALUTesting OK
+2014-7-29 12:58:50'315" ：ALU测试结束
+2014-7-29 12:58:50'616" ：ALUTesting OK
+2014-7-29 12:58:50'917" ：ALU测试结束
+2014-7-29 12:58:51'219" ：ALUTesting OK
+2014-7-29 12:58:51'520" ：ALU测试结束
+2014-7-29 12:58:51'821" ：ALUTesting OK
+2014-7-29 12:58:52'121" ：ALU测试结束
+2014-7-29 12:58:52'422" ：ALUTesting OK
+2014-7-29 12:58:52'723" ：ALU测试结束
+2014-7-29 12:58:53'24" ：ALUTesting OK
+2014-7-29 12:58:53'343" ：ALU测试结束
+2014-7-29 12:58:53'644" ：ALUTesting OK
+2014-7-29 12:58:53'945" ：ALU测试结束
+2014-7-29 12:58:54'246" ：ALUTesting OK
+2014-7-29 12:58:54'546" ：ALU测试结束
+2014-7-29 12:58:54'848" ：ALUTesting OK
+2014-7-29 12:58:55'149" ：ALU测试结束
+2014-7-29 12:58:55'450" ：ALUTesting OK
+2014-7-29 12:58:55'750" ：ALU测试结束
+2014-7-29 12:58:56'51" ：ALUTesting OK
+2014-7-29 12:58:56'352" ：ALU测试结束
+2014-7-29 12:58:56'653" ：ALUTesting OK
+2014-7-29 12:58:56'954" ：ALU测试结束
+2014-7-29 12:58:57'254" ：ALUTesting OK
+2014-7-29 12:58:57'555" ：ALU测试结束
+2014-7-29 12:58:57'856" ：ALUTesting OK
+2014-7-29 12:58:58'156" ：ALU测试结束
+2014-7-29 12:58:58'457" ：ALUTesting OK
+2014-7-29 12:58:58'758" ：ALU测试结束
+2014-7-29 12:58:59'58" ：ALUTesting OK
+2014-7-29 12:58:59'359" ：ALU测试结束
+2014-7-29 12:58:59'660" ：ALUTesting OK
+2014-7-29 12:58:59'961" ：ALU测试结束
+2014-7-29 12:59:0'262" ：ALUTesting OK
+2014-7-29 12:59:0'562" ：ALU测试结束
+2014-7-29 12:59:0'863" ：ALUTesting OK
+2014-7-29 12:59:1'164" ：ALU测试结束
+2014-7-29 12:59:1'464" ：ALUTesting OK
+2014-7-29 12:59:1'765" ：ALU测试结束
+2014-7-29 12:59:2'66" ：ALUTesting OK
+2014-7-29 12:59:2'367" ：ALU测试结束
+2014-7-29 12:59:2'667" ：ALUTesting OK
+2014-7-29 12:59:2'968" ：ALU测试结束
+2014-7-29 12:59:3'269" ：ALUTesting OK
+2014-7-29 12:59:3'570" ：ALU测试结束
+2014-7-29 12:59:3'872" ：ALUTesting OK
+2014-7-29 12:59:4'172" ：ALU测试结束
+2014-7-29 12:59:4'473" ：ALUTesting OK
+2014-7-29 12:59:4'773" ：ALU测试结束
+2014-7-29 12:59:5'75" ：ALUTesting OK
+2014-7-29 12:59:5'376" ：ALU测试结束
+2014-7-29 12:59:5'677" ：ALUTesting OK
+2014-7-29 12:59:5'978" ：ALU测试结束
+2014-7-29 12:59:6'279" ：ALUTesting OK
+2014-7-29 12:59:6'579" ：ALU测试结束
+2014-7-29 12:59:6'880" ：ALUTesting OK
+2014-7-29 12:59:7'181" ：ALU测试结束
+2014-7-29 12:59:7'482" ：ALUTesting OK
+2014-7-29 12:59:7'782" ：ALU测试结束
+2014-7-29 12:59:8'83" ：ALUTesting OK
+2014-7-29 12:59:8'383" ：ALU测试结束
+2014-7-29 12:59:8'684" ：ALUTesting OK
+2014-7-29 12:59:8'985" ：ALU测试结束
+2014-7-29 12:59:9'286" ：ALUTesting OK
+2014-7-29 12:59:9'586" ：ALU测试结束
+2014-7-29 12:59:9'888" ：ALUTesting OK
+2014-7-29 12:59:10'189" ：ALU测试结束
+2014-7-29 12:59:10'490" ：ALUTesting OK
+2014-7-29 12:59:10'791" ：ALU测试结束
+2014-7-29 12:59:11'92" ：ALUTesting OK
+2014-7-29 12:59:11'392" ：ALU测试结束
+2014-7-29 12:59:11'693" ：ALUTesting OK
+2014-7-29 12:59:11'994" ：ALU测试结束
+2014-7-29 12:59:12'295" ：ALUTesting OK
+2014-7-29 12:59:12'595" ：ALU测试结束
+2014-7-29 12:59:12'896" ：ALUTesting OK
+2014-7-29 12:59:13'196" ：ALU测试结束
+2014-7-29 12:59:13'498" ：ALUTesting OK
+2014-7-29 12:59:36'438" ：TestStart...
+2014-7-29 12:59:36'761" ：CacheTesting OK
+2014-7-29 12:59:37'62" ：Cache测试结束
+2014-7-29 12:59:37'362" ：CacheTesting OK
+2014-7-29 12:59:37'663" ：Cache测试结束
+2014-7-29 12:59:37'964" ：CacheTesting OK
+2014-7-29 12:59:38'265" ：Cache测试结束
+2014-7-29 12:59:38'566" ：CacheTesting OK
+2014-7-29 12:59:38'867" ：Cache测试结束
+2014-7-29 12:59:39'168" ：CacheTesting OK
+2014-7-29 12:59:39'473" ：Cache测试结束
+2014-7-29 12:59:39'775" ：CacheTesting OK
+2014-7-29 12:59:40'76" ：Cache测试结束
+2014-7-29 12:59:40'376" ：FPUTesting OK
+2014-7-29 12:59:40'677" ：FPU测试结束
+2014-7-29 12:59:40'979" ：FPUTesting OK
+2014-7-29 12:59:41'279" ：FPU测试结束
+2014-7-29 12:59:41'581" ：FPUTesting OK
+2014-7-29 12:59:41'882" ：FPU测试结束
+2014-7-29 12:59:42'182" ：FPUTesting OK
+2014-7-29 12:59:42'484" ：FPU测试结束
+2014-7-29 12:59:42'785" ：FPUTesting OK
+2014-7-29 12:59:43'85" ：FPU测试结束
+2014-7-29 12:59:43'386" ：FPUTesting OK
+2014-7-29 12:59:43'687" ：FPU测试结束
+2014-7-29 12:59:43'988" ：FPUTesting OK
+2014-7-29 12:59:44'289" ：FPU测试结束
+2014-7-29 12:59:44'590" ：FPUTesting OK
+2014-7-29 12:59:44'892" ：FPU测试结束
+2014-7-29 12:59:45'192" ：FPUTesting OK
+2014-7-29 12:59:45'492" ：FPU测试结束
+2014-7-29 12:59:45'794" ：FPUTesting OK
+2014-7-29 12:59:46'95" ：FPU测试结束
+2014-7-29 12:59:46'395" ：FPUTesting OK
+2014-7-29 12:59:46'696" ：FPU测试结束
+2014-7-29 12:59:46'997" ：FPUTesting OK
+2014-7-29 12:59:47'297" ：FPU测试结束
+2014-7-29 12:59:47'598" ：FPUTesting OK
+2014-7-29 12:59:47'899" ：FPU测试结束
+2014-7-29 12:59:48'200" ：FPUTesting OK
+2014-7-29 12:59:48'500" ：FPU测试结束
+2014-7-29 12:59:48'802" ：FPUTesting OK
+2014-7-29 12:59:49'102" ：FPU测试结束
+2014-7-29 12:59:49'403" ：FPUTesting OK
+2014-7-29 12:59:49'705" ：FPU测试结束
+2014-7-29 12:59:50'5" ：FPUTesting OK
+2014-7-29 12:59:50'306" ：FPU测试结束
+2014-7-29 12:59:50'607" ：FPUTesting OK
+2014-7-29 12:59:50'908" ：FPU测试结束
+2014-7-29 12:59:51'209" ：FPUTesting OK
+2014-7-29 12:59:51'510" ：FPU测试结束
+2014-7-29 12:59:51'811" ：FPUTesting OK
+2014-7-29 12:59:52'112" ：FPU测试结束
+2014-7-29 12:59:52'413" ：FPUTesting OK
+2014-7-29 12:59:52'714" ：FPU测试结束
+2014-7-29 12:59:53'14" ：FPUTesting OK
+2014-7-29 12:59:53'315" ：FPU测试结束
+2014-7-29 12:59:53'615" ：FPUTesting OK
+2014-7-29 12:59:53'916" ：FPU测试结束
+2014-7-29 12:59:54'217" ：FPUTesting OK
+2014-7-29 12:59:54'518" ：FPU测试结束
+2014-7-29 12:59:54'819" ：FPUTesting OK
+2014-7-29 12:59:55'120" ：FPU测试结束
+2014-7-29 12:59:55'421" ：FPUTesting OK
+2014-7-29 12:59:55'722" ：FPU测试结束
+2014-7-29 12:59:56'23" ：FPUTesting OK
+2014-7-29 12:59:56'324" ：FPU测试结束
+2014-7-29 12:59:56'626" ：FPUTesting OK
+2014-7-29 12:59:56'927" ：FPU测试结束
+2014-7-29 12:59:57'228" ：FPUTesting OK
+2014-7-29 12:59:57'529" ：FPU测试结束
+2014-7-29 12:59:57'830" ：FPUTesting OK
+2014-7-29 12:59:58'131" ：FPU测试结束
+2014-7-29 12:59:58'432" ：FPUTesting OK
+2014-7-29 12:59:58'733" ：FPU测试结束
+2014-7-29 12:59:59'33" ：FPUTesting OK
+2014-7-29 12:59:59'334" ：FPU测试结束
+2014-7-29 12:59:59'635" ：FPUTesting OK
+2014-7-29 12:59:59'936" ：FPU测试结束
+2014-7-29 13:0:0'238" ：FPUTesting OK
+2014-7-29 13:0:0'538" ：FPU测试结束
+2014-7-29 13:0:0'840" ：CacheTesting OK
+2014-7-29 13:0:1'141" ：Cache测试结束
+2014-7-29 13:0:1'441" ：CacheTesting OK
+2014-7-29 13:0:1'742" ：Cache测试结束
+2014-7-29 13:0:2'42" ：CacheTesting OK
+2014-7-29 13:0:2'342" ：Cache测试结束
+2014-7-29 13:0:2'643" ：CacheTesting OK
+2014-7-29 13:0:2'944" ：Cache测试结束
+2014-7-29 13:0:3'246" ：CacheTesting OK
+2014-7-29 13:0:3'546" ：Cache测试结束
+2014-7-29 13:0:3'848" ：CacheTesting OK
+2014-7-29 13:0:4'149" ：Cache测试结束
+2014-7-29 13:0:4'450" ：FPUTesting OK
+2014-7-29 13:0:4'751" ：FPU测试结束
+2014-7-29 13:0:5'52" ：FPUTesting OK
+2014-7-29 13:0:5'352" ：FPU测试结束
+2014-7-29 13:0:5'654" ：FPUTesting OK
+2014-7-29 13:0:5'955" ：FPU测试结束
+2014-7-29 13:0:6'256" ：FPUTesting OK
+2014-7-29 13:0:6'557" ：FPU测试结束
+2014-7-29 13:0:6'858" ：FPUTesting OK
+2014-7-29 13:0:7'158" ：FPU测试结束
+2014-7-29 13:0:7'459" ：FPUTesting OK
+2014-7-29 13:0:7'760" ：FPU测试结束
+2014-7-29 13:0:8'61" ：FPUTesting OK
+2014-7-29 13:0:8'404" ：FPU测试结束
+2014-7-29 13:0:8'705" ：FPUTesting OK
+2014-7-29 13:0:9'6" ：FPU测试结束
+2014-7-29 13:0:9'307" ：FPUTesting OK
+2014-7-29 13:0:9'607" ：FPU测试结束
+2014-7-29 13:0:9'909" ：FPUTesting OK
+2014-7-29 13:0:10'209" ：FPU测试结束
+2014-7-29 13:0:10'510" ：FPUTesting OK
+2014-7-29 13:0:10'811" ：FPU测试结束
+2014-7-29 13:0:11'112" ：FPUTesting OK
+2014-7-29 13:0:11'413" ：FPU测试结束
+2014-7-29 13:0:11'714" ：FPUTesting OK
+2014-7-29 13:0:12'15" ：FPU测试结束
+2014-7-29 13:0:12'316" ：FPUTesting OK
+2014-7-29 13:0:12'617" ：FPU测试结束
+2014-7-29 13:0:12'918" ：FPUTesting OK
+2014-7-29 13:13:16'555" ：TestStart...
+2014-7-29 13:13:16'877" ：CPUTesting OK
+2014-7-29 13:13:17'179" ：CPU测试结束
+2014-7-29 13:13:17'480" ：CacheTesting OK
+2014-7-29 13:13:17'782" ：Cache测试结束
+2014-7-29 13:13:18'83" ：FPUTesting OK
+2014-7-29 13:13:18'386" ：FPU测试结束
+2014-7-29 13:13:18'687" ：ALUTesting OK
+2014-7-29 13:13:18'988" ：ALU测试结束
+2014-7-29 13:13:19'289" ：MemoryTesting OK
+2014-7-29 13:13:19'590" ：Memory测试结束
+2014-7-29 13:13:19'891" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:13:20'191" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:13:20'492" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:13:20'792" ：外设测试结束
+2014-7-29 13:13:21'93" ：PLTesting OK
+2014-7-29 13:13:21'394" ：PL测试结束
+2014-7-29 13:13:21'695" ：CPUTesting OK
+2014-7-29 13:13:21'996" ：CPU测试结束
+2014-7-29 13:13:22'297" ：CacheTesting OK
+2014-7-29 13:13:22'598" ：Cache测试结束
+2014-7-29 13:13:22'899" ：FPUTesting OK
+2014-7-29 13:13:23'199" ：FPU测试结束
+2014-7-29 13:13:23'501" ：ALUTesting OK
+2014-7-29 13:13:23'801" ：ALU测试结束
+2014-7-29 13:13:24'102" ：MemoryTesting OK
+2014-7-29 13:13:24'402" ：Memory测试结束
+2014-7-29 13:13:24'703" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:13:25'4" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:13:25'305" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:13:25'605" ：外设测试结束
+2014-7-29 13:13:25'906" ：PLTesting OK
+2014-7-29 13:13:26'206" ：PL测试结束
+2014-7-29 13:13:26'507" ：CPUTesting OK
+2014-7-29 13:13:26'808" ：CPU测试结束
+2014-7-29 13:13:27'109" ：CacheTesting OK
+2014-7-29 13:13:27'410" ：Cache测试结束
+2014-7-29 13:13:27'711" ：FPUTesting OK
+2014-7-29 13:13:28'11" ：FPU测试结束
+2014-7-29 13:13:28'312" ：ALUTesting OK
+2014-7-29 13:13:28'613" ：ALU测试结束
+2014-7-29 13:13:28'914" ：MemoryTesting OK
+2014-7-29 13:13:29'214" ：Memory测试结束
+2014-7-29 13:13:29'515" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:13:29'816" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:13:30'118" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:13:30'418" ：外设测试结束
+2014-7-29 13:13:30'719" ：PLTesting OK
+2014-7-29 13:13:31'20" ：PL测试结束
+2014-7-29 13:13:31'321" ：CPUTesting OK
+2014-7-29 13:13:31'622" ：CPU测试结束
+2014-7-29 13:13:31'923" ：CacheTesting OK
+2014-7-29 13:13:32'223" ：Cache测试结束
+2014-7-29 13:13:32'524" ：FPUTesting OK
+2014-7-29 13:13:32'825" ：FPU测试结束
+2014-7-29 13:13:33'126" ：ALUTesting OK
+2014-7-29 13:13:33'426" ：ALU测试结束
+2014-7-29 13:13:33'728" ：MemoryTesting OK
+2014-7-29 13:13:34'29" ：Memory测试结束
+2014-7-29 13:18:0'489" ：TestStart...
+2014-7-29 13:18:0'812" ：CPUTesting OK
+2014-7-29 13:18:1'114" ：CPU测试结束
+2014-7-29 13:18:1'417" ：CacheTesting OK
+2014-7-29 13:18:1'717" ：Cache测试结束
+2014-7-29 13:18:2'19" ：FPUTesting OK
+2014-7-29 13:18:2'320" ：FPU测试结束
+2014-7-29 13:18:2'621" ：ALUTesting OK
+2014-7-29 13:18:2'922" ：ALU测试结束
+2014-7-29 13:18:3'223" ：MemoryTesting OK
+2014-7-29 13:18:3'524" ：Memory测试结束
+2014-7-29 13:18:3'824" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:18:4'126" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:18:4'426" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:18:4'728" ：外设测试结束
+2014-7-29 13:18:5'30" ：PLTesting OK
+2014-7-29 13:18:5'331" ：PL测试结束
+2014-7-29 13:18:5'632" ：CPUTesting OK
+2014-7-29 13:18:5'933" ：CPU测试结束
+2014-7-29 13:18:6'235" ：CacheTesting OK
+2014-7-29 13:18:6'536" ：Cache测试结束
+2014-7-29 13:18:6'840" ：FPUTesting OK
+2014-7-29 13:18:7'142" ：FPU测试结束
+2014-7-29 13:18:7'443" ：ALUTesting OK
+2014-7-29 13:18:7'743" ：ALU测试结束
+2014-7-29 13:18:8'45" ：MemoryTesting OK
+2014-7-29 13:18:8'345" ：Memory测试结束
+2014-7-29 13:18:8'647" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:18:8'948" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:18:9'250" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:18:9'550" ：外设测试结束
+2014-7-29 13:18:9'852" ：PLTesting OK
+2014-7-29 13:18:10'152" ：PL测试结束
+2014-7-29 13:18:10'466" ：CPUTesting OK
+2014-7-29 13:18:10'767" ：CPU测试结束
+2014-7-29 13:18:11'69" ：CacheTesting OK
+2014-7-29 13:18:11'370" ：Cache测试结束
+2014-7-29 13:18:11'671" ：FPUTesting OK
+2014-7-29 13:18:11'972" ：FPU测试结束
+2014-7-29 13:18:12'273" ：ALUTesting OK
+2014-7-29 13:18:12'573" ：ALU测试结束
+2014-7-29 13:18:12'875" ：MemoryTesting OK
+2014-7-29 13:18:13'176" ：Memory测试结束
+2014-7-29 13:18:13'477" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:18:13'778" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:18:14'79" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:18:14'380" ：外设测试结束
+2014-7-29 13:18:14'681" ：PLTesting OK
+2014-7-29 13:18:14'983" ：PL测试结束
+2014-7-29 13:18:15'284" ：CPUTesting OK
+2014-7-29 13:18:15'584" ：CPU测试结束
+2014-7-29 13:18:15'886" ：CacheTesting OK
+2014-7-29 13:18:16'186" ：Cache测试结束
+2014-7-29 13:18:16'487" ：FPUTesting OK
+2014-7-29 13:18:16'789" ：FPU测试结束
+2014-7-29 13:18:17'90" ：ALUTesting OK
+2014-7-29 13:18:17'393" ：ALU测试结束
+2014-7-29 13:18:17'694" ：MemoryTesting OK
+2014-7-29 13:18:17'995" ：Memory测试结束
+2014-7-29 13:18:18'296" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:18:18'598" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:18:18'898" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:18:19'199" ：外设测试结束
+2014-7-29 13:18:19'500" ：PLTesting OK
+2014-7-29 13:18:19'801" ：PL测试结束
+2014-7-29 13:18:20'126" ：CPUTesting OK
+2014-7-29 13:18:20'427" ：CPU测试结束
+2014-7-29 13:18:20'727" ：CacheTesting OK
+2014-7-29 13:18:21'29" ：Cache测试结束
+2014-7-29 13:18:21'333" ：FPUTesting OK
+2014-7-29 13:18:21'634" ：FPU测试结束
+2014-7-29 13:18:21'935" ：ALUTesting OK
+2014-7-29 13:18:22'236" ：ALU测试结束
+2014-7-29 13:18:22'540" ：MemoryTesting OK
+2014-7-29 13:18:22'840" ：Memory测试结束
+2014-7-29 13:18:23'141" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:18:23'442" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:18:23'743" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:18:24'43" ：外设测试结束
+2014-7-29 13:18:24'344" ：PLTesting OK
+2014-7-29 13:18:24'645" ：PL测试结束
+2014-7-29 13:18:24'946" ：CPUTesting OK
+2014-7-29 13:18:25'247" ：CPU测试结束
+2014-7-29 13:18:25'548" ：CacheTesting OK
+2014-7-29 13:18:25'849" ：Cache测试结束
+2014-7-29 13:18:26'150" ：FPUTesting OK
+2014-7-29 13:18:26'451" ：FPU测试结束
+2014-7-29 13:18:26'753" ：ALUTesting OK
+2014-7-29 13:18:27'54" ：ALU测试结束
+2014-7-29 13:18:27'356" ：MemoryTesting OK
+2014-7-29 13:18:27'657" ：Memory测试结束
+2014-7-29 13:18:27'958" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:18:28'259" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:18:28'560" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:18:28'861" ：外设测试结束
+2014-7-29 13:18:29'162" ：PLTesting OK
+2014-7-29 13:18:29'463" ：PL测试结束
+2014-7-29 13:18:29'765" ：CPUTesting OK
+2014-7-29 13:18:30'65" ：CPU测试结束
+2014-7-29 13:18:30'367" ：CacheTesting OK
+2014-7-29 13:18:30'668" ：Cache测试结束
+2014-7-29 13:18:30'969" ：FPUTesting OK
+2014-7-29 13:18:31'270" ：FPU测试结束
+2014-7-29 13:18:31'571" ：ALUTesting OK
+2014-7-29 13:18:31'872" ：ALU测试结束
+2014-7-29 13:18:32'173" ：MemoryTesting OK
+2014-7-29 13:18:32'474" ：Memory测试结束
+2014-7-29 13:18:32'775" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:18:33'76" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:18:33'378" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:18:33'679" ：外设测试结束
+2014-7-29 13:18:33'981" ：PLTesting OK
+2014-7-29 13:18:34'281" ：PL测试结束
+2014-7-29 13:18:34'583" ：CPUTesting OK
+2014-7-29 13:18:34'885" ：CPU测试结束
+2014-7-29 13:18:35'186" ：CacheTesting OK
+2014-7-29 13:18:35'487" ：Cache测试结束
+2014-7-29 13:18:35'789" ：FPUTesting OK
+2014-7-29 13:18:36'91" ：FPU测试结束
+2014-7-29 13:18:36'393" ：ALUTesting OK
+2014-7-29 13:18:36'693" ：ALU测试结束
+2014-7-29 13:18:36'994" ：MemoryTesting OK
+2014-7-29 13:18:37'294" ：Memory测试结束
+2014-7-29 13:18:37'596" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:18:37'897" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:18:38'198" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:18:38'499" ：外设测试结束
+2014-7-29 13:18:38'801" ：PLTesting OK
+2014-7-29 13:18:39'102" ：PL测试结束
+2014-7-29 13:18:39'450" ：CPUTesting OK
+2014-7-29 13:18:39'750" ：CPU测试结束
+2014-7-29 13:18:40'51" ：CacheTesting OK
+2014-7-29 13:18:40'352" ：Cache测试结束
+2014-7-29 13:18:40'653" ：FPUTesting OK
+2014-7-29 13:18:40'954" ：FPU测试结束
+2014-7-29 13:18:41'257" ：ALUTesting OK
+2014-7-29 13:18:41'558" ：ALU测试结束
+2014-7-29 13:18:41'860" ：MemoryTesting OK
+2014-7-29 13:18:42'160" ：Memory测试结束
+2014-7-29 13:26:16'725" ：TestStart...
+2014-7-29 13:26:17'50" ：CPUTesting OK
+2014-7-29 13:26:17'352" ：CPU测试结束
+2014-7-29 13:26:17'654" ：CacheTesting OK
+2014-7-29 13:26:17'954" ：Cache测试结束
+2014-7-29 13:26:18'256" ：FPUTesting OK
+2014-7-29 13:26:18'559" ：FPU测试结束
+2014-7-29 13:26:18'860" ：ALUTesting OK
+2014-7-29 13:26:19'161" ：ALU测试结束
+2014-7-29 13:26:19'463" ：MemoryTesting OK
+2014-7-29 13:26:19'764" ：Memory测试结束
+2014-7-29 13:26:20'70" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:26:20'371" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:26:20'672" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:26:20'973" ：外设测试结束
+2014-7-29 13:26:21'274" ：PLTesting OK
+2014-7-29 13:26:21'575" ：PL测试结束
+2014-7-29 13:26:21'882" ：CPUTesting OK
+2014-7-29 13:26:22'183" ：CPU测试结束
+2014-7-29 13:26:22'485" ：CacheTesting OK
+2014-7-29 13:26:22'785" ：Cache测试结束
+2014-7-29 13:26:23'87" ：FPUTesting OK
+2014-7-29 13:26:23'388" ：FPU测试结束
+2014-7-29 13:26:23'689" ：ALUTesting OK
+2014-7-29 13:26:23'990" ：ALU测试结束
+2014-7-29 13:26:24'292" ：MemoryTesting OK
+2014-7-29 13:26:24'600" ：Memory测试结束
+2014-7-29 13:27:5'148" ：TestStart...
+2014-7-29 13:27:5'472" ：CPUTesting OK
+2014-7-29 13:27:5'774" ：CPU测试结束
+2014-7-29 13:27:6'75" ：CacheTesting OK
+2014-7-29 13:27:6'375" ：Cache测试结束
+2014-7-29 13:27:6'677" ：FPUTesting OK
+2014-7-29 13:27:6'980" ：FPU测试结束
+2014-7-29 13:27:7'280" ：ALUTesting OK
+2014-7-29 13:27:7'582" ：ALU测试结束
+2014-7-29 13:27:7'883" ：MemoryTesting OK
+2014-7-29 13:27:8'184" ：Memory测试结束
+2014-7-29 13:27:8'485" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:27:8'787" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:27:9'88" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:27:9'389" ：外设测试结束
+2014-7-29 13:27:9'690" ：PLTesting OK
+2014-7-29 13:27:9'991" ：PL测试结束
+2014-7-29 13:27:10'293" ：CPUTesting OK
+2014-7-29 13:27:10'594" ：CPU测试结束
+2014-7-29 13:27:10'894" ：CacheTesting OK
+2014-7-29 13:27:11'199" ：Cache测试结束
+2014-7-29 13:27:11'500" ：FPUTesting OK
+2014-7-29 13:27:11'801" ：FPU测试结束
+2014-7-29 13:27:12'103" ：ALUTesting OK
+2014-7-29 13:27:12'404" ：ALU测试结束
+2014-7-29 13:27:12'705" ：MemoryTesting OK
+2014-7-29 13:27:13'6" ：Memory测试结束
+2014-7-29 13:27:13'308" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:27:13'609" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:27:13'911" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:27:14'212" ：外设测试结束
+2014-7-29 13:27:14'514" ：PLTesting OK
+2014-7-29 13:27:14'815" ：PL测试结束
+2014-7-29 13:27:15'116" ：CPUTesting OK
+2014-7-29 13:27:15'417" ：CPU测试结束
+2014-7-29 13:27:15'719" ：CacheTesting OK
+2014-7-29 13:27:16'20" ：Cache测试结束
+2014-7-29 13:27:16'321" ：FPUTesting OK
+2014-7-29 13:27:16'622" ：FPU测试结束
+2014-7-29 13:27:16'923" ：ALUTesting OK
+2014-7-29 13:27:17'223" ：ALU测试结束
+2014-7-29 13:27:17'525" ：MemoryTesting OK
+2014-7-29 13:27:17'826" ：Memory测试结束
+2014-7-29 13:27:18'127" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:27:18'428" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:27:18'730" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:27:19'31" ：外设测试结束
+2014-7-29 13:27:19'333" ：PLTesting OK
+2014-7-29 13:27:19'634" ：PL测试结束
+2014-7-29 13:27:19'950" ：CPUTesting OK
+2014-7-29 13:27:20'252" ：CPU测试结束
+2014-7-29 13:27:20'553" ：CacheTesting OK
+2014-7-29 13:27:20'853" ：Cache测试结束
+2014-7-29 13:27:21'155" ：FPUTesting OK
+2014-7-29 13:27:21'456" ：FPU测试结束
+2014-7-29 13:27:21'758" ：ALUTesting OK
+2014-7-29 13:27:22'59" ：ALU测试结束
+2014-7-29 13:27:22'361" ：MemoryTesting OK
+2014-7-29 13:27:22'661" ：Memory测试结束
+2014-7-29 13:27:22'963" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:27:23'264" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:27:23'565" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:27:23'866" ：外设测试结束
+2014-7-29 13:27:24'167" ：PLTesting OK
+2014-7-29 13:27:24'469" ：PL测试结束
+2014-7-29 13:27:24'794" ：CPUTesting OK
+2014-7-29 13:27:25'94" ：CPU测试结束
+2014-7-29 13:27:25'396" ：CacheTesting OK
+2014-7-29 13:27:25'697" ：Cache测试结束
+2014-7-29 13:27:25'998" ：FPUTesting OK
+2014-7-29 13:27:26'299" ：FPU测试结束
+2014-7-29 13:27:26'600" ：ALUTesting OK
+2014-7-29 13:27:26'901" ：ALU测试结束
+2014-7-29 13:27:27'202" ：MemoryTesting OK
+2014-7-29 13:27:27'504" ：Memory测试结束
+2014-7-29 13:27:27'805" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:27:28'106" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:27:28'407" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:27:28'708" ：外设测试结束
+2014-7-29 13:27:29'10" ：PLTesting OK
+2014-7-29 13:27:29'311" ：PL测试结束
+2014-7-29 13:27:29'614" ：CPUTesting OK
+2014-7-29 13:27:29'915" ：CPU测试结束
+2014-7-29 13:27:30'216" ：CacheTesting OK
+2014-7-29 13:27:30'517" ：Cache测试结束
+2014-7-29 13:27:30'818" ：FPUTesting OK
+2014-7-29 13:27:31'119" ：FPU测试结束
+2014-7-29 13:27:31'420" ：ALUTesting OK
+2014-7-29 13:27:31'721" ：ALU测试结束
+2014-7-29 13:27:32'22" ：MemoryTesting OK
+2014-7-29 13:27:32'323" ：Memory测试结束
+2014-7-29 13:27:32'625" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:27:32'926" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:27:33'227" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:27:33'528" ：外设测试结束
+2014-7-29 13:27:33'829" ：PLTesting OK
+2014-7-29 13:27:34'130" ：PL测试结束
+2014-7-29 13:27:34'431" ：CPUTesting OK
+2014-7-29 13:27:34'732" ：CPU测试结束
+2014-7-29 13:27:35'33" ：CacheTesting OK
+2014-7-29 13:27:35'335" ：Cache测试结束
+2014-7-29 13:27:35'636" ：FPUTesting OK
+2014-7-29 13:27:35'937" ：FPU测试结束
+2014-7-29 13:27:36'239" ：ALUTesting OK
+2014-7-29 13:27:36'540" ：ALU测试结束
+2014-7-29 13:27:36'841" ：MemoryTesting OK
+2014-7-29 13:27:37'142" ：Memory测试结束
+2014-7-29 13:27:37'445" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:27:37'746" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:27:38'47" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:27:38'348" ：外设测试结束
+2014-7-29 13:27:38'649" ：PLTesting OK
+2014-7-29 13:27:38'950" ：PL测试结束
+2014-7-29 13:27:39'253" ：CPUTesting OK
+2014-7-29 13:27:39'553" ：CPU测试结束
+2014-7-29 13:27:39'854" ：CacheTesting OK
+2014-7-29 13:27:40'155" ：Cache测试结束
+2014-7-29 13:27:40'458" ：FPUTesting OK
+2014-7-29 13:27:40'759" ：FPU测试结束
+2014-7-29 13:27:41'60" ：ALUTesting OK
+2014-7-29 13:27:41'361" ：ALU测试结束
+2014-7-29 13:27:41'662" ：MemoryTesting OK
+2014-7-29 13:27:41'963" ：Memory测试结束
+2014-7-29 13:27:42'265" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:27:42'566" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:27:42'867" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:27:43'168" ：外设测试结束
+2014-7-29 13:27:43'469" ：PLTesting OK
+2014-7-29 13:27:43'771" ：PL测试结束
+2014-7-29 13:27:44'106" ：CPUTesting OK
+2014-7-29 13:27:44'407" ：CPU测试结束
+2014-7-29 13:27:44'708" ：CacheTesting OK
+2014-7-29 13:27:45'8" ：Cache测试结束
+2014-7-29 13:27:45'309" ：FPUTesting OK
+2014-7-29 13:27:45'610" ：FPU测试结束
+2014-7-29 13:27:45'912" ：ALUTesting OK
+2014-7-29 13:27:46'213" ：ALU测试结束
+2014-7-29 13:27:46'514" ：MemoryTesting OK
+2014-7-29 13:27:46'815" ：Memory测试结束
+2014-7-29 13:27:47'116" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:27:47'417" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:27:47'719" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:27:48'20" ：外设测试结束
+2014-7-29 13:27:48'320" ：PLTesting OK
+2014-7-29 13:27:48'622" ：PL测试结束
+2014-7-29 13:27:48'923" ：CPUTesting OK
+2014-7-29 13:27:49'223" ：CPU测试结束
+2014-7-29 13:27:49'524" ：CacheTesting OK
+2014-7-29 13:27:49'825" ：Cache测试结束
+2014-7-29 13:27:50'127" ：FPUTesting OK
+2014-7-29 13:27:50'428" ：FPU测试结束
+2014-7-29 13:27:50'730" ：ALUTesting OK
+2014-7-29 13:27:51'31" ：ALU测试结束
+2014-7-29 13:27:51'333" ：MemoryTesting OK
+2014-7-29 13:27:51'634" ：Memory测试结束
+2014-7-29 13:27:51'935" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:27:52'236" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:27:52'538" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:27:52'839" ：外设测试结束
+2014-7-29 13:27:53'140" ：PLTesting OK
+2014-7-29 13:27:53'441" ：PL测试结束
+2014-7-29 13:27:53'780" ：CPUTesting OK
+2014-7-29 13:27:54'80" ：CPU测试结束
+2014-7-29 13:27:54'382" ：CacheTesting OK
+2014-7-29 13:27:54'682" ：Cache测试结束
+2014-7-29 13:27:54'983" ：FPUTesting OK
+2014-7-29 13:27:55'284" ：FPU测试结束
+2014-7-29 13:27:55'586" ：ALUTesting OK
+2014-7-29 13:27:55'886" ：ALU测试结束
+2014-7-29 13:27:56'187" ：MemoryTesting OK
+2014-7-29 13:27:56'487" ：Memory测试结束
+2014-7-29 13:27:56'788" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:27:57'89" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:27:57'391" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:27:57'692" ：外设测试结束
+2014-7-29 13:27:57'993" ：PLTesting OK
+2014-7-29 13:27:58'294" ：PL测试结束
+2014-7-29 13:27:58'642" ：CPUTesting OK
+2014-7-29 13:27:58'942" ：CPU测试结束
+2014-7-29 13:27:59'244" ：CacheTesting OK
+2014-7-29 13:27:59'545" ：Cache测试结束
+2014-7-29 13:27:59'847" ：FPUTesting OK
+2014-7-29 13:28:0'148" ：FPU测试结束
+2014-7-29 13:28:0'450" ：ALUTesting OK
+2014-7-29 13:28:0'751" ：ALU测试结束
+2014-7-29 13:28:1'53" ：MemoryTesting OK
+2014-7-29 13:28:1'354" ：Memory测试结束
+2014-7-29 13:28:1'655" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:28:1'957" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:28:2'258" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:28:2'558" ：外设测试结束
+2014-7-29 13:28:2'860" ：PLTesting OK
+2014-7-29 13:28:3'161" ：PL测试结束
+2014-7-29 13:28:3'462" ：CPUTesting OK
+2014-7-29 13:28:3'763" ：CPU测试结束
+2014-7-29 13:28:4'64" ：CacheTesting OK
+2014-7-29 13:28:4'366" ：Cache测试结束
+2014-7-29 13:28:4'666" ：FPUTesting OK
+2014-7-29 13:28:4'968" ：FPU测试结束
+2014-7-29 13:28:5'269" ：ALUTesting OK
+2014-7-29 13:28:5'571" ：ALU测试结束
+2014-7-29 13:28:5'872" ：MemoryTesting OK
+2014-7-29 13:28:6'173" ：Memory测试结束
+2014-7-29 13:28:6'474" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:28:6'775" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:28:7'76" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:28:7'378" ：外设测试结束
+2014-7-29 13:28:7'680" ：PLTesting OK
+2014-7-29 13:28:7'981" ：PL测试结束
+2014-7-29 13:28:8'282" ：CPUTesting OK
+2014-7-29 13:28:8'583" ：CPU测试结束
+2014-7-29 13:28:8'884" ：CacheTesting OK
+2014-7-29 13:28:9'185" ：Cache测试结束
+2014-7-29 13:28:9'485" ：FPUTesting OK
+2014-7-29 13:28:9'786" ：FPU测试结束
+2014-7-29 13:28:10'87" ：ALUTesting OK
+2014-7-29 13:28:10'389" ：ALU测试结束
+2014-7-29 13:28:10'690" ：MemoryTesting OK
+2014-7-29 13:28:10'992" ：Memory测试结束
+2014-7-29 13:28:11'293" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:28:11'594" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:28:11'895" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:28:12'197" ：外设测试结束
+2014-7-29 13:28:12'498" ：PLTesting OK
+2014-7-29 13:28:12'799" ：PL测试结束
+2014-7-29 13:28:13'100" ：CPUTesting OK
+2014-7-29 13:28:13'401" ：CPU测试结束
+2014-7-29 13:28:13'702" ：CacheTesting OK
+2014-7-29 13:28:14'5" ：Cache测试结束
+2014-7-29 13:28:14'306" ：FPUTesting OK
+2014-7-29 13:28:14'607" ：FPU测试结束
+2014-7-29 13:28:14'908" ：ALUTesting OK
+2014-7-29 13:28:15'209" ：ALU测试结束
+2014-7-29 13:28:15'509" ：MemoryTesting OK
+2014-7-29 13:28:15'811" ：Memory测试结束
+2014-7-29 13:28:16'112" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:28:16'413" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:28:16'714" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:28:17'15" ：外设测试结束
+2014-7-29 13:28:17'317" ：PLTesting OK
+2014-7-29 13:28:17'618" ：PL测试结束
+2014-7-29 13:28:17'978" ：CPUTesting OK
+2014-7-29 13:28:18'280" ：CPU测试结束
+2014-7-29 13:28:18'581" ：CacheTesting OK
+2014-7-29 13:28:18'881" ：Cache测试结束
+2014-7-29 13:28:19'182" ：FPUTesting OK
+2014-7-29 13:28:19'483" ：FPU测试结束
+2014-7-29 13:28:19'784" ：ALUTesting OK
+2014-7-29 13:28:20'85" ：ALU测试结束
+2014-7-29 13:28:20'386" ：MemoryTesting OK
+2014-7-29 13:28:20'687" ：Memory测试结束
+2014-7-29 13:28:20'989" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:28:21'289" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:28:21'590" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:28:21'892" ：外设测试结束
+2014-7-29 13:28:22'193" ：PLTesting OK
+2014-7-29 13:28:22'495" ：PL测试结束
+2014-7-29 13:28:22'862" ：CPUTesting OK
+2014-7-29 13:28:23'164" ：CPU测试结束
+2014-7-29 13:28:23'465" ：CacheTesting OK
+2014-7-29 13:28:23'766" ：Cache测试结束
+2014-7-29 13:28:24'67" ：FPUTesting OK
+2014-7-29 13:28:24'368" ：FPU测试结束
+2014-7-29 13:28:24'669" ：ALUTesting OK
+2014-7-29 13:28:24'969" ：ALU测试结束
+2014-7-29 13:28:25'271" ：MemoryTesting OK
+2014-7-29 13:28:25'572" ：Memory测试结束
+2014-7-29 13:28:25'873" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:28:26'174" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:28:26'474" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:28:26'776" ：外设测试结束
+2014-7-29 13:28:27'76" ：PLTesting OK
+2014-7-29 13:28:27'377" ：PL测试结束
+2014-7-29 13:28:27'744" ：CPUTesting OK
+2014-7-29 13:28:28'44" ：CPU测试结束
+2014-7-29 13:28:28'347" ：CacheTesting OK
+2014-7-29 13:28:28'648" ：Cache测试结束
+2014-7-29 13:28:28'949" ：FPUTesting OK
+2014-7-29 13:28:29'250" ：FPU测试结束
+2014-7-29 13:28:29'552" ：ALUTesting OK
+2014-7-29 13:28:29'854" ：ALU测试结束
+2014-7-29 13:28:30'156" ：MemoryTesting OK
+2014-7-29 13:28:30'459" ：Memory测试结束
+2014-7-29 13:28:30'761" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:28:31'61" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:28:31'362" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:28:31'663" ：外设测试结束
+2014-7-29 13:28:31'964" ：PLTesting OK
+2014-7-29 13:28:32'265" ：PL测试结束
+2014-7-29 13:28:32'566" ：CPUTesting OK
+2014-7-29 13:28:32'868" ：CPU测试结束
+2014-7-29 13:28:33'169" ：CacheTesting OK
+2014-7-29 13:28:33'470" ：Cache测试结束
+2014-7-29 13:28:33'772" ：FPUTesting OK
+2014-7-29 13:28:34'73" ：FPU测试结束
+2014-7-29 13:28:34'373" ：ALUTesting OK
+2014-7-29 13:28:34'674" ：ALU测试结束
+2014-7-29 13:28:34'975" ：MemoryTesting OK
+2014-7-29 13:28:35'276" ：Memory测试结束
+2014-7-29 13:28:35'577" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:28:35'878" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:28:36'179" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:28:36'480" ：外设测试结束
+2014-7-29 13:28:36'782" ：PLTesting OK
+2014-7-29 13:28:37'83" ：PL测试结束
+2014-7-29 13:28:37'451" ：CPUTesting OK
+2014-7-29 13:28:37'752" ：CPU测试结束
+2014-7-29 13:28:38'53" ：CacheTesting OK
+2014-7-29 13:28:38'354" ：Cache测试结束
+2014-7-29 13:28:38'655" ：FPUTesting OK
+2014-7-29 13:28:38'956" ：FPU测试结束
+2014-7-29 13:28:39'257" ：ALUTesting OK
+2014-7-29 13:28:39'558" ：ALU测试结束
+2014-7-29 13:28:39'859" ：MemoryTesting OK
+2014-7-29 13:28:40'161" ：Memory测试结束
+2014-7-29 13:28:40'462" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:28:40'763" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:28:41'64" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:28:41'366" ：外设测试结束
+2014-7-29 13:28:41'667" ：PLTesting OK
+2014-7-29 13:28:41'968" ：PL测试结束
+2014-7-29 13:28:42'318" ：CPUTesting OK
+2014-7-29 13:28:42'619" ：CPU测试结束
+2014-7-29 13:28:42'920" ：CacheTesting OK
+2014-7-29 13:28:43'221" ：Cache测试结束
+2014-7-29 13:28:43'523" ：FPUTesting OK
+2014-7-29 13:28:43'824" ：FPU测试结束
+2014-7-29 13:28:44'125" ：ALUTesting OK
+2014-7-29 13:28:44'426" ：ALU测试结束
+2014-7-29 13:28:44'727" ：MemoryTesting OK
+2014-7-29 13:28:45'29" ：Memory测试结束
+2014-7-29 13:28:45'330" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:28:45'631" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:28:45'932" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:28:46'234" ：外设测试结束
+2014-7-29 13:28:46'537" ：PLTesting OK
+2014-7-29 13:28:46'838" ：PL测试结束
+2014-7-29 13:28:47'226" ：CPUTesting OK
+2014-7-29 13:28:47'527" ：CPU测试结束
+2014-7-29 13:28:47'828" ：CacheTesting OK
+2014-7-29 13:28:48'130" ：Cache测试结束
+2014-7-29 13:28:48'431" ：FPUTesting OK
+2014-7-29 13:28:48'732" ：FPU测试结束
+2014-7-29 13:28:49'33" ：ALUTesting OK
+2014-7-29 13:28:49'335" ：ALU测试结束
+2014-7-29 13:28:49'636" ：MemoryTesting OK
+2014-7-29 13:28:49'937" ：Memory测试结束
+2014-7-29 13:28:50'239" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:28:50'539" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:28:50'841" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:28:51'142" ：外设测试结束
+2014-7-29 13:28:51'443" ：PLTesting OK
+2014-7-29 13:28:51'744" ：PL测试结束
+2014-7-29 13:28:52'115" ：CPUTesting OK
+2014-7-29 13:28:52'416" ：CPU测试结束
+2014-7-29 13:28:52'717" ：CacheTesting OK
+2014-7-29 13:28:53'19" ：Cache测试结束
+2014-7-29 13:28:53'320" ：FPUTesting OK
+2014-7-29 13:28:53'621" ：FPU测试结束
+2014-7-29 13:28:53'922" ：ALUTesting OK
+2014-7-29 13:28:54'223" ：ALU测试结束
+2014-7-29 13:28:54'524" ：MemoryTesting OK
+2014-7-29 13:28:54'825" ：Memory测试结束
+2014-7-29 13:28:55'127" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:28:55'428" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:28:55'730" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:28:56'30" ：外设测试结束
+2014-7-29 13:28:56'331" ：PLTesting OK
+2014-7-29 13:28:56'634" ：PL测试结束
+2014-7-29 13:28:57'6" ：CPUTesting OK
+2014-7-29 13:28:57'306" ：CPU测试结束
+2014-7-29 13:28:57'615" ：CacheTesting OK
+2014-7-29 13:28:57'917" ：Cache测试结束
+2014-7-29 13:28:58'218" ：FPUTesting OK
+2014-7-29 13:28:58'519" ：FPU测试结束
+2014-7-29 13:28:58'820" ：ALUTesting OK
+2014-7-29 13:28:59'120" ：ALU测试结束
+2014-7-29 13:28:59'422" ：MemoryTesting OK
+2014-7-29 13:28:59'723" ：Memory测试结束
+2014-7-29 13:29:0'24" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:29:0'325" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:29:0'626" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:29:0'929" ：外设测试结束
+2014-7-29 13:29:1'230" ：PLTesting OK
+2014-7-29 13:29:1'531" ：PL测试结束
+2014-7-29 13:29:1'833" ：CPUTesting OK
+2014-7-29 13:29:2'134" ：CPU测试结束
+2014-7-29 13:29:2'436" ：CacheTesting OK
+2014-7-29 13:29:2'737" ：Cache测试结束
+2014-7-29 13:29:3'39" ：FPUTesting OK
+2014-7-29 13:29:3'340" ：FPU测试结束
+2014-7-29 13:29:3'642" ：ALUTesting OK
+2014-7-29 13:29:3'943" ：ALU测试结束
+2014-7-29 13:29:4'244" ：MemoryTesting OK
+2014-7-29 13:29:4'545" ：Memory测试结束
+2014-7-29 13:29:4'847" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:29:5'148" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:29:5'449" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:29:5'751" ：外设测试结束
+2014-7-29 13:29:6'52" ：PLTesting OK
+2014-7-29 13:29:6'353" ：PL测试结束
+2014-7-29 13:29:6'655" ：CPUTesting OK
+2014-7-29 13:29:6'956" ：CPU测试结束
+2014-7-29 13:29:7'257" ：CacheTesting OK
+2014-7-29 13:29:7'558" ：Cache测试结束
+2014-7-29 13:29:7'860" ：FPUTesting OK
+2014-7-29 13:29:8'160" ：FPU测试结束
+2014-7-29 13:29:8'461" ：ALUTesting OK
+2014-7-29 13:29:8'762" ：ALU测试结束
+2014-7-29 13:29:9'64" ：MemoryTesting OK
+2014-7-29 13:29:9'366" ：Memory测试结束
+2014-7-29 13:29:9'667" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:29:9'968" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:29:10'271" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:29:10'572" ：外设测试结束
+2014-7-29 13:29:10'873" ：PLTesting OK
+2014-7-29 13:29:11'173" ：PL测试结束
+2014-7-29 13:29:11'475" ：CPUTesting OK
+2014-7-29 13:29:11'776" ：CPU测试结束
+2014-7-29 13:29:12'77" ：CacheTesting OK
+2014-7-29 13:29:12'378" ：Cache测试结束
+2014-7-29 13:29:12'680" ：FPUTesting OK
+2014-7-29 13:29:12'981" ：FPU测试结束
+2014-7-29 13:29:13'283" ：ALUTesting OK
+2014-7-29 13:29:13'584" ：ALU测试结束
+2014-7-29 13:29:13'886" ：MemoryTesting OK
+2014-7-29 13:29:14'186" ：Memory测试结束
+2014-7-29 13:29:14'488" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:29:14'789" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:29:15'91" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:29:15'392" ：外设测试结束
+2014-7-29 13:29:15'694" ：PLTesting OK
+2014-7-29 13:29:15'995" ：PL测试结束
+2014-7-29 13:29:16'296" ：CPUTesting OK
+2014-7-29 13:29:16'598" ：CPU测试结束
+2014-7-29 13:29:16'899" ：CacheTesting OK
+2014-7-29 13:29:17'200" ：Cache测试结束
+2014-7-29 13:29:17'501" ：FPUTesting OK
+2014-7-29 13:29:17'802" ：FPU测试结束
+2014-7-29 13:29:18'103" ：ALUTesting OK
+2014-7-29 13:29:18'405" ：ALU测试结束
+2014-7-29 13:29:18'705" ：MemoryTesting OK
+2014-7-29 13:29:19'6" ：Memory测试结束
+2014-7-29 13:29:19'307" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:29:19'608" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:29:19'909" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:29:20'210" ：外设测试结束
+2014-7-29 13:29:20'511" ：PLTesting OK
+2014-7-29 13:29:20'812" ：PL测试结束
+2014-7-29 13:29:21'198" ：CPUTesting OK
+2014-7-29 13:29:21'498" ：CPU测试结束
+2014-7-29 13:29:21'799" ：CacheTesting OK
+2014-7-29 13:29:22'100" ：Cache测试结束
+2014-7-29 13:29:22'401" ：FPUTesting OK
+2014-7-29 13:29:22'703" ：FPU测试结束
+2014-7-29 13:29:23'3" ：ALUTesting OK
+2014-7-29 13:29:23'304" ：ALU测试结束
+2014-7-29 13:29:23'605" ：MemoryTesting OK
+2014-7-29 13:29:23'906" ：Memory测试结束
+2014-7-29 13:29:24'207" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:29:24'509" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:29:24'810" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:29:25'111" ：外设测试结束
+2014-7-29 13:29:25'412" ：PLTesting OK
+2014-7-29 13:29:25'713" ：PL测试结束
+2014-7-29 13:29:26'15" ：CPUTesting OK
+2014-7-29 13:29:26'316" ：CPU测试结束
+2014-7-29 13:29:26'618" ：CacheTesting OK
+2014-7-29 13:29:26'919" ：Cache测试结束
+2014-7-29 13:29:27'221" ：FPUTesting OK
+2014-7-29 13:29:27'521" ：FPU测试结束
+2014-7-29 13:29:27'822" ：ALUTesting OK
+2014-7-29 13:29:28'124" ：ALU测试结束
+2014-7-29 13:29:28'425" ：MemoryTesting OK
+2014-7-29 13:29:28'726" ：Memory测试结束
+2014-7-29 13:29:29'27" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:29:29'328" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:29:29'628" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:29:29'930" ：外设测试结束
+2014-7-29 13:29:30'231" ：PLTesting OK
+2014-7-29 13:29:30'532" ：PL测试结束
+2014-7-29 13:29:30'833" ：CPUTesting OK
+2014-7-29 13:29:31'135" ：CPU测试结束
+2014-7-29 13:29:31'436" ：CacheTesting OK
+2014-7-29 13:29:31'737" ：Cache测试结束
+2014-7-29 13:29:32'38" ：FPUTesting OK
+2014-7-29 13:29:32'339" ：FPU测试结束
+2014-7-29 13:29:32'640" ：ALUTesting OK
+2014-7-29 13:29:32'942" ：ALU测试结束
+2014-7-29 13:29:33'243" ：MemoryTesting OK
+2014-7-29 13:29:33'544" ：Memory测试结束
+2014-7-29 13:29:33'845" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:29:34'146" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:29:34'449" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:29:34'750" ：外设测试结束
+2014-7-29 13:29:35'51" ：PLTesting OK
+2014-7-29 13:29:35'352" ：PL测试结束
+2014-7-29 13:29:35'750" ：CPUTesting OK
+2014-7-29 13:29:36'51" ：CPU测试结束
+2014-7-29 13:29:36'353" ：CacheTesting OK
+2014-7-29 13:29:36'654" ：Cache测试结束
+2014-7-29 13:29:36'955" ：FPUTesting OK
+2014-7-29 13:29:37'255" ：FPU测试结束
+2014-7-29 13:29:37'570" ：ALUTesting OK
+2014-7-29 13:29:37'871" ：ALU测试结束
+2014-7-29 13:29:38'172" ：MemoryTesting OK
+2014-7-29 13:29:38'473" ：Memory测试结束
+2014-7-29 13:29:38'774" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:29:39'75" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:29:39'377" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:29:39'677" ：外设测试结束
+2014-7-29 13:29:39'978" ：PLTesting OK
+2014-7-29 13:29:40'280" ：PL测试结束
+2014-7-29 13:29:40'581" ：CPUTesting OK
+2014-7-29 13:29:40'883" ：CPU测试结束
+2014-7-29 13:29:41'184" ：CacheTesting OK
+2014-7-29 13:29:41'485" ：Cache测试结束
+2014-7-29 13:29:41'786" ：FPUTesting OK
+2014-7-29 13:29:42'87" ：FPU测试结束
+2014-7-29 13:29:42'388" ：ALUTesting OK
+2014-7-29 13:29:42'690" ：ALU测试结束
+2014-7-29 13:29:42'991" ：MemoryTesting OK
+2014-7-29 13:29:43'292" ：Memory测试结束
+2014-7-29 13:29:43'593" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:29:43'894" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:29:44'195" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:29:44'496" ：外设测试结束
+2014-7-29 13:29:44'797" ：PLTesting OK
+2014-7-29 13:29:45'99" ：PL测试结束
+2014-7-29 13:29:45'508" ：CPUTesting OK
+2014-7-29 13:29:45'810" ：CPU测试结束
+2014-7-29 13:29:46'111" ：CacheTesting OK
+2014-7-29 13:29:46'412" ：Cache测试结束
+2014-7-29 13:29:46'713" ：FPUTesting OK
+2014-7-29 13:29:47'14" ：FPU测试结束
+2014-7-29 13:29:47'315" ：ALUTesting OK
+2014-7-29 13:29:47'617" ：ALU测试结束
+2014-7-29 13:29:47'918" ：MemoryTesting OK
+2014-7-29 13:29:48'219" ：Memory测试结束
+2014-7-29 13:29:48'520" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:29:48'822" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:29:49'122" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:29:49'423" ：外设测试结束
+2014-7-29 13:29:49'725" ：PLTesting OK
+2014-7-29 13:29:50'26" ：PL测试结束
+2014-7-29 13:29:50'328" ：CPUTesting OK
+2014-7-29 13:29:50'629" ：CPU测试结束
+2014-7-29 13:29:50'929" ：CacheTesting OK
+2014-7-29 13:29:51'231" ：Cache测试结束
+2014-7-29 13:29:51'531" ：FPUTesting OK
+2014-7-29 13:29:51'834" ：FPU测试结束
+2014-7-29 13:29:52'135" ：ALUTesting OK
+2014-7-29 13:29:52'435" ：ALU测试结束
+2014-7-29 13:29:52'736" ：MemoryTesting OK
+2014-7-29 13:29:53'38" ：Memory测试结束
+2014-7-29 13:29:53'339" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:29:53'639" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:29:53'941" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:29:54'243" ：外设测试结束
+2014-7-29 13:29:54'544" ：PLTesting OK
+2014-7-29 13:29:54'844" ：PL测试结束
+2014-7-29 13:29:55'146" ：CPUTesting OK
+2014-7-29 13:29:55'448" ：CPU测试结束
+2014-7-29 13:29:55'749" ：CacheTesting OK
+2014-7-29 13:29:56'51" ：Cache测试结束
+2014-7-29 13:29:56'352" ：FPUTesting OK
+2014-7-29 13:29:56'653" ：FPU测试结束
+2014-7-29 13:29:56'954" ：ALUTesting OK
+2014-7-29 13:29:57'255" ：ALU测试结束
+2014-7-29 13:29:57'558" ：MemoryTesting OK
+2014-7-29 13:29:57'859" ：Memory测试结束
+2014-7-29 13:29:58'161" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:29:58'462" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:29:58'762" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:29:59'64" ：外设测试结束
+2014-7-29 13:29:59'365" ：PLTesting OK
+2014-7-29 13:29:59'665" ：PL测试结束
+2014-7-29 13:30:0'69" ：CPUTesting OK
+2014-7-29 13:30:0'370" ：CPU测试结束
+2014-7-29 13:30:0'672" ：CacheTesting OK
+2014-7-29 13:30:0'974" ：Cache测试结束
+2014-7-29 13:30:1'275" ：FPUTesting OK
+2014-7-29 13:30:1'575" ：FPU测试结束
+2014-7-29 13:30:1'877" ：ALUTesting OK
+2014-7-29 13:30:2'179" ：ALU测试结束
+2014-7-29 13:30:2'479" ：MemoryTesting OK
+2014-7-29 13:30:2'781" ：Memory测试结束
+2014-7-29 13:30:3'82" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:30:3'383" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:30:3'690" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:30:3'991" ：外设测试结束
+2014-7-29 13:30:4'293" ：PLTesting OK
+2014-7-29 13:30:4'593" ：PL测试结束
+2014-7-29 13:30:4'895" ：CPUTesting OK
+2014-7-29 13:30:5'196" ：CPU测试结束
+2014-7-29 13:30:5'497" ：CacheTesting OK
+2014-7-29 13:30:5'799" ：Cache测试结束
+2014-7-29 13:30:6'100" ：FPUTesting OK
+2014-7-29 13:30:6'401" ：FPU测试结束
+2014-7-29 13:30:6'703" ：ALUTesting OK
+2014-7-29 13:30:7'4" ：ALU测试结束
+2014-7-29 13:30:7'305" ：MemoryTesting OK
+2014-7-29 13:30:7'606" ：Memory测试结束
+2014-7-29 13:30:7'907" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:30:8'208" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:30:8'509" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:30:8'810" ：外设测试结束
+2014-7-29 13:30:9'111" ：PLTesting OK
+2014-7-29 13:30:9'413" ：PL测试结束
+2014-7-29 13:30:9'824" ：CPUTesting OK
+2014-7-29 13:30:10'124" ：CPU测试结束
+2014-7-29 13:30:10'426" ：CacheTesting OK
+2014-7-29 13:30:10'727" ：Cache测试结束
+2014-7-29 13:30:11'28" ：FPUTesting OK
+2014-7-29 13:30:11'329" ：FPU测试结束
+2014-7-29 13:30:11'631" ：ALUTesting OK
+2014-7-29 13:30:11'932" ：ALU测试结束
+2014-7-29 13:30:12'233" ：MemoryTesting OK
+2014-7-29 13:30:12'534" ：Memory测试结束
+2014-7-29 13:30:12'836" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:30:13'137" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:30:13'438" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:30:13'739" ：外设测试结束
+2014-7-29 13:30:14'40" ：PLTesting OK
+2014-7-29 13:30:14'341" ：PL测试结束
+2014-7-29 13:33:52'59" ：TestStart...
+2014-7-29 13:33:52'381" ：CPUTesting OK
+2014-7-29 13:33:52'683" ：CPU测试结束
+2014-7-29 13:33:52'984" ：CacheTesting OK
+2014-7-29 13:33:53'285" ：Cache测试结束
+2014-7-29 13:33:53'586" ：FPUTesting OK
+2014-7-29 13:33:53'887" ：FPU测试结束
+2014-7-29 13:33:54'189" ：ALUTesting OK
+2014-7-29 13:33:54'490" ：ALU测试结束
+2014-7-29 13:33:54'792" ：MemoryTesting OK
+2014-7-29 13:33:55'93" ：Memory测试结束
+2014-7-29 13:33:55'397" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:33:55'699" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:33:56'1" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:33:56'302" ：外设测试结束
+2014-7-29 13:33:56'603" ：PLTesting OK
+2014-7-29 13:33:56'904" ：PL测试结束
+2014-7-29 13:33:57'209" ：CPUTesting OK
+2014-7-29 13:33:57'510" ：CPU测试结束
+2014-7-29 13:33:57'811" ：CacheTesting OK
+2014-7-29 13:33:58'112" ：Cache测试结束
+2014-7-29 13:33:58'414" ：FPUTesting OK
+2014-7-29 13:33:58'715" ：FPU测试结束
+2014-7-29 13:33:59'16" ：ALUTesting OK
+2014-7-29 13:33:59'317" ：ALU测试结束
+2014-7-29 13:33:59'618" ：MemoryTesting OK
+2014-7-29 13:33:59'919" ：Memory测试结束
+2014-7-29 13:34:0'220" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:34:0'521" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:34:0'822" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:34:1'123" ：外设测试结束
+2014-7-29 13:34:1'425" ：PLTesting OK
+2014-7-29 13:34:1'726" ：PL测试结束
+2014-7-29 13:34:2'27" ：CPUTesting OK
+2014-7-29 13:34:2'327" ：CPU测试结束
+2014-7-29 13:34:2'629" ：CacheTesting OK
+2014-7-29 13:34:2'930" ：Cache测试结束
+2014-7-29 13:34:3'230" ：FPUTesting OK
+2014-7-29 13:34:3'532" ：FPU测试结束
+2014-7-29 13:34:3'834" ：ALUTesting OK
+2014-7-29 13:34:4'135" ：ALU测试结束
+2014-7-29 13:34:4'436" ：MemoryTesting OK
+2014-7-29 13:34:4'737" ：Memory测试结束
+2014-7-29 13:34:5'38" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:34:5'339" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:34:5'640" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:34:5'941" ：外设测试结束
+2014-7-29 13:34:6'242" ：PLTesting OK
+2014-7-29 13:34:6'543" ：PL测试结束
+2014-7-29 13:34:6'845" ：CPUTesting OK
+2014-7-29 13:34:7'146" ：CPU测试结束
+2014-7-29 13:34:7'448" ：CacheTesting OK
+2014-7-29 13:34:7'748" ：Cache测试结束
+2014-7-29 13:34:8'49" ：FPUTesting OK
+2014-7-29 13:34:8'350" ：FPU测试结束
+2014-7-29 13:34:8'651" ：ALUTesting OK
+2014-7-29 13:34:8'952" ：ALU测试结束
+2014-7-29 13:34:9'253" ：MemoryTesting OK
+2014-7-29 13:34:9'555" ：Memory测试结束
+2014-7-29 13:34:9'856" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:34:10'159" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:34:10'460" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:34:10'761" ：外设测试结束
+2014-7-29 13:34:11'62" ：PLTesting OK
+2014-7-29 13:34:11'363" ：PL测试结束
+2014-7-29 13:34:11'664" ：CPUTesting OK
+2014-7-29 13:34:11'965" ：CPU测试结束
+2014-7-29 13:34:12'266" ：CacheTesting OK
+2014-7-29 13:34:12'567" ：Cache测试结束
+2014-7-29 13:34:12'868" ：FPUTesting OK
+2014-7-29 13:34:13'170" ：FPU测试结束
+2014-7-29 13:34:13'472" ：ALUTesting OK
+2014-7-29 13:34:13'773" ：ALU测试结束
+2014-7-29 13:34:14'74" ：MemoryTesting OK
+2014-7-29 13:34:14'375" ：Memory测试结束
+2014-7-29 13:34:14'676" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:34:14'978" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:34:15'279" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:34:15'580" ：外设测试结束
+2014-7-29 13:34:15'881" ：PLTesting OK
+2014-7-29 13:34:16'182" ：PL测试结束
+2014-7-29 13:34:16'484" ：CPUTesting OK
+2014-7-29 13:34:16'785" ：CPU测试结束
+2014-7-29 13:34:17'86" ：CacheTesting OK
+2014-7-29 13:34:17'387" ：Cache测试结束
+2014-7-29 13:34:17'688" ：FPUTesting OK
+2014-7-29 13:34:17'988" ：FPU测试结束
+2014-7-29 13:34:18'289" ：ALUTesting OK
+2014-7-29 13:34:18'590" ：ALU测试结束
+2014-7-29 13:34:18'891" ：MemoryTesting OK
+2014-7-29 13:34:19'192" ：Memory测试结束
+2014-7-29 13:34:19'493" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:34:19'793" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:34:20'95" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:34:20'395" ：外设测试结束
+2014-7-29 13:34:20'697" ：PLTesting OK
+2014-7-29 13:34:20'998" ：PL测试结束
+2014-7-29 13:34:21'338" ：CPUTesting OK
+2014-7-29 13:34:21'639" ：CPU测试结束
+2014-7-29 13:34:21'940" ：CacheTesting OK
+2014-7-29 13:34:22'241" ：Cache测试结束
+2014-7-29 13:34:22'542" ：FPUTesting OK
+2014-7-29 13:34:22'843" ：FPU测试结束
+2014-7-29 13:34:23'144" ：ALUTesting OK
+2014-7-29 13:34:23'445" ：ALU测试结束
+2014-7-29 13:34:23'746" ：MemoryTesting OK
+2014-7-29 13:34:24'48" ：Memory测试结束
+2014-7-29 13:34:24'350" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:34:24'651" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:34:24'953" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:34:25'253" ：外设测试结束
+2014-7-29 13:34:25'554" ：PLTesting OK
+2014-7-29 13:34:25'855" ：PL测试结束
+2014-7-29 13:34:26'156" ：CPUTesting OK
+2014-7-29 13:34:26'457" ：CPU测试结束
+2014-7-29 13:34:26'758" ：CacheTesting OK
+2014-7-29 13:34:27'59" ：Cache测试结束
+2014-7-29 13:34:27'360" ：FPUTesting OK
+2014-7-29 13:34:27'660" ：FPU测试结束
+2014-7-29 13:34:27'962" ：ALUTesting OK
+2014-7-29 13:34:28'262" ：ALU测试结束
+2014-7-29 13:34:28'564" ：MemoryTesting OK
+2014-7-29 13:34:28'866" ：Memory测试结束
+2014-7-29 13:34:29'167" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:34:29'468" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:34:29'769" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:34:30'70" ：外设测试结束
+2014-7-29 13:34:30'371" ：PLTesting OK
+2014-7-29 13:34:30'673" ：PL测试结束
+2014-7-29 13:34:30'974" ：CPUTesting OK
+2014-7-29 13:34:31'275" ：CPU测试结束
+2014-7-29 13:34:31'576" ：CacheTesting OK
+2014-7-29 13:34:31'877" ：Cache测试结束
+2014-7-29 13:34:32'178" ：FPUTesting OK
+2014-7-29 13:34:32'479" ：FPU测试结束
+2014-7-29 13:34:32'780" ：ALUTesting OK
+2014-7-29 13:34:33'81" ：ALU测试结束
+2014-7-29 13:34:33'382" ：MemoryTesting OK
+2014-7-29 13:34:33'683" ：Memory测试结束
+2014-7-29 13:34:33'984" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:34:34'285" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:34:34'586" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:34:34'887" ：外设测试结束
+2014-7-29 13:34:35'188" ：PLTesting OK
+2014-7-29 13:34:35'489" ：PL测试结束
+2014-7-29 13:34:35'794" ：CPUTesting OK
+2014-7-29 13:34:36'95" ：CPU测试结束
+2014-7-29 13:34:36'396" ：CacheTesting OK
+2014-7-29 13:34:36'698" ：Cache测试结束
+2014-7-29 13:34:36'999" ：FPUTesting OK
+2014-7-29 13:34:37'300" ：FPU测试结束
+2014-7-29 13:34:37'602" ：ALUTesting OK
+2014-7-29 13:34:37'903" ：ALU测试结束
+2014-7-29 13:34:38'204" ：MemoryTesting OK
+2014-7-29 13:34:38'505" ：Memory测试结束
+2014-7-29 13:34:38'806" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:34:39'108" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:34:39'409" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:34:39'710" ：外设测试结束
+2014-7-29 13:34:40'11" ：PLTesting OK
+2014-7-29 13:34:40'312" ：PL测试结束
+2014-7-29 13:34:40'627" ：CPUTesting OK
+2014-7-29 13:34:40'928" ：CPU测试结束
+2014-7-29 13:34:41'229" ：CacheTesting OK
+2014-7-29 13:34:41'530" ：Cache测试结束
+2014-7-29 13:34:41'832" ：FPUTesting OK
+2014-7-29 13:34:42'132" ：FPU测试结束
+2014-7-29 13:34:42'433" ：ALUTesting OK
+2014-7-29 13:34:42'734" ：ALU测试结束
+2014-7-29 13:34:43'36" ：MemoryTesting OK
+2014-7-29 13:34:43'336" ：Memory测试结束
+2014-7-29 13:34:43'637" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:34:43'938" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:34:44'239" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:34:44'540" ：外设测试结束
+2014-7-29 13:34:44'841" ：PLTesting OK
+2014-7-29 13:34:45'142" ：PL测试结束
+2014-7-29 13:34:45'444" ：CPUTesting OK
+2014-7-29 13:34:45'745" ：CPU测试结束
+2014-7-29 13:34:46'46" ：CacheTesting OK
+2014-7-29 13:34:46'347" ：Cache测试结束
+2014-7-29 13:34:46'649" ：FPUTesting OK
+2014-7-29 13:34:46'950" ：FPU测试结束
+2014-7-29 13:34:47'251" ：ALUTesting OK
+2014-7-29 13:34:47'553" ：ALU测试结束
+2014-7-29 13:34:47'853" ：MemoryTesting OK
+2014-7-29 13:34:48'154" ：Memory测试结束
+2014-7-29 13:34:48'455" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:34:48'756" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:34:49'58" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:34:49'359" ：外设测试结束
+2014-7-29 13:34:49'661" ：PLTesting OK
+2014-7-29 13:34:49'961" ：PL测试结束
+2014-7-29 13:34:50'262" ：CPUTesting OK
+2014-7-29 13:34:50'563" ：CPU测试结束
+2014-7-29 13:34:50'865" ：CacheTesting OK
+2014-7-29 13:34:51'166" ：Cache测试结束
+2014-7-29 13:34:51'467" ：FPUTesting OK
+2014-7-29 13:34:51'768" ：FPU测试结束
+2014-7-29 13:34:52'69" ：ALUTesting OK
+2014-7-29 13:34:52'370" ：ALU测试结束
+2014-7-29 13:34:52'672" ：MemoryTesting OK
+2014-7-29 13:34:52'973" ：Memory测试结束
+2014-7-29 13:34:53'274" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:34:53'575" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:34:53'875" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:34:54'176" ：外设测试结束
+2014-7-29 13:34:54'478" ：PLTesting OK
+2014-7-29 13:34:54'778" ：PL测试结束
+2014-7-29 13:34:55'81" ：CPUTesting OK
+2014-7-29 13:34:55'382" ：CPU测试结束
+2014-7-29 13:34:55'683" ：CacheTesting OK
+2014-7-29 13:34:55'983" ：Cache测试结束
+2014-7-29 13:34:56'286" ：FPUTesting OK
+2014-7-29 13:34:56'587" ：FPU测试结束
+2014-7-29 13:34:56'888" ：ALUTesting OK
+2014-7-29 13:34:57'188" ：ALU测试结束
+2014-7-29 13:34:57'490" ：MemoryTesting OK
+2014-7-29 13:34:57'791" ：Memory测试结束
+2014-7-29 13:34:58'91" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:34:58'393" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:34:58'693" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:34:58'995" ：外设测试结束
+2014-7-29 13:34:59'297" ：PLTesting OK
+2014-7-29 13:34:59'597" ：PL测试结束
+2014-7-29 13:34:59'898" ：CPUTesting OK
+2014-7-29 13:35:0'199" ：CPU测试结束
+2014-7-29 13:35:0'500" ：CacheTesting OK
+2014-7-29 13:35:0'801" ：Cache测试结束
+2014-7-29 13:35:1'102" ：FPUTesting OK
+2014-7-29 13:35:1'403" ：FPU测试结束
+2014-7-29 13:35:1'705" ：ALUTesting OK
+2014-7-29 13:35:2'70" ：ALU测试结束
+2014-7-29 13:35:2'371" ：MemoryTesting OK
+2014-7-29 13:35:2'671" ：Memory测试结束
+2014-7-29 13:35:2'973" ：PeripheralTesting 设备类型:GIC OK
+2014-7-29 13:35:3'273" ：PeripheralTesting 设备类型:DMA OK
+2014-7-29 13:35:3'574" ：PeripheralTesting 设备类型:QSPI OK
+2014-7-29 13:35:3'875" ：外设测试结束
+2014-7-29 13:35:4'175" ：PLTesting OK
+2014-7-29 13:35:4'476" ：PL测试结束
+2014-7-29 13:35:4'812" ：CPUTesting OK
+2014-7-29 13:35:5'113" ：CPU测试结束
+2014-7-29 13:35:5'414" ：CacheTesting OK
+2014-7-29 13:35:5'736" ：Cache测试结束
